@@ -1,0 +1,175 @@
+[
+  {
+    artist: Brock Berrigan
+    title: So In Love
+    isrc: USLZJ1632644
+    rg: {
+      gain: -9.32
+      peak: 0.948551
+      range: 3.65
+    }
+  }
+  {
+    artist: Mono:Massive
+    title: Somewhat
+    isrc: USLZJ1632611
+    rg: {
+      gain: -6.54
+      peak: 1.066143
+      range: 1.29
+    }
+  }
+  {
+    artist: Mo Anando
+    title: In Bloom
+    isrc: USLZJ1632612
+    rg: {
+      gain: -8.58
+      peak: 0.997903
+      range: 12.35
+    }
+  }
+  {
+    artist: Ao Logics
+    title: Cat N Johnny
+    isrc: USLZJ1632613
+    rg: {
+      gain: -10.12
+      peak: 1.103852
+      range: 11.84
+    }
+  }
+  {
+    artist: Guggenz
+    title: This Love I've Met
+    isrc: USLZJ1632614
+    rg: {
+      gain: -11.34
+      peak: 1.217320
+      range: 6.43
+    }
+  }
+  {
+    artist: L'Indécis
+    title: Staying There
+    isrc: USLZJ1632615
+    rg: {
+      gain: -8.33
+      peak: 0.993679
+      range: 8.11
+    }
+  }
+  {
+    artist: Handbook
+    title: Come Close
+    isrc: USLZJ1632616
+    rg: {
+      gain: -9.80
+      peak: 0.993455
+      range: 4.24
+    }
+  }
+  {
+    artist: GlobulDub
+    title: Foreign Exchange
+    isrc: USLZJ1632617
+    rg: {
+      gain: -9.89
+      peak: 0.986884
+      range: 3.60
+    }
+  }
+  {
+    artist: Birocratic
+    title: Castles In My Cup
+    isrc: USLZJ1632618
+    rg: {
+      gain: -9.73
+      peak: 0.990825
+      range: 11.87
+    }
+  }
+  {
+    artist: GYVUS
+    title: Tôzen
+    isrc: USLZJ1632619
+    rg: {
+      gain: -7.20
+      peak: 1.015367
+      range: 7.16
+    }
+  }
+  {
+    artist: P.R
+    title: Lavender
+    isrc: USLZJ1632620
+    rg: {
+      gain: -8.40
+      peak: 0.989403
+      range: 5.26
+    }
+  }
+  {
+    artist: Soulchef
+    title: Springtime
+    isrc: USLZJ1632621
+    rg: {
+      gain: -8.31
+      peak: 1.075449
+      range: 5.57
+    }
+  }
+  {
+    artist: [
+      A June
+      J Beat
+    ]
+    title: Saturday Night Movies
+    isrc: USLZJ1632622
+    rg: {
+      gain: -10.11
+      peak: 1.060801
+      range: 1.82
+    }
+  }
+  {
+    artist: FloFilz
+    title: Quintal
+    isrc: USLZJ1632623
+    rg: {
+      gain: -9.12
+      peak: 1.001612
+      range: 7.41
+    }
+  }
+  {
+    artist: Gorila
+    title: Dus
+    isrc: USLZJ1632624
+    rg: {
+      gain: -6.94
+      peak: 1.030386
+      range: 13.77
+    }
+  }
+  {
+    artist: Dephrase
+    title: Songs I Never Wrote
+    isrc: USLZJ1632625
+    rg: {
+      gain: -7.15
+      peak: 1.082707
+      range: 12.30
+    }
+  }
+  {
+    artist: Aso
+    title: Coolin Out
+    isrc: USLZJ1632626
+    rg: {
+      gain: -7.16
+      peak: 1.064159
+      range: 5.66
+    }
+  }
+]

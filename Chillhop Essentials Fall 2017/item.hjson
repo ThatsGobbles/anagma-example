@@ -1,0 +1,200 @@
+[
+  {
+    artist: saib.
+    title: West Lake
+    rg: {
+      gain: -7.97
+      range: 8.50
+      peak: 0.944667
+    }
+  }
+  {
+    artist: leavv
+    title: within
+    rg: {
+      gain: -7.53
+      range: 4.76
+      peak: 0.947261
+    }
+  }
+  {
+    artist: B-Side
+    title: Sky
+    rg: {
+      gain: -7.68
+      range: 8.16
+      peak: 0.944885
+    }
+  }
+  {
+    artist: Devaloop
+    title: Rooftop Terrace
+    rg: {
+      gain: -7.60
+      range: 6.34
+      peak: 0.947179
+    }
+  }
+  {
+    artist: L'indécis
+    title: Le Sud
+    rg: {
+      gain: -6.69
+      range: 10.84
+      peak: 0.943094
+    }
+  }
+  {
+    artist: invention
+    title: vscrl
+    rg: {
+      gain: -8.91
+      range: 7.17
+      peak: 0.946770
+    }
+  }
+  {
+    artist: badsummer
+    title: floating
+    rg: {
+      gain: -7.02
+      range: 6.59
+      peak: 0.950595
+    }
+  }
+  {
+    artist: [
+      Axian
+      J'san
+    ]
+    title: Autumn Leaves
+    rg: {
+      gain: -6.94
+      range: 7.79
+      peak: 0.948241
+    }
+  }
+  {
+    artist: Flitz&Suppe
+    title: Level U
+    rg: {
+      gain: -8.08
+      range: 6.51
+      peak: 0.944276
+    }
+  }
+  {
+    artist: Mr.Käfer
+    title: Settle Down
+    rg: {
+      gain: -6.66
+      range: 4.78
+      peak: 0.946720
+    }
+  }
+  {
+    artist: [
+      Philanthrope
+      Kupla
+    ]
+    title: Cycles
+    rg: {
+      gain: -6.97
+      range: 6.06
+      peak: 0.968126
+    }
+  }
+  {
+    artist: FloFilz
+    title: Lucie
+    rg: {
+      gain: -8.50
+      range: 2.41
+      peak: 0.942710
+    }
+  }
+  {
+    artist: Keem the Cipher
+    title: Come My Way
+    rg: {
+      gain: -7.10
+      range: 3.36
+      peak: 0.952427
+    }
+  }
+  {
+    artist: Monma
+    title: Cruise Control
+    rg: {
+      gain: -7.06
+      range: 1.16
+      peak: 0.944327
+    }
+  }
+  {
+    artist: Stan Forebee
+    title: Our Dream
+    rg: {
+      gain: -7.73
+      range: 8.45
+      peak: 0.950807
+    }
+  }
+  {
+    artist: [
+      Tusken.
+      Philanthrope
+    ]
+    title: Mr.Toast
+    rg: {
+      gain: -7.30
+      range: 7.73
+      peak: 0.942339
+    }
+  }
+  {
+    artist: Aso
+    title: Soul Vibe
+    rg: {
+      gain: -8.33
+      range: 4.27
+      peak: 0.962512
+    }
+  }
+  {
+    artist: Robot Orchestra
+    title: GoldenBrown
+    rg: {
+      gain: -7.70
+      range: 6.61
+      peak: 0.942179
+    }
+  }
+  {
+    artist: sugiwa
+    title: memories
+    rg: {
+      gain: -7.90
+      range: 2.44
+      peak: 0.942234
+    }
+  }
+  {
+    artist: Otesla
+    title: east
+    rg: {
+      gain: -7.27
+      range: 4.74
+      peak: 0.946483
+    }
+  }
+  {
+    artist: Mono:Massive
+    title: space drift
+    rg: {
+      gain: -7.83
+      range: 4.36
+      peak: 0.942362
+    }
+  }
+]

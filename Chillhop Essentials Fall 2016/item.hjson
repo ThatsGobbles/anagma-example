@@ -1,0 +1,196 @@
+[
+  {
+    artist: Aso
+    title: Seasons
+    isrc: TCACS1631600
+    rg: {
+      gain: -8.49
+      peak: 1.000471
+      range: 5.63
+    }
+  }
+  {
+    artist: The Cancel
+    title: Point
+    isrc: TCACS1631601
+    rg: {
+      gain: -9.54
+      peak: 0.989990
+      range: 4.99
+    }
+  }
+  {
+    artist: Brock Berrigan
+    title: Owl Farm
+    isrc: TCACS1631604
+    rg: {
+      gain: -9.95
+      peak: 1.256907
+      range: 3.32
+    }
+  }
+  {
+    artist: Philanthrope
+    title: Things Fall Apart
+    isrc: TCACS1631605
+    rg: {
+      gain: -6.12
+      peak: 1.007001
+      range: 8.30
+    }
+  }
+  {
+    artist: GlobulDub
+    title: Hinterlands
+    isrc: TCACS1631608
+    rg: {
+      gain: -7.88
+      peak: 1.002258
+      range: 5.34
+    }
+  }
+  {
+    artist: Guggenz
+    title: Break Even
+    isrc: TCACS1631610
+    rg: {
+      gain: -9.07
+      peak: 1.125065
+      range: 10.80
+    }
+  }
+  {
+    artist: AJMW
+    title: Virtues
+    isrc: TCACS1631611
+    rg: {
+      gain: -7.00
+      peak: 0.990117
+      range: 9.34
+    }
+  }
+  {
+    artist: Handbook
+    title: Swansong
+    isrc: TCACS1631612
+    rg: {
+      gain: -8.02
+      peak: 0.998119
+      range: 3.91
+    }
+  }
+  {
+    artist: [
+      Khudosoul
+      Birocratic
+    ]
+    title: Something Between Us
+    isrc: TCACS1631613
+    rg: {
+      gain: -8.81
+      peak: 1.034935
+      range: 13.69
+    }
+  }
+  {
+    artist: Cooper Albert
+    title: Find a Way
+    isrc: TCACS1631621
+    rg: {
+      gain: -7.89
+      peak: 0.995634
+      range: 7.21
+    }
+  }
+  {
+    artist: Nymano
+    title: Sorry
+    isrc: TCACS1631615
+    rg: {
+      gain: -6.38
+      peak: 1.018772
+      range: 7.64
+    }
+  }
+  {
+    artist: L'Indécis
+    title: Her
+    isrc: TCACS1631616
+    rg: {
+      gain: -8.70
+      peak: 0.993915
+      range: 7.73
+    }
+  }
+  {
+    artist: Deeb
+    title: Bridges
+    isrc: TCACS1631617
+    rg: {
+      gain: -8.37
+      peak: 0.991663
+      range: 6.62
+    }
+  }
+  {
+    artist: Tantu
+    title: Klein
+    isrc: TCACS1631618
+    rg: {
+      gain: -7.89
+      peak: 0.990981
+      range: 3.56
+    }
+  }
+  {
+    artist: Floppy Circus
+    title: Safari Haze
+    isrc: TCACS1631619
+    rg: {
+      gain: -10.59
+      peak: 0.999446
+      range: 2.50
+    }
+  }
+  {
+    artist: Mecca:83
+    title: From Summer to Autumn
+    subtitle: Transition
+    isrc: TCACS1631614
+    rg: {
+      gain: -9.85
+      peak: 0.991135
+      range: 2.21
+    }
+  }
+  {
+    artist: Bonus Points
+    title: Long Exposure
+    isrc: TCACS1631622
+    rg: {
+      gain: -7.89
+      peak: 0.996943
+      range: 3.19
+    }
+  }
+  {
+    artist: A D M B
+    title: Master of the Sun
+    isrc: TCACS1631623
+    rg: {
+      gain: -8.52
+      peak: 1.003921
+      range: 7.23
+    }
+  }
+  {
+    artist: FloFilz
+    title: Orakel
+    isrc: TCACS1631624
+    rg: {
+      gain: -5.31
+      peak: 0.982659
+      range: 6.79
+    }
+  }
+]

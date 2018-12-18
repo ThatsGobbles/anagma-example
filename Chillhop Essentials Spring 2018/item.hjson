@@ -1,0 +1,210 @@
+[
+  {
+    title: The One
+    artist: Cap Kendricks
+    rg: {
+      gain: -7.20
+      peak: 1.163970
+      range: 4.66
+    }
+  }
+  {
+    title: good morning sunshine
+    artist: j'san.
+    rg: {
+      gain: -6.11
+      peak: 0.945791
+      range: 11.64
+    }
+  }
+  {
+    title: Azahar
+    artist: Juan RIOS
+    rg: {
+      gain: -5.86
+      peak: 0.951838
+      range: 14.00
+    }
+  }
+  {
+    title: Swix
+    artist: HM Surf
+    rg: {
+      gain: -6.41
+      peak: 0.948506
+      range: 16.33
+    }
+  }
+  {
+    title: Spring in La Coruña
+    artist: Ruck P
+    rg: {
+      gain: -6.59
+      peak: 0.966160
+      range: 4.75
+    }
+  }
+  {
+    title: Kensington
+    artist: [
+      Stan Forebee
+      Kyle McEvoy
+    ]
+    rg: {
+      gain: -6.99
+      peak: 0.961295
+      range: 7.29
+    }
+  }
+  {
+    title: Handsome People
+    artist: Birocratic
+    rg: {
+      gain: -8.48
+      peak: 0.964557
+      range: 9.80
+    }
+  }
+  {
+    title: Carbon
+    artist: OTESLA
+    rg: {
+      gain: -8.15
+      peak: 0.945465
+      range: 8.81
+    }
+  }
+  {
+    title: ManaTree
+    artist: Monma
+    rg: {
+      gain: -7.00
+      peak: 0.867744
+      range: 3.63
+    }
+  }
+  {
+    title: Tomorrow
+    artist: Leavv
+    rg: {
+      gain: -6.07
+      peak: 0.952746
+      range: 15.76
+    }
+  }
+  {
+    title: H'okay
+    artist: Cloudchord
+    feat: Soul Food Horns
+    rg: {
+      gain: -6.67
+      peak: 0.949421
+      range: 6.89
+    }
+  }
+  {
+    title: Blue Orchard
+    artist: FloFilz
+    rg: {
+      gain: -6.97
+      peak: 0.946294
+      range: 4.64
+    }
+  }
+  {
+    title: taipei rosebuds
+    artist: [
+      mommy
+      snowglobe
+    ]
+    rg: {
+      gain: -5.69
+      peak: 0.936767
+      range: 6.42
+    }
+  }
+  {
+    title: Moonshine
+    artist: illiterate
+    rg: {
+      gain: -6.63
+      peak: 1.016314
+      range: 7.00
+    }
+  }
+  {
+    title: Tomorrow Never Knows
+    artist: [
+      Aso
+      Middle School
+    ]
+    rg: {
+      gain: -7.25
+      peak: 0.941257
+      range: 7.21
+    }
+  }
+  {
+    title: Eowyn
+    artist: City Girl
+    rg: {
+      gain: -5.89
+      peak: 0.929476
+      range: 9.31
+    }
+  }
+  {
+    title: Wildflower
+    artist: Joe Corfield
+    rg: {
+      gain: -6.43
+      peak: 1.012751
+      range: 6.41
+    }
+  }
+  {
+    title: Wherever You Are
+    artist: Psalm Trees
+    rg: {
+      gain: -6.92
+      peak: 0.944550
+      range: 4.87
+    }
+  }
+  {
+    title: troubadix
+    artist: plusma
+    rg: {
+      gain: -7.82
+      peak: 0.948606
+      range: 13.21
+    }
+  }
+  {
+    title: Drop Top
+    artist: Toonorth
+    rg: {
+      gain: -5.88
+      peak: 0.893478
+      range: 1.14
+    }
+  }
+  {
+    title: thinking of you
+    artist: Robot Orchestra
+    rg: {
+      gain: -7.47
+      peak: 0.944168
+      range: 5.92
+    }
+  }
+  {
+    title: Morningview
+    artist: deeB
+    rg: {
+      gain: -5.82
+      peak: 0.944211
+      range: 9.38
+    }
+  }
+]

@@ -1,0 +1,15 @@
+{
+  title: {
+    series: Chillhop Essentials
+    season: Fall 2018
+  }
+  vendor: Bandcamp
+  label: Chillhop Records
+  date: 2018-10-03
+  rg: {
+    algorithm: ITU-R BS.1770
+    ref_loudness: -18.00
+    gain: -7.07
+    range: 8.32
+  }
+}

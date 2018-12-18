@@ -1,0 +1,192 @@
+[
+  {
+    artist: Aso
+    title: Sun In My Face
+    rg: {
+      gain: -8.74
+      range: 8.31
+      peak: 1.067183
+    }
+  }
+  {
+    artist: Flamingosis
+    title: Ecstacy
+    subtitle: Pay the Price
+    rg: {
+      gain: -7.81
+      range: 3.10
+      peak: 0.970911
+    }
+  }
+  {
+    artist: Birocratic
+    title: Sleepyface
+    rg: {
+      gain: -6.86
+      range: 7.89
+      peak: 0.993713
+    }
+  }
+  {
+    artist: Mono:Massive
+    title: Attila
+    rg: {
+      gain: -5.56
+      range: 9.60
+      peak: 1.053777
+    }
+  }
+  {
+    artist: saib.
+    title: spring waltz
+    rg: {
+      gain: -8.33
+      range: 5.88
+      peak: 1.112808
+    }
+  }
+  {
+    artist: GYVUS
+    title: Koi
+    rg: {
+      gain: -5.58
+      range: 7.52
+      peak: 0.968215
+    }
+  }
+  {
+    artist: [
+      nymano
+      Pandrezz
+    ]
+    title: you should have known
+    rg: {
+      gain: -6.08
+      range: 8.53
+      peak: 1.031341
+    }
+  }
+  {
+    artist: Limes
+    title: Cocktails
+    rg: {
+      gain: -6.87
+      range: 9.83
+      peak: 0.982382
+    }
+  }
+  {
+    artist: [
+      Philanthrope
+      TESK
+    ]
+    title: Sodium
+    rg: {
+      gain: -6.67
+      range: 11.32
+      peak: 0.965817
+    }
+  }
+  {
+    artist: Juan RIOS
+    title: Colores
+    rg: {
+      gain: -7.07
+      range: 16.32
+      peak: 0.990435
+    }
+  }
+  {
+    artist: Brock Berrigan
+    title: Crossing Paths
+    rg: {
+      gain: -8.53
+      range: 2.04
+      peak: 1.047446
+    }
+  }
+  {
+    artist: tomppabeats
+    title: one two step
+    rg: {
+      gain: -9.38
+      range: 2.68
+      peak: 0.989967
+    }
+  }
+  {
+    artist: Handbook
+    title: Rose Gardens
+    rg: {
+      gain: -6.24
+      range: 7.25
+      peak: 1.026556
+    }
+  }
+  {
+    artist: Ian Ewing
+    title: Trinidad
+    rg: {
+      gain: -9.33
+      range: 15.64
+      peak: 1.272706
+    }
+  }
+  {
+    artist: [
+      Devaloop
+      Flitz&Suppe
+    ]
+    title: Sacrifice
+    rg: {
+      gain: -7.62
+      range: 11.38
+      peak: 1.000796
+    }
+  }
+  {
+    artist: Vanilla
+    title: Blue Sun
+    rg: {
+      gain: -5.68
+      range: 6.94
+      peak: 0.966906
+    }
+  }
+  {
+    artist: invention_
+    title: ｓｐｒｘｎｇ
+    rg: {
+      gain: -6.63
+      range: 4.86
+      peak: 0.968496
+    }
+  }
+  {
+    artist: Elijah Nang
+    title: Haru
+    rg: {
+      gain: -7.82
+      range: 11.84
+      peak: 0.986312
+    }
+  }
+  {
+    artist: Figub Brazlevič
+    title: Father & Son
+    rg: {
+      gain: -8.47
+      range: 7.70
+      peak: 1.020845
+    }
+  }
+  {
+    artist: baaskaT
+    title: stryman
+    rg: {
+      gain: -8.62
+      range: 4.23
+      peak: 1.020277
+    }
+  }
+]

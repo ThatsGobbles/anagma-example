@@ -1,0 +1,250 @@
+[
+  {
+    title: Belly Breathing
+    artist: Birocratic
+    rg: {
+      gain: -7.58
+      peak: 0.947955
+      range: 7.63
+    }
+  }
+  {
+    title: Funkaholic
+    artist: Flitz&Suppe
+    rg: {
+      gain: -7.37
+      peak: 0.952609
+      range: 6.38
+    }
+  }
+  {
+    title: Dog Days
+    artist: [
+      L'indécis
+      sad toï
+    ]
+    rg: {
+      gain: -8.37
+      peak: 1.010442
+      range: 5.71
+    }
+  }
+  {
+    title: Yes Please
+    artist: Tane
+    rg: {
+      gain: -7.19
+      peak: 0.964193
+      range: 4.39
+    }
+  }
+  {
+    title: Pen Anubis
+    artist: B-Side
+    rg: {
+      gain: -5.71
+      peak: 0.950692
+      range: 12.04
+    }
+  }
+  {
+    title: To The Moon And Back
+    artist: Toonorth
+    rg: {
+      gain: -8.08
+      peak: 0.994558
+      range: 2.28
+    }
+  }
+  {
+    title: mochus
+    artist: plusma
+    rg: {
+      gain: -7.56
+      peak: 0.944540
+      range: 6.07
+    }
+  }
+  {
+    title: 1993
+    artist: Loupo
+    rg: {
+      gain: -7.21
+      peak: 1.003620
+      range: 6.60
+    }
+  }
+  {
+    title: At This Point
+    artist: [
+      Middle School
+      Taro
+    ]
+    feat: Mitchel Forman
+    rg: {
+      gain: -8.32
+      peak: 0.951961
+      range: 1.58
+    }
+  }
+  {
+    title: Babyyy
+    artist: Psalm Trees
+    rg: {
+      gain: -6.64
+      peak: 0.948703
+      range: 9.34
+    }
+  }
+  {
+    title: Ruska
+    artist: Kupla
+    rg: {
+      gain: -5.60
+      peak: 0.945779
+      range: 6.31
+    }
+  }
+  {
+    title: Bastia
+    artist: illiterate
+    rg: {
+      gain: -6.90
+      peak: 0.945474
+      range: 7.34
+    }
+  }
+  {
+    title: To Breathe
+    artist: delayde
+    rg: {
+      gain: -6.72
+      peak: 0.945714
+      range: 6.42
+    }
+  }
+  {
+    title: autumn breeze
+    artist: [
+      j'san
+      nymano
+    ]
+    rg: {
+      gain: -6.68
+      peak: 0.945046
+      range: 6.65
+    }
+  }
+  {
+    title: in a new space
+    artist: fantompower
+    rg: {
+      gain: -6.97
+      peak: 0.942215
+      range: 7.60
+    }
+  }
+  {
+    title: Drawing Dunes
+    artist: Stan Forebee
+    rg: {
+      gain: -7.00
+      peak: 0.943023
+      range: 6.39
+    }
+  }
+  {
+    title: Just a Moment
+    artist: Matt Quentin
+    rg: {
+      gain: -7.83
+      peak: 0.945561
+      range: 4.70
+    }
+  }
+  {
+    title: Equinox
+    artist: Chris Mazuera
+    rg: {
+      gain: -6.68
+      peak: 0.944070
+      range: 3.82
+    }
+  }
+  {
+    title: illusions
+    artist: idealism
+    rg: {
+      gain: -7.44
+      peak: 0.948854
+      range: 5.96
+    }
+  }
+  {
+    title: first date
+    artist: Aso
+    rg: {
+      gain: -7.84
+      peak: 0.948634
+      range: 2.75
+    }
+  }
+  {
+    title: morning rises
+    artist: [
+      sleepy fish
+      Philanthrope
+      mommy
+    ]
+    rg: {
+      gain: -7.01
+      peak: 0.947044
+      range: 17.15
+    }
+  }
+  {
+    title: grandiose soul
+    artist: masked man
+    rg: {
+      gain: -6.92
+      peak: 0.945764
+      range: 10.50
+    }
+  }
+  {
+    title: ebb//flo
+    artist: invention_
+    rg: {
+      gain: -6.14
+      peak: 0.947590
+      range: 11.76
+    }
+  }
+  {
+    title: Equanimity
+    artist: Through & Through
+    rg: {
+      gain: -6.23
+      peak: 0.948493
+      range: 8.86
+    }
+  }
+  {
+    title: Nights In West
+    artist: AJMW
+    rg: {
+      gain: -6.89
+      peak: 1.005932
+      range: 6.93
+    }
+  }
+  {
+    title: Montrose
+    artist: Amonos
+    rg: {
+      gain: -5.45
+      peak: 0.944862
+      range: 14.43
+    }
+  }
+]
