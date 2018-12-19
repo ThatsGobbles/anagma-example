@@ -1,0 +1,198 @@
+[
+  {
+    title: perenne
+    artist: Juan RIOS
+    rg: {
+      gain: -7.52
+      range: 12.68
+      peak: 0.976640
+    }
+  }
+  {
+    title: night walk
+    artist: [
+      nymano
+      saib
+    ]
+    rg: {
+      gain: -7.07
+      range: 10.38
+      peak: 0.957260
+    }
+  }
+  {
+    title: Performative
+    subtitle: Instrumental
+    artist: [
+      Underbelly
+      Monma
+    ]
+    rg: {
+      gain: -7.36
+      range: 4.21
+      peak: 0.973024
+    }
+  }
+  {
+    title: Your Favorite Place
+    artist: Joey Pecoraro
+    rg: {
+      gain: -6.05
+      range: 3.40
+      peak: 0.961957
+    }
+  }
+  {
+    title: lacuna
+    artist: leavv
+    rg: {
+      gain: -7.04
+      range: 10.30
+      peak: 1.007630
+    }
+  }
+  {
+    title: Snug
+    artist: Aso
+    rg: {
+      gain: -7.07
+      range: 4.51
+      peak: 0.990529
+    }
+  }
+  {
+    title: sunrise
+    artist: arbour
+    rg: {
+      gain: -7.41
+      range: 3.08
+      peak: 0.946780
+    }
+  }
+  {
+    title: Spacesuits
+    artist: Kupla
+    rg: {
+      gain: -6.83
+      range: 5.21
+      peak: 1.004302
+    }
+  }
+  {
+    title: Aspiration
+    artist: Philanthrope
+    rg: {
+      gain: -7.30
+      range: 14.81
+      peak: 0.961148
+    }
+  }
+  {
+    title: latenite
+    artist: idealism
+    rg: {
+      gain: -7.13
+      range: 6.75
+      peak: 0.952456
+    }
+  }
+  {
+    title: Prayer
+    artist: psalm/trees
+    rg: {
+      gain: -6.31
+      range: 9.85
+      peak: 0.943975
+    }
+  }
+  {
+    title: Keep Me Warm
+    artist: Robot Orchestra
+    rg: {
+      gain: -7.44
+      range: 7.92
+      peak: 0.948170
+    }
+  }
+  {
+    title: 4:21pm
+    artist: Ian Ewing
+    rg: {
+      gain: -6.21
+      range: 10.13
+      peak: 0.994445
+    }
+  }
+  {
+    title: cozy winter
+    artist: j'san
+    rg: {
+      gain: -7.06
+      range: 17.82
+      peak: 1.087029
+    }
+  }
+  {
+    title: At Most
+    artist: Birocratic
+    rg: {
+      gain: -6.72
+      range: 6.28
+      peak: 0.949198
+    }
+  }
+  {
+    title: Salmiakki
+    artist: The Breed
+    rg: {
+      gain: -7.80
+      range: 2.75
+      peak: 0.919164
+    }
+  }
+  {
+    title: winterrain
+    artist: tusken.
+    rg: {
+      gain: -8.16
+      range: 1.87
+      peak: 0.946890
+    }
+  }
+  {
+    title: Dignity
+    artist: B-Side
+    rg: {
+      gain: -6.60
+      range: 11.18
+      peak: 0.953809
+    }
+  }
+  {
+    title: Sailing Above
+    artist: Flitz&Suppe
+    rg: {
+      gain: -6.80
+      range: 8.13
+      peak: 0.944840
+    }
+  }
+  {
+    title: albedo
+    artist: invention_
+    rg: {
+      gain: -7.23
+      range: 5.52
+      peak: 1.006181
+    }
+  }
+  {
+    title: Curtain Calls
+    artist: Brock Berrigan
+    rg: {
+      gain: -8.55
+      range: 1.63
+      peak: 0.978580
+    }
+  }
+]
