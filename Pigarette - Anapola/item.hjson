@@ -1,0 +1,50 @@
+[
+  {
+    title: Owl
+    rg: {
+      gain: -0.71
+      peak: 0.733710
+      range: 8.67
+    }
+  }
+  {
+    title: Foot Traffic
+    rg: {
+      gain: -5.13
+      peak: 1.034777
+      range: 2.65
+    }
+  }
+  {
+    title: Casa De La Costa
+    rg: {
+      gain: -4.04
+      peak: 1.014868
+      range: 8.92
+    }
+  }
+  {
+    title: Observatory
+    rg: {
+      gain: -4.01
+      peak: 1.006747
+      range: 2.19
+    }
+  }
+  {
+    title: Foundry
+    rg: {
+      gain: -6.07
+      peak: 1.025775
+      range: 6.04
+    }
+  }
+  {
+    title: Anapola
+    rg: {
+      gain: -3.05
+      peak: 0.999532
+      range: 5.53
+    }
+  }
+]

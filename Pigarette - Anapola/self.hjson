@@ -1,0 +1,12 @@
+{
+  title: Anapola
+  artist: Pigarette
+  vendor: Bandcamp
+  date: 2016-04-16
+  rg: {
+    algorithm: ITU-R BS.1770
+    ref_loudness: -18.00
+    gain: -4.23
+    range: 8.00
+  }
+}

@@ -1,0 +1,51 @@
+[
+  {
+    title: Freshly Mown Lawn
+    rg: {
+      gain: -0.80
+      range: 7.13
+      peak: 0.729515
+    }
+  }
+  {
+    title: Poinsettia
+    rg: {
+      gain: -4.35
+      range: 6.20
+      peak: 1.033767
+    }
+  }
+  {
+    title: Traps
+    feat: Merryn Jeann
+    rg: {
+      gain: -4.00
+      range: 7.00
+      peak: 1.089063
+    }
+  }
+  {
+    title: Redline
+    rg: {
+      gain: -5.48
+      range: 8.19
+      peak: 1.073615
+    }
+  }
+  {
+    title: Transit
+    rg: {
+      gain: -4.96
+      range: 7.07
+      peak: 1.072673
+    }
+  }
+  {
+    title: Bodø
+    rg: {
+      gain: -0.24
+      range: 11.25
+      peak: 0.681402
+    }
+  }
+]
