@@ -1,0 +1,175 @@
+[
+  {
+    artist: invention_
+    title: ｅｎｄｕｒａｎｃｅ
+    isrc: TCACU1638186
+    rg: {
+      gain: -7.19
+      range: 8.70
+      peak: 0.969236
+    }
+  }
+  {
+    artist: Moose Dawa
+    title: Menti
+    isrc: TCACU1638200
+    rg: {
+      gain: -6.96
+      range: 9.90
+      peak: 0.975467
+    }
+  }
+  {
+    artist: Birocratic
+    title: Lovely Rita
+    isrc: TCACU1638201
+    rg: {
+      gain: -7.87
+      range: 10.20
+      peak: 1.024346
+    }
+  }
+  {
+    artist: Idealism
+    title: Snowfall
+    isrc: TCACU1638204
+    rg: {
+      gain: -7.58
+      range: 12.03
+      peak: 0.972011
+    }
+  }
+  {
+    artist: [
+      FloFilz
+      Philanthrope
+    ]
+    title: Whitecap
+    isrc: TCACU1638225
+    rg: {
+      gain: -6.95
+      range: 4.90
+      peak: 0.985464
+    }
+  }
+  {
+    artist: Melodiesinfonie
+    title: Meditation on God
+    isrc: TCACU1638226
+    rg: {
+      gain: -4.34
+      range: 6.77
+      peak: 1.024279
+    }
+  }
+  {
+    artist: nymano
+    title: i wish i could sleep
+    isrc: TCACU1638228
+    rg: {
+      gain: -9.12
+      range: 9.05
+      peak: 0.972803
+    }
+  }
+  {
+    artist: Juan RIOS
+    title: Pine Trees
+    isrc: TCACU1638247
+    rg: {
+      gain: -6.50
+      range: 12.74
+      peak: 0.983246
+    }
+  }
+  {
+    artist: Mono:Massive
+    title: Blue Dawn
+    isrc: TCACU1638248
+    rg: {
+      gain: -7.32
+      range: 6.02
+      peak: 1.080825
+    }
+  }
+  {
+    artist: L'Indécis
+    title: Rekindling
+    isrc: TCACU1638275
+    rg: {
+      gain: -8.86
+      range: 11.38
+      peak: 0.975386
+    }
+  }
+  {
+    artist: Flitz&Suppe
+    title: OdeToYou
+    isrc: TCACS1693828
+    rg: {
+      gain: -9.23
+      range: 3.73
+      peak: 0.992647
+    }
+  }
+  {
+    artist: B-Side
+    title: Patience
+    isrc: TCACU1638289
+    rg: {
+      gain: -9.44
+      range: 7.94
+      peak: 1.036247
+    }
+  }
+  {
+    artist: Aso
+    title: Caught in the Rain
+    isrc: TCACU1638290
+    rg: {
+      gain: -3.38
+      range: 13.20
+      peak: 0.970687
+    }
+  }
+  {
+    artist: TESK
+    title: FIRST LIGHTS
+    isrc: TCACU1638309
+    rg: {
+      gain: -6.58
+      range: 12.66
+      peak: 1.019378
+    }
+  }
+  {
+    artist: QSTN
+    title: Me 2 You
+    isrc: TCACU1638312
+    rg: {
+      gain: -7.05
+      range: 6.47
+      peak: 1.049170
+    }
+  }
+  {
+    artist: Deeb
+    title: Flakes
+    isrc: TCACU1638314
+    rg: {
+      gain: -9.06
+      range: 7.87
+      peak: 0.975932
+    }
+  }
+  {
+    artist: Limes
+    title: Wonderland
+    isrc: TCACU1638316
+    rg: {
+      gain: -8.45
+      range: 4.04
+      peak: 1.006972
+    }
+  }
+]
