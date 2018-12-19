@@ -1,0 +1,13 @@
+{
+  title: TRI▼FORCE
+  vendor: Bandcamp
+  catalog: TRIF-0001
+  artist: TRI▼FORCE
+  date: 2016-10-30
+  rg: {
+    algorithm: ITU-R BS.1770
+    ref_loudness: -18.00
+    gain: -11.83
+    range: 7.22
+  }
+}

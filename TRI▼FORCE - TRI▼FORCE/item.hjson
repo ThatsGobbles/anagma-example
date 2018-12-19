@@ -1,0 +1,104 @@
+[
+  {
+    artist: TRI▼FORCE
+    title: intro
+    rg: {
+      gain: -11.89
+      range: 6.22
+      peak: 1.318075
+    }
+  }
+  {
+    artist: t+pazolite
+    title: Must Be Done
+    rg: {
+      gain: -11.74
+      range: 10.60
+      peak: 1.330415
+    }
+  }
+  {
+    artist: t+pazolite
+    remix: {
+      artist: Massive New Krew
+      title: Massive New Krew Remix
+    }
+    title: PSYCHED AGOSTO
+    rg: {
+      gain: -12.23
+      range: 5.92
+      peak: 1.348858
+    }
+  }
+  {
+    artist: Massive New Krew
+    title: DORBERMAN
+    rg: {
+      gain: -12.13
+      range: 7.97
+      peak: 1.382772
+    }
+  }
+  {
+    artist: aran
+    title: Hyperdawn
+    rg: {
+      gain: -12.06
+      range: 6.71
+      peak: 1.540800
+    }
+  }
+  {
+    artist: aran
+    remix: {
+      artist: t+pazolite
+      title: tpz Overcute Remix
+    }
+    title: Emoticon
+    rg: {
+      gain: -11.77
+      range: 6.80
+      peak: 1.253309
+    }
+  }
+  {
+    artist: Massive New Krew
+    title: NAYUTA
+    rg: {
+      gain: -11.67
+      range: 7.06
+      peak: 1.244540
+    }
+  }
+  {
+    artist: t+pazolite
+    title: UPRIGHT
+    rg: {
+      gain: -11.53
+      range: 5.76
+      peak: 1.157107
+    }
+  }
+  {
+    artist: Massive New Krew
+    remix: {
+      artist: aran
+      title: aran Remix
+    }
+    title: Ever Free
+    rg: {
+      gain: -11.95
+      range: 5.73
+      peak: 1.251405
+    }
+  }
+  {
+    artist: aran
+    title: HOME
+    rg: {
+      gain: -11.37
+      range: 7.34
+      peak: 1.271472
+    }
+  }
+]
