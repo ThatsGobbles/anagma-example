@@ -1,0 +1,15 @@
+{
+  title: {
+    series: Chillhop Essentials
+    season: Summer 2016
+  }
+  vendor: Bandcamp
+  label: Chillhop Records
+  date: 2016-06-13
+  rg: {
+    algorithm: ITU-R BS.1770
+    ref_loudness: -18.00
+    gain: -9.45
+    range: 6.99
+  }
+}

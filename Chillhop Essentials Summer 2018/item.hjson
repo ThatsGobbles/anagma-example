@@ -1,0 +1,233 @@
+[
+  {
+    title: Takin' You For a Ride
+    artist: Pandrezz
+    rg: {
+      gain: -6.15
+      peak: 1.011056
+      range: 8.72
+    }
+  }
+  {
+    title: Love is Weakness
+    artist: C Y G N
+    rg: {
+      gain: -5.46
+      peak: 1.024208
+      range: 11.28
+    }
+  }
+  {
+    title: Bae
+    artist: Misha
+    rg: {
+      gain: -7.08
+      peak: 1.017182
+      range: 5.86
+    }
+  }
+  {
+    title: Wonder
+    artist: [
+      Remulak
+      Liphe
+    ]
+    rg: {
+      gain: -5.11
+      peak: 1.010481
+      range: 12.32
+    }
+  }
+  {
+    title: Sky Blue
+    artist: Matt Quentin
+    rg: {
+      gain: -6.38
+      peak: 1.011055
+      range: 9.41
+    }
+  }
+  {
+    title: albatros
+    artist: plusma
+    rg: {
+      gain: -6.72
+      peak: 1.031650
+      range: 5.45
+    }
+  }
+  {
+    title: Shakedown
+    artist: Birocratic
+    rg: {
+      gain: -6.67
+      peak: 1.088648
+      range: 8.31
+    }
+  }
+  {
+    title: Love Like a River
+    artist: Sofasound
+    rg: {
+      gain: -4.79
+      peak: 1.028408
+      range: 11.17
+    }
+  }
+  {
+    title: Don't Cry
+    artist: [
+      B-Side
+      Sixcube
+    ]
+    rg: {
+      gain: -5.54
+      peak: 1.025953
+      range: 10.48
+    }
+  }
+  {
+    title: Lakeside
+    artist: floridomi
+    rg: {
+      gain: -5.37
+      peak: 1.000040
+      range: 6.63
+    }
+  }
+  {
+    title: Sundays
+    artist: Aso
+    rg: {
+      gain: -5.48
+      peak: 1.008268
+      range: 13.17
+    }
+  }
+  {
+    title: First Wonder
+    artist: [
+      j'san.
+      Cloudchord
+    ]
+    rg: {
+      gain: -7.83
+      peak: 1.030209
+      range: 6.41
+    }
+  }
+  {
+    title: The Lime Vibe
+    artist: Unda de Sango
+    rg: {
+      gain: -6.89
+      peak: 1.042006
+      range: 9.97
+    }
+  }
+  {
+    title: By the Seaside
+    artist: [
+      L'indécis
+      Saib
+    ]
+    rg: {
+      gain: -6.61
+      peak: 1.024392
+      range: 14.42
+    }
+  }
+  {
+    title: Prayer
+    artist: [
+      falcxne
+      Loupo
+    ]
+    rg: {
+      gain: -5.17
+      peak: 1.037790
+      range: 7.71
+    }
+  }
+  {
+    title: Possums & Popcorn
+    artist: Stan Forebee
+    rg: {
+      gain: -4.70
+      peak: 1.025343
+      range: 9.66
+    }
+  }
+  {
+    title: flashes of calm
+    artist: [
+      mommy
+      delayde
+    ]
+    rg: {
+      gain: -6.83
+      peak: 1.001832
+      range: 20.15
+    }
+  }
+  {
+    title: Stuck
+    artist: [
+      Eli Way
+      Emily Muli
+    ]
+    rg: {
+      gain: -5.57
+      peak: 1.029606
+      range: 7.11
+    }
+  }
+  {
+    title: Saydee
+    artist: Lakey Inspired
+    rg: {
+      gain: -4.97
+      peak: 1.003244
+      range: 8.58
+    }
+  }
+  {
+    title: Zen
+    artist: Tane
+    rg: {
+      gain: -4.06
+      peak: 1.017802
+      range: 14.08
+    }
+  }
+  {
+    title: rolling down this lazy wave
+    artist: santpoort
+    rg: {
+      gain: -5.18
+      peak: 1.002097
+      range: 12.64
+    }
+  }
+  {
+    title: Smart Gurl in a Skort
+    artist: [
+      Ian Ewing
+      Philanthrope
+    ]
+    rg: {
+      gain: -4.83
+      peak: 1.039425
+      range: 15.01
+    }
+  }
+  {
+    title: Oracle Night
+    artist: HM surf
+    rg: {
+      gain: -3.78
+      peak: 0.999518
+      range: 19.99
+    }
+  }
+]

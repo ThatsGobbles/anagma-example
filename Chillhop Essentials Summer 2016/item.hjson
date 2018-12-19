@@ -1,0 +1,182 @@
+[
+  {
+    artist: Guggenz
+    title: Business As Usual
+    isrc: TCACP1614716
+    rg: {
+      gain: -9.61
+      peak: 1.095178
+      range: 7.99
+    }
+  }
+  {
+    artist: Joakim Karud
+    title: Canals
+    isrc: TCACP1614717
+    rg: {
+      gain: -8.21
+      peak: 1.050998
+      range: 5.23
+    }
+  }
+  {
+    artist: Birocratic
+    title: Tony's Belated Breakfast
+    isrc: TCACP1614718
+    rg: {
+      gain: -10.42
+      peak: 1.001113
+      range: 7.18
+    }
+  }
+  {
+    artist: Brock Berrigan
+    title: Split Decision
+    isrc: TCACP1614719
+    rg: {
+      gain: -9.19
+      peak: 1.126363
+      range: 2.52
+    }
+  }
+  {
+    artist: Floppy Circus
+    title: Better Days To Come
+    isrc: TCACP1614720
+    rg: {
+      gain: -10.37
+      peak: 0.989906
+      range: 3.06
+    }
+  }
+  {
+    artist: Handbook
+    title: Melon
+    isrc: TCACP1614721
+    rg: {
+      gain: -9.65
+      peak: 0.989450
+      range: 3.80
+    }
+  }
+  {
+    artist: Phoniks
+    title: Touchdown
+    isrc: TCACP1614723
+    rg: {
+      gain: -10.03
+      peak: 0.993279
+      range: 5.20
+    }
+  }
+  {
+    artist: Gorila
+    title: Heatinupyabody
+    isrc: TCACP1614724
+    rg: {
+      gain: -9.33
+      peak: 0.989518
+      range: 5.72
+    }
+  }
+  {
+    artist: Bonus Points
+    title: Hammock Days
+    isrc: TCACP1614725
+    rg: {
+      gain: -8.74
+      peak: 1.006738
+      range: 13.37
+    }
+  }
+  {
+    artist: Mecca:83
+    title: Foundation
+    isrc: TCACP1614726
+    rg: {
+      gain: -9.21
+      peak: 0.993704
+      range: 15.93
+    }
+  }
+  {
+    artist: GlobulDub
+    title: Waves
+    isrc: TCACP1614727
+    rg: {
+      gain: -9.03
+      peak: 0.989225
+      range: 3.55
+    }
+  }
+  {
+    artist: deeB
+    title: Theme From Endless Sunset
+    isrc: TCACP1614737
+    rg: {
+      gain: -9.74
+      peak: 0.999957
+      range: 8.28
+    }
+  }
+  {
+    artist: Imagined Herbal Flows
+    title: Beyond The Sun
+    isrc: TCACP1614741
+    rg: {
+      gain: -8.93
+      peak: 0.989484
+      range: 7.46
+    }
+  }
+  {
+    artist: Aso
+    title: Ultra Violet
+    isrc: TCACP1614743
+    rg: {
+      gain: -6.71
+      peak: 0.991557
+      range: 7.48
+    }
+  }
+  {
+    artist: White Lights
+    title: VR Helmet
+    isrc: TCACP1614745
+    rg: {
+      gain: -9.52
+      peak: 0.971796
+      range: 8.22
+    }
+  }
+  {
+    artist: Philanthrope
+    title: Isolation
+    isrc: TCACP1614748
+    rg: {
+      gain: -7.91
+      peak: 1.037112
+      range: 11.73
+    }
+  }
+  {
+    artist: Ol' Burger Beats
+    title: The Gentle Instrumental
+    isrc: TCACP1614751
+    rg: {
+      gain: -8.98
+      peak: 0.989421
+      range: 4.96
+    }
+  }
+  {
+    artist: Jeff Kaale
+    title: Footsteps
+    isrc: TCACP1614752
+    rg: {
+      gain: -10.64
+      peak: 0.990335
+      range: 2.31
+    }
+  }
+]
