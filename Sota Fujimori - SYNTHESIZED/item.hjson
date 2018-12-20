@@ -1,0 +1,354 @@
+[
+  {
+    artist: Sota Fujimori
+    title: SYNTHESIZED
+    rg: {
+      gain: -10.00
+      peak: 1.288397
+      range: 7.09
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Kind Lady
+    subtitle: 2008 Extended Mix
+    rg: {
+      gain: -10.88
+      peak: 1.153974
+      range: 1.52
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: I Need You
+    subtitle: Nu Platinum Mix
+    rg: {
+      gain: -10.69
+      peak: 1.145103
+      range: 2.70
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Saturday Night Love
+    subtitle: Phunk Disco Mix
+    rg: {
+      gain: -11.10
+      peak: 1.278462
+      range: 7.02
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: together 4 ever
+    subtitle: Album Edit
+    rg: {
+      gain: -11.30
+      peak: 1.245274
+      range: 3.10
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Look To The Sky
+    subtitle: Cyber True Color Extended
+    rg: {
+      gain: -11.20
+      peak: 1.160107
+      range: 3.08
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Back Into The Light
+    subtitle: Feelings Won't Fade Vocal Mix
+    rg: {
+      gain: -11.14
+      peak: 1.108236
+      range: 5.38
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Star Gate Heaven
+    subtitle: Album New Mix
+    rg: {
+      gain: -10.56
+      peak: 1.119666
+      range: 4.01
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: The Hope Of Tomorrow
+    subtitle: Extended Mix
+    rg: {
+      gain: -11.31
+      peak: 1.171842
+      range: 1.42
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Cyber Force
+    subtitle: Extended Mix
+    rg: {
+      gain: -10.55
+      peak: 1.271916
+      range: 6.55
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: minimal synthesizer
+    rg: {
+      gain: -9.78
+      peak: 1.295924
+      range: 4.34
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Electrified
+    subtitle: Album Extended
+    rg: {
+      gain: -10.58
+      peak: 1.179229
+      range: 5.06
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: i-revolution
+    subtitle: Album New Mix
+    rg: {
+      gain: -10.88
+      peak: 1.142175
+      range: 3.36
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: ANDROMEDA II
+    subtitle: Extended Mix
+    rg: {
+      gain: -10.73
+      peak: 1.234734
+      range: 3.73
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: State Of The Art
+    subtitle: Album Extended
+    rg: {
+      gain: -9.52
+      peak: 1.119254
+      range: 6.87
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Fly Above
+    subtitle: Album Extended
+    rg: {
+      gain: -10.40
+      peak: 1.116469
+      range: 6.28
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Do It Right
+    remix: {
+      artist: 猫叉Master
+      title: ElecNekoTronika mix
+    }
+    rg: {
+      gain: -9.52
+      peak: 1.321606
+      range: 6.81
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: together 4 ever
+    remix: {
+      artist: TOMOSUKE
+      title: NORTHERN TRANHOUSE MIX
+    }
+    rg: {
+      gain: -9.71
+      peak: 1.179895
+      range: 5.94
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: with you
+    remix: {
+      artist: good-cool
+      title: X-Sota Mix
+    }
+    rg: {
+      gain: -10.64
+      peak: 1.217261
+      range: 2.39
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Back Into The Light
+    remix: {
+      artist: dj TAKA
+      title: Special ThanXXX RMX
+    }
+    rg: {
+      gain: -10.58
+      peak: 1.114781
+      range: 8.51
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Rise'n Beauty
+    remix: {
+      artist: SLAKE
+      title: ELECTRO MIX
+    }
+    rg: {
+      gain: -9.99
+      peak: 1.214636
+      range: 4.29
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Just a Little Smile
+    remix: {
+      artist: DAJI
+      title: DAJI MIX
+    }
+    rg: {
+      gain: -10.45
+      peak: 1.230922
+      range: 3.19
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Look To The Sky
+    remix: {
+      artist: SADA
+      title: SADA's J-Trance Vocal Mix
+    }
+    rg: {
+      gain: -10.23
+      peak: 1.127368
+      range: 3.76
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Cyber Force
+    remix: {
+      artist: DJ Yoshitaka
+      title: DJ Yoshitaka Remix
+    }
+    rg: {
+      gain: -9.11
+      peak: 1.179625
+      range: 9.86
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Neo Contra
+    remix: {
+      artist: Shoichiro Hirata
+      title: Extra Bold Mix
+    }
+    rg: {
+      gain: -9.34
+      peak: 1.147379
+      range: 5.52
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: PSYCHE PLANET-GT
+    remix: {
+      artist: L.E.D.
+    }
+    rg: {
+      gain: -10.37
+      peak: 1.090063
+      range: 2.66
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Spring Comes Around
+    remix: {
+      artist: wac
+      title: In Like a Lion
+    }
+    rg: {
+      gain: -10.33
+      peak: 1.346591
+      range: 19.21
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Battle Train
+    remix: {
+      artist: AKIRA YAMAOKA
+      title: HOT SOTA MIX-B
+    }
+    rg: {
+      gain: -9.91
+      peak: 1.079182
+      range: 6.81
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: The Hope Of Tomorrow
+    remix: {
+      artist: Ryu☆
+      title: Ryu☆Remix
+    }
+    rg: {
+      gain: -11.28
+      peak: 1.137900
+      range: 4.30
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Run To You
+    remix: {
+      artist: kors k
+      title: kors k mix
+    }
+    rg: {
+      gain: -9.68
+      peak: 1.171197
+      range: 10.09
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Rising Sun
+    remix: {
+      artist: AIKO
+      title: 100% Jupiter Eight Mix
+    }
+    rg: {
+      gain: -8.03
+      peak: 1.195278
+      range: 8.88
+    }
+  }
+]

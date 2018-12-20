@@ -1,0 +1,18 @@
+{
+  title: {
+    series: SYNTHESIZED
+    volume: 1
+  }
+  catalog: [
+    LC-1644
+    LC-1645
+  ]
+  artist: Sota Fujimori
+  date: 2008-08-29
+  rg: {
+    algorithm: ITU-R BS.1770
+    ref_loudness: -18.00
+    gain: -10.36
+    range: 5.72
+  }
+}
