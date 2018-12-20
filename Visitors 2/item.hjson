@@ -1,0 +1,74 @@
+[
+  {
+    artist: Ryunosuke Kudo
+    title: Love is Fog
+    rg: {
+      gain: -9.41
+      range: 2.65
+      peak: 0.993160
+    }
+  }
+  {
+    artist: SADA 2Futureanthem
+    title: U Wanna Dance?
+    rg: {
+      gain: -8.97
+      range: 3.36
+      peak: 0.991356
+    }
+  }
+  {
+    artist: Dirty Androids
+    title: Spritzer
+    rg: {
+      gain: -9.47
+      range: 5.09
+      peak: 0.991320
+    }
+  }
+  {
+    artist: Kenichi Chiba
+    title: Blue Hole
+    rg: {
+      gain: -9.00
+      range: 2.19
+      peak: 1.015484
+    }
+  }
+  {
+    artist: Acquarium
+    title: Cigars
+    rg: {
+      gain: -8.63
+      range: 4.92
+      peak: 0.989763
+    }
+  }
+  {
+    artist: BAZZ
+    title: Hydrogen
+    rg: {
+      gain: -9.87
+      range: 4.53
+      peak: 0.992477
+    }
+  }
+  {
+    artist: Satella
+    title: Maze in Haze
+    rg: {
+      gain: -8.46
+      range: 9.01
+      peak: 0.998945
+    }
+  }
+  {
+    artist: SLAKE
+    title: Quantum
+    rg: {
+      gain: -10.21
+      range: 6.30
+      peak: 1.021875
+    }
+  }
+]

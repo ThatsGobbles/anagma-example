@@ -1,0 +1,16 @@
+{
+  title: {
+    series: Visitors
+    volume: 1
+  }
+  catalog: DARC-001
+  label: DA Recording
+  date: 2013-10-27
+  source: CD
+  rg: {
+    algorithm: ITU-R BS.1770
+    ref_loudness: -18.00
+    gain: -9.73
+    range: 5.88
+  }
+}

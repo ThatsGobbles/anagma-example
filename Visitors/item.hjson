@@ -1,0 +1,78 @@
+[
+  {
+    artist: Bazz
+    title: Automa 23
+    rg: {
+      gain: -11.12
+      range: 5.65
+      peak: 0.965961
+    }
+  }
+  {
+    artist: Acquarium
+    title: Bring It Back
+    rg: {
+      gain: -9.31
+      range: 2.87
+      peak: 0.967375
+    }
+  }
+  {
+    artist: SADA
+    title: Into The World
+    rg: {
+      gain: -9.26
+      range: 5.72
+      peak: 0.986181
+    }
+  }
+  {
+    artist: kors k
+    title: Chasing of Love
+    rg: {
+      gain: -9.96
+      range: 7.32
+      peak: 0.974588
+    }
+  }
+  {
+    artist: Acquarium
+    title: Flowing
+    rg: {
+      gain: -9.37
+      range: 4.35
+      peak: 0.970084
+    }
+  }
+  {
+    artist: Dirty Androids
+    title: Range Of Light
+    remix: {
+      artist: PINK PONG
+      subtitle: PINK PONG Remix
+    }
+    rg: {
+      gain: -9.43
+      range: 6.63
+      peak: 1.015983
+    }
+  }
+  {
+    artist: AJURIKA
+    title: Morpho
+    rg: {
+      gain: -9.31
+      range: 4.53
+      peak: 0.979735
+    }
+  }
+  {
+    artist: SLAKE
+    title: Focus The Light
+    rg: {
+      gain: -10.19
+      range: 6.04
+      peak: 0.983510
+    }
+  }
+]
