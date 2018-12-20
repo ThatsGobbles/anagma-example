@@ -1,0 +1,15 @@
+{
+  title: {
+    series: SYNTHESIZED
+    volume: 2
+  }
+  catalog: LC-1861
+  artist: Sota Fujimori
+  date: 2010-01-28
+  rg: {
+    algorithm: ITU-R BS.1770
+    ref_loudness: -18.00
+    gain: -10.83
+    range: 6.48
+  }
+}

@@ -1,0 +1,172 @@
+[
+  {
+    title: Intro
+    subtitle: SYNTHESIZED2
+    rg: {
+      gain: -8.06
+      peak: 1.133867
+      range: 3.84
+    }
+  }
+  {
+    title: Electronized
+    feat: RIO
+    rg: {
+      gain: -11.27
+      peak: 1.458961
+      range: 3.60
+    }
+  }
+  {
+    title: ANDROMEDAL
+    feat: RIO
+    rg: {
+      gain: -11.74
+      peak: 1.300644
+      range: 5.31
+    }
+  }
+  {
+    title: Electrorgasm
+    subtitle: Extended Mix
+    rg: {
+      gain: -10.74
+      peak: 1.481620
+      range: 5.11
+    }
+  }
+  {
+    title: We Can Change
+    subtitle: Extended Mix
+    feat: Kemy
+    rg: {
+      gain: -10.69
+      peak: 1.261378
+      range: 8.96
+    }
+  }
+  {
+    title: Shining Star
+    subtitle: Extended Mix
+    feat: Nagisa
+    rg: {
+      gain: -11.11
+      peak: 1.315424
+      range: 6.10
+    }
+  }
+  {
+    title: with me...
+    subtitle: Extended Mix
+    feat: Kemy
+    rg: {
+      gain: -10.72
+      peak: 1.300553
+      range: 7.92
+    }
+  }
+  {
+    title: Take Me Higher
+    feat: Sachi Kohayatani
+    rg: {
+      gain: -11.09
+      peak: 1.221659
+      range: 6.86
+    }
+  }
+  {
+    title: Blow Me Up
+    feat: Calin
+    rg: {
+      gain: -10.83
+      peak: 1.341466
+      range: 4.24
+    }
+  }
+  {
+    title: Tomatina
+    rg: {
+      gain: -12.19
+      peak: 1.495630
+      range: 3.30
+    }
+  }
+  {
+    title: Never Turn Back
+    rg: {
+      gain: -10.83
+      peak: 1.173071
+      range: 8.22
+    }
+  }
+  {
+    title: You've Got 2 Get Me
+    subtitle: Extended Mix
+    feat: RIO
+    rg: {
+      gain: -11.45
+      peak: 1.258937
+      range: 6.02
+    }
+  }
+  {
+    title: Sunrise @ 6:00AM
+    rg: {
+      gain: -10.26
+      peak: 1.246988
+      range: 11.71
+    }
+  }
+  {
+    title: Nusa Dua
+    rg: {
+      gain: -7.47
+      peak: 1.186454
+      range: 9.43
+    }
+  }
+  {
+    title: Rise'n Beauty
+    subtitle: Extended Mix
+    feat: Cyborg Akemi
+    rg: {
+      gain: -10.00
+      peak: 1.253402
+      range: 5.54
+    }
+  }
+  {
+    title: Fly Above
+    remix: {
+      artist: Sota Fujimori
+      title: Electrance Mix
+    }
+    feat: Aimee Blackschleger
+    rg: {
+      gain: -11.25
+      peak: 1.231600
+      range: 5.40
+    }
+  }
+  {
+    title: PLASMA
+    remix: {
+      artist: Sota Fujimori
+      title: Future Sound From Tokyo Mix
+    }
+    rg: {
+      gain: -10.94
+      peak: 1.357134
+      range: 3.19
+    }
+  }
+  {
+    title: Outro
+    subtitle: Aqua Environment
+    rg: {
+      gain: -8.99
+      peak: 1.040689
+      range: 12.00
+    }
+  }
+]
