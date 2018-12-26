@@ -1,0 +1,160 @@
+[
+  {
+    title: Secret Love
+    artist: Kenichi Chiba
+    feat: EVO+
+    rg: {
+      gain: -10.33
+      peak: 1.217005
+      range: 5.16
+    }
+  }
+  {
+    title: Eightball
+    artist: [
+      100-200
+      tanigon
+    ]
+    rg: {
+      gain: -10.31
+      peak: 1.211935
+      range: 4.17
+    }
+  }
+  {
+    title: SEQUOIA
+    artist: DOT96
+    rg: {
+      gain: -10.08
+      peak: 1.230031
+      range: 5.23
+    }
+  }
+  {
+    title: limelight
+    artist: {
+      _: Yuta Murase
+      orig: 村瀬悠太
+    }
+    rg: {
+      gain: -9.24
+      peak: 1.152398
+      range: 7.91
+    }
+  }
+  {
+    title: Broken My Heart
+    artist: Yamajet
+    feat: {
+      _: Masako Hiura
+      orig: ひうらまさこ
+    }
+    rg: {
+      gain: -10.45
+      peak: 1.217358
+      range: 4.20
+    }
+  }
+  {
+    title: Master 4 Samplers
+    artist: Sephar Kyne
+    rg: {
+      gain: -8.71
+      peak: 1.279879
+      range: 6.51
+    }
+  }
+  {
+    title: Feel the Music
+    artist: Unknown Animal
+    rg: {
+      gain: -7.65
+      peak: 1.285679
+      range: 6.90
+    }
+  }
+  {
+    title: Sephira
+    artist: Powerless
+    rg: {
+      gain: -8.25
+      peak: 1.093813
+      range: 9.91
+    }
+  }
+  {
+    title: Every Time
+    artist: Rin
+    rg: {
+      gain: -9.39
+      peak: 1.334967
+      range: 7.22
+    }
+  }
+  {
+    title: BCBG
+    artist: tigerlily
+    rg: {
+      gain: -9.71
+      peak: 1.114639
+      range: 4.19
+    }
+  }
+  {
+    title: Miamian
+    artist: Atomic
+    rg: {
+      gain: -8.19
+      peak: 1.181496
+      range: 8.49
+    }
+  }
+  {
+    title: Overflow
+    artist: only
+    rg: {
+      gain: -8.07
+      peak: 1.146307
+      range: 7.78
+    }
+  }
+  {
+    title: Snow beauty
+    artist: Junk
+    rg: {
+      gain: -8.89
+      peak: 1.207319
+      range: 13.45
+    }
+  }
+  {
+    title: {
+      _: Tenka
+      orig: 天花
+    }
+    artist: LuL
+    rg: {
+      gain: -7.62
+      peak: 1.344248
+      range: 10.28
+    }
+  }
+  {
+    title: Evening Rain
+    artist: RIC
+    rg: {
+      gain: -8.77
+      peak: 1.141083
+      range: 8.29
+    }
+  }
+  {
+    title: soarer
+    artist: sweez
+    rg: {
+      gain: -8.47
+      peak: 1.116449
+      range: 8.83
+    }
+  }
+]

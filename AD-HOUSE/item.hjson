@@ -1,0 +1,135 @@
+[
+  {
+    title: ララルトゥタ
+    artist: sweez
+    rg: {
+      gain: -9.35
+      peak: 1.088168
+      range: 3.63
+    }
+  }
+  {
+    title: Mirrorball Airride 2012
+    artist: Yamajet
+    rg: {
+      gain: -10.09
+      peak: 1.060094
+      range: 2.04
+    }
+  }
+  {
+    title: Our Passion
+    artist: [
+      100-200
+      tanigon
+    ]
+    rg: {
+      gain: -9.25
+      peak: 1.030865
+      range: 3.41
+    }
+  }
+  {
+    title: What You Are
+    artist: naotyu-
+    feat: Aizdean
+    rg: {
+      gain: -9.59
+      peak: 1.091914
+      range: 3.39
+    }
+  }
+  {
+    title: Ancient Civilization
+    artist: RIC
+    rg: {
+      gain: -8.59
+      peak: 1.049253
+      range: 3.11
+    }
+  }
+  {
+    title: I NEED YOU
+    artist: Kenichi Chiba
+    rg: {
+      gain: -9.85
+      peak: 1.077388
+      range: 2.80
+    }
+  }
+  {
+    title: Peace Flavor
+    artist: Junk
+    rg: {
+      gain: -9.30
+      peak: 1.083884
+      range: 5.10
+    }
+  }
+  {
+    title: FREE for ALL
+    artist: Ryunosuke Kudo
+    rg: {
+      gain: -8.37
+      peak: 1.108732
+      range: 5.05
+    }
+  }
+  {
+    title: Re:tune
+    artist: only
+    rg: {
+      gain: -9.32
+      peak: 1.155975
+      range: 3.19
+    }
+  }
+  {
+    title: DISSER
+    artist: MYTK
+    rg: {
+      gain: -8.87
+      peak: 1.102711
+      range: 5.02
+    }
+  }
+  {
+    title: Murasame
+    artist: Rin
+    rg: {
+      gain: -7.45
+      peak: 1.110995
+      range: 7.75
+    }
+  }
+  {
+    title: Last Farewell
+    artist: {
+      _: Sakuzyo
+      orig: 削除
+    }
+    rg: {
+      gain: -8.52
+      peak: 1.086243
+      range: 5.30
+    }
+  }
+  {
+    title: Kisaragi
+    artist: stereoberry
+    rg: {
+      gain: -8.81
+      peak: 1.069356
+      range: 8.74
+    }
+  }
+  {
+    title: Mi Fa So
+    artist: tigerlily
+    rg: {
+      gain: -10.04
+      peak: 1.069963
+      range: 3.84
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  title: {
+    series: AD:HOUSE
+    volume: 2
+  }
+  catalog: DVSP-0092
+  label: Diverse System
+  source: Bandcamp
+  date: 2013-04-27
+  rg: {
+    algorithm: ITU-R BS.1770
+    ref_loudness: -18.00
+    gain: -9.17
+    range: 8.27
+  }
+}
