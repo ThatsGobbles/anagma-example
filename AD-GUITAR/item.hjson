@@ -1,0 +1,124 @@
+[
+  {
+    artist: {
+      _: Sakuzyo
+      orig: 削除
+    }
+    title: {
+      _: alpha
+      orig: α
+    }
+    rg: {
+      gain: -8.92
+      peak: 1.226986
+      range: 11.56
+    }
+  }
+  {
+    artist: An
+    feat: Yuya Ishii
+    title: Moralistic Confusion
+    rg: {
+      gain: -10.71
+      peak: 1.244558
+      range: 3.88
+    }
+  }
+  {
+    artist: Powerless
+    title: Divided Horizon
+    rg: {
+      gain: -9.99
+      peak: 1.113514
+      range: 9.12
+    }
+  }
+  {
+    artist: Nardis
+    title: Keeper of Precepts
+    rg: {
+      gain: -10.23
+      peak: 1.070694
+      range: 5.14
+    }
+  }
+  {
+    artist: Tosh
+    title: Distant Quasar
+    rg: {
+      gain: -11.70
+      peak: 1.095032
+      range: 2.55
+    }
+  }
+  {
+    artist: Mikoto*aki
+    title: (There is a)Brighter Day
+    rg: {
+      gain: -10.75
+      peak: 1.076172
+      range: 4.19
+    }
+  }
+  {
+    artist: [
+      Salita
+      Soh Yoshioka
+      stereoberry
+    ]
+    title: Little Miss July
+    rg: {
+      gain: -10.02
+      peak: 1.046812
+      range: 6.49
+    }
+  }
+  {
+    artist: {
+      _: Hamu
+      orig: ハム
+    }
+    title: War of Attrition
+    rg: {
+      gain: -10.46
+      peak: 1.194806
+      range: 5.07
+    }
+  }
+  {
+    artist: drone_mania
+    title: {
+      _: Nanjakonorabu
+      orig: ナンジャコノラブ
+    }
+    rg: {
+      gain: -8.78
+      peak: 1.141329
+      range: 7.70
+    }
+  }
+  {
+    artist: {
+      _: Takumi Keinosuke
+      orig: 宅見圭之輔
+    }
+    title: {
+      _: Mint
+      orig: ミント
+    }
+    rg: {
+      gain: -9.27
+      peak: 1.089201
+      range: 9.56
+    }
+  }
+  {
+    artist: masaki kawasaki
+    title: Oriental Counterpoint
+    rg: {
+      gain: -6.33
+      peak: 1.085758
+      range: 12.44
+    }
+  }
+]
