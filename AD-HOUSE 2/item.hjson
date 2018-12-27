@@ -33,7 +33,7 @@
   {
     title: limelight
     artist: {
-      _: Yuta Murase
+      ~: Yuta Murase
       orig: 村瀬悠太
     }
     rg: {
@@ -46,7 +46,7 @@
     title: Broken My Heart
     artist: Yamajet
     feat: {
-      _: Masako Hiura
+      ~: Masako Hiura
       orig: ひうらまさこ
     }
     rg: {
@@ -129,7 +129,7 @@
   }
   {
     title: {
-      _: Tenka
+      ~: Tenka
       orig: 天花
     }
     artist: LuL

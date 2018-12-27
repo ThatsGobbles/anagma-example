@@ -1,11 +1,11 @@
 [
   {
     artist: {
-      _: Sakuzyo
+      ~: Sakuzyo
       orig: 削除
     }
     title: {
-      _: alpha
+      ~: alpha
       orig: α
     }
     rg: {
@@ -75,7 +75,7 @@
   }
   {
     artist: {
-      _: Hamu
+      ~: Hamu
       orig: ハム
     }
     title: War of Attrition
@@ -88,7 +88,7 @@
   {
     artist: drone_mania
     title: {
-      _: Nanjakonorabu
+      ~: Nanjakonorabu
       orig: ナンジャコノラブ
     }
     rg: {
@@ -99,11 +99,11 @@
   }
   {
     artist: {
-      _: Takumi Keinosuke
+      ~: Takumi Keinosuke
       orig: 宅見圭之輔
     }
     title: {
-      _: Mint
+      ~: Mint
       orig: ミント
     }
     rg: {

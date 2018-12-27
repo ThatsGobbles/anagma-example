@@ -105,7 +105,7 @@
   {
     title: Last Farewell
     artist: {
-      _: Sakuzyo
+      ~: Sakuzyo
       orig: 削除
     }
     rg: {
