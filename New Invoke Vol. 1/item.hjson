@@ -1,0 +1,107 @@
+[
+  {
+    artist: Zekk
+    title: Co1ossus
+    rg: {
+      gain: -12.27
+      range: 4.74
+      peak: 1.209887
+    }
+  }
+  {
+    artist: Dustvoxx
+    title: Supercharged
+    rg: {
+      gain: -10.76
+      range: 6.90
+      peak: 1.444426
+    }
+  }
+  {
+    artist: Kan Takahiko
+    title: Bring The Beat
+    rg: {
+      gain: -12.99
+      range: 3.45
+      peak: 1.265046
+    }
+  }
+  {
+    artist: Genick
+    title: Donk Machine
+    rg: {
+      gain: -12.72
+      range: 3.86
+      peak: 1.232602
+    }
+  }
+  {
+    artist: {
+      ~: MACE
+      orig: MΛCE
+    }
+    title: G-Street
+    rg: {
+      gain: -9.85
+      range: 6.13
+      peak: 1.216300
+    }
+  }
+  {
+    artist: Dustvoxx
+    title: Don't Ever Stop
+    rg: {
+      gain: -12.17
+      range: 5.49
+      peak: 1.353264
+    }
+  }
+  {
+    artist: [
+      KO3
+      Relect
+    ]
+    title: Your Love
+    rg: {
+      gain: -10.92
+      range: 8.92
+      peak: 1.185228
+    }
+  }
+  {
+    artist: lapix
+    title: City Jack
+    rg: {
+      gain: -11.59
+      range: 5.07
+      peak: 1.153019
+    }
+  }
+  {
+    artist: Blacklolita
+    title: Raver Boy
+    rg: {
+      gain: -12.89
+      range: 2.23
+      peak: 1.479284
+    }
+  }
+  {
+    artist: Kurasaki
+    title: Into the Inferno
+    rg: {
+      gain: -13.74
+      range: 6.70
+      peak: 1.402710
+    }
+  }
+  {
+    artist: Hylen
+    title: Illumination
+    rg: {
+      gain: -13.04
+      range: 5.98
+      peak: 1.059039
+    }
+  }
+]

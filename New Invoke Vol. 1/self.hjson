@@ -1,0 +1,17 @@
+{
+  title: {
+    series: New Invoke
+    volume: 1
+  }
+  catalog: CYCLC-0002
+  label: CYCLIK CONTROL
+  date: 2018-08-10
+  source: Bandcamp
+  jan: 4589730030045
+  rg: {
+    algorithm: ITU-R BS.1770
+    ref_loudness: -18.00
+    gain: -12.22
+    range: 6.02
+  }
+}

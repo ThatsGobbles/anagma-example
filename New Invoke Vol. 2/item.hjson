@@ -1,0 +1,112 @@
+[  {
+    title: 3n3rgiz3r
+    artist: Zekk
+    rg: {
+      gain: -12.53
+      range: 7.68
+      peak: 1.320658
+    }
+  }
+  {
+    title: Bassick
+    artist: Srav3R
+    rg: {
+      gain: -11.35
+      range: 5.15
+      peak: 1.068330
+    }
+  }
+  {
+    title: Dip It Flow
+    artist: Massive New Krew
+    rg: {
+      gain: -13.73
+      range: 6.55
+      peak: 1.582449
+    }
+  }
+  {
+    title: Danger Zone
+    artist: Laur
+    rg: {
+      gain: -14.16
+      range: 5.44
+      peak: 1.160531
+    }
+  }
+  {
+    title: N1ghtmare
+    artist: Dustvoxx
+    rg: {
+      gain: -13.48
+      range: 3.64
+      peak: 1.658846
+    }
+  }
+  {
+    title: Rave Alarm
+    artist: {
+      ~: MACE
+      orig: MΛCE
+    }
+    rg: {
+      gain: -13.19
+      range: 3.64
+      peak: 1.557549
+    }
+  }
+  {
+    title: Blast Off
+    artist: Signal
+    rg: {
+      gain: -14.70
+      range: 3.74
+      peak: 1.554795
+    }
+  }
+  {
+    title: Vuki
+    artist: NGHTHYP
+    rg: {
+      gain: -12.02
+      range: 4.12
+      peak: 1.601607
+    }
+  }
+  {
+    title: Shibuya
+    artist: kurasaki
+    rg: {
+      gain: -10.30
+      range: 4.64
+      peak: 1.255587
+    }
+  }
+  {
+    title: Digital Chicken
+    artist: Srezcat
+    rg: {
+      gain: -13.37
+      range: 6.81
+      peak: 1.288345
+    }
+  }
+  {
+    title: THE Sweet Memes
+    artist: KOTONOHOUSE
+    rg: {
+      gain: -11.03
+      range: 3.14
+      peak: 1.269825
+    }
+  }
+  {
+    title: Halberd
+    artist: DJ Noriken
+    rg: {
+      gain: -12.62
+      range: 5.68
+      peak: 1.049994
+    }
+  }
+]
