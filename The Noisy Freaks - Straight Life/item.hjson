@@ -1,0 +1,92 @@
+[
+  {
+    title: Prelude
+    rg: {
+      gain: -7.76
+      peak: 0.968745
+      range: 13.85
+    }
+  }
+  {
+    title: Love Robot
+    rg: {
+      gain: -8.44
+      peak: 0.970498
+      range: 7.77
+    }
+  }
+  {
+    title: Freaks Orchestra
+    rg: {
+      gain: -9.18
+      peak: 0.975576
+      range: 7.64
+    }
+  }
+  {
+    title: Straight Life
+    rg: {
+      gain: -8.54
+      peak: 0.973111
+      range: 7.37
+    }
+  }
+  {
+    title: French Club
+    rg: {
+      gain: -9.21
+      peak: 0.971077
+      range: 6.53
+    }
+  }
+  {
+    title: Cheer Song
+    rg: {
+      gain: -8.34
+      peak: 0.974971
+      range: 4.10
+    }
+  }
+  {
+    title: Funky Kids
+    rg: {
+      gain: -9.50
+      peak: 0.973013
+      range: 6.33
+    }
+  }
+  {
+    feat: None Like Joshua
+    title: Bring It Back
+    rg: {
+      gain: -10.14
+      peak: 0.977741
+      range: 7.91
+    }
+  }
+  {
+    title: Selection
+    rg: {
+      gain: -10.05
+      peak: 0.975718
+      range: 16.78
+    }
+  }
+  {
+    title: Hell & Back
+    rg: {
+      gain: -10.25
+      peak: 0.981220
+      range: 4.54
+    }
+  }
+  {
+    title: Outro
+    subtitle: Bonne Nuit
+    rg: {
+      gain: -5.89
+      peak: 0.966632
+      range: 10.83
+    }
+  }
+]
