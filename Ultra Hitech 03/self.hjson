@@ -1,0 +1,16 @@
+{
+  title: {
+    series: Ultra Hitech
+    volume: 03
+  }
+  catalog: MRX-017
+  label: MEGAREX
+  date: 2017-08-11
+  source: CD
+  rg: {
+    algorithm: ITU-R BS.1770
+    ref_loudness: -18.00
+    gain: -12.21
+    range: 5.12
+  }
+}
