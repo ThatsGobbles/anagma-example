@@ -1,0 +1,102 @@
+[
+  {
+    artist: lapix
+    feat: [
+      Luschel
+      Kent Alexander
+    ]
+    title: Go Crazy
+    rg: {
+      gain: -11.85
+      range: 5.34
+      peak: 1.035782
+    }
+  }
+  {
+    artist: Camellia
+    title: What Is Hitech?
+    rg: {
+      gain: -11.58
+      range: 15.34
+      peak: 1.066601
+    }
+  }
+  {
+    artist: USAO
+    title: Super Badass
+    rg: {
+      gain: -11.64
+      range: 3.85
+      peak: 1.037056
+    }
+  }
+  {
+    artist: Nhato
+    title: Amygdala
+    rg: {
+      gain: -11.06
+      range: 8.51
+      peak: 1.061327
+    }
+  }
+  {
+    artist: aran
+    title: Fractal Brain
+    rg: {
+      gain: -11.88
+      range: 5.57
+      peak: 1.041958
+    }
+  }
+  {
+    artist: {
+      ~: Chroma
+      orig: 黒魔
+    }
+    title: lost found melody
+    rg: {
+      gain: -11.28
+      range: 8.76
+      peak: 1.015544
+    }
+  }
+  {
+    artist: Massive New Krew
+    title: L.S.D.
+    rg: {
+      gain: -10.80
+      range: 9.42
+      peak: 1.027538
+    }
+  }
+  {
+    artist: KaSa
+    title: Division ONE
+    rg: {
+      gain: -10.57
+      range: 5.89
+      peak: 1.034908
+    }
+  }
+  {
+    artist: lapix
+    title: QIXPIN
+    rg: {
+      gain: -12.24
+      range: 1.93
+      peak: 1.009049
+    }
+  }
+  {
+    artist: {
+      ~: Sakuzyo
+      orig: 削除
+    }
+    title: FAFNIR
+    rg: {
+      gain: -10.75
+      range: 6.96
+      peak: 1.043878
+    }
+  }
+]

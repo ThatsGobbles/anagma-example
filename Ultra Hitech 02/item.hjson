@@ -1,0 +1,98 @@
+[
+    {
+      artist: kors k
+      remix: {
+        artist: lapix
+        title: lapix Remix
+      }
+      title: Monkey Business
+      rg: {
+        gain: -13.55
+        range: 2.26
+        peak: 1.064696
+      }
+    }
+    {
+      artist: Camellia
+      title: kannabis kultivation
+      rg: {
+        gain: -12.74
+        range: 6.10
+        peak: 1.036964
+      }
+    }
+    {
+      artist: t+pazolite
+      title: PSYCHED AGOSTO
+      rg: {
+        gain: -12.83
+        range: 7.71
+        peak: 1.077472
+      }
+    }
+    {
+      artist: kors k
+      title: Grey
+      rg: {
+        gain: -12.89
+        range: 6.23
+        peak: 1.068223
+      }
+    }
+    {
+      artist: lapix
+      feat: Kanae Asaba
+      title: Live Nor Die
+      rg: {
+        gain: -13.33
+        range: 1.97
+        peak: 1.105183
+      }
+    }
+    {
+      artist: Kobaryo
+      feat: Nyankovsky
+      title: Alpha Next
+      rg: {
+        gain: -12.10
+        range: 7.64
+        peak: 1.043140
+      }
+    }
+    {
+      artist: MK
+      title: axis
+      rg: {
+        gain: -11.95
+        range: 3.80
+        peak: 1.075198
+      }
+    }
+    {
+      artist: Hommarju
+      title: Stab Launcher
+      rg: {
+        gain: -13.07
+        range: 4.96
+        peak: 1.028505
+      }
+    }
+    {
+      artist: DJ Noriken
+      title: No One is There
+      rg: {
+        gain: -13.05
+        range: 3.54
+        peak: 1.086450
+      }
+    }
+    {
+      artist: xi
+      title: Ancient Relics
+      rg: {
+        gain: -12.17
+        range: 4.22
+        peak: 1.026812
+      }
+    }
+]
