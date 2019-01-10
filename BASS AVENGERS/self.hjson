@@ -1,0 +1,16 @@
+{
+  title: {
+    series: BASS AVENGERS
+    volume: 1
+  }
+  catalog: MRX-013
+  label: MEGAREX
+  source: CD
+  date: 2016-12-31
+  rg: {
+    algorithm: ITU-R BS.1770
+    ref_loudness: -18.00
+    gain: -12.54
+    range: 4.71
+  }
+}
