@@ -4,8 +4,6 @@
   date: 2015-12-01
   vendor: Toneden
   rg: {
-    algorithm: ITU-R BS.1770
-    ref_loudness: -18.00
     gain: -9.37
     range: 8.35
   }

@@ -7,8 +7,6 @@
   artist: Sota Fujimori
   date: 2010-01-28
   rg: {
-    algorithm: ITU-R BS.1770
-    ref_loudness: -18.00
     gain: -10.83
     range: 6.48
   }

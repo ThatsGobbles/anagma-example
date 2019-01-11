@@ -8,8 +8,6 @@
   date: 2015-08-16
   source: CD
   rg: {
-    algorithm: ITU-R BS.1770
-    ref_loudness: -18.00
     gain: -11.40
     range: 7.00
   }

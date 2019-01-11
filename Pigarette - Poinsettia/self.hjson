@@ -4,8 +4,6 @@
   vendor: Bandcamp
   date: 2016-10-14
   rg: {
-    algorithm: ITU-R BS.1770
-    ref_loudness: -18.00
     gain: -4.28
     range: 8.85
   }

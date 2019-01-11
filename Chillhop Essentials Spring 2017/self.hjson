@@ -7,8 +7,6 @@
   label: Chillhop Records
   date: 2017-03-15
   rg: {
-    algorithm: ITU-R BS.1770
-    ref_loudness: -18.00
     gain: -7.63
     range: 8.79
   }

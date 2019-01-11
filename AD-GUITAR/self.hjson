@@ -8,8 +8,6 @@
   source: Bandcamp
   date: 2014-04-27
   rg: {
-    algorithm: ITU-R BS.1770
-    ref_loudness: -18.00
     gain: -9.87
     range: 9.03
   }
