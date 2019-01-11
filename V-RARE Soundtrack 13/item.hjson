@@ -1,0 +1,121 @@
+[
+  {
+    artist: {
+      ~: Seiya Murai
+      orig: 村井聖夜
+    }
+    title: {
+      ~: pop'n music 12 Iroha System BGM Medley
+      orig: pop'n music 12 いろは システムBGMメドレー
+    }
+    rg: {
+      gain: -10.15
+      range: 2.63
+      peak: 1.189837
+    }
+  }
+  {
+    artist: V.C.O.
+    title: {
+      ~: Ran
+      orig: 乱
+    }
+    subtitle: DEV⇔DED
+    rg: {
+      gain: -10.07
+      range: 2.97
+      peak: 1.128517
+    }
+  }
+  {
+    artist: F.size.free
+    rearrange: {
+      title: Street pick up mix
+    }
+    title: {
+      ~: Charisma
+      orig: カリスマ
+    }
+    rg: {
+      gain: -7.87
+      range: 5.76
+      peak: 1.085947
+    }
+  }
+  {
+    artist: D-crew
+    remix: {
+      title: special MIX
+    }
+    title: CURUS
+    rg: {
+      gain: -9.06
+      range: 8.64
+      peak: 1.111586
+    }
+  }
+  {
+    # TODO: Revisit this, the artist is the new vocalist, the old version had a different vocalist.
+    artist: erikomri
+    rearrange: {
+      title: Le garçon d'ete
+    }
+    title: {
+      ~: 1 cool no otoko
+      orig: 1クールの男
+    }
+    rg: {
+      gain: -9.54
+      range: 3.82
+      peak: 1.033225
+    }
+  }
+  {
+    artist: {
+      ~: No Bottom!
+      orig: ノーボトム!
+    }
+    title: TIN-DON-DANCE
+    subtitle: {
+      ~: Original Version
+      orig: オリジナルバージョン
+    }
+    rg: {
+      gain: -12.38
+      range: 3.05
+      peak: 1.179929
+    }
+  }
+  {
+    artist: {
+      ~: Kazuyoshi Maruyama
+      orig: 丸山和嘉
+    }
+    title: {
+      ~: TSUKI-KAGE-BANA
+      orig: 月影華
+    }
+    subtitle: {
+      ~: Long Version
+      orig: ロングバージョン
+    }
+    rg: {
+      gain: -9.95
+      range: 2.26
+      peak: 1.136578
+    }
+  }
+  {
+    artist: metro trip
+    title: {
+      ~: Tokyo girl
+      orig: 東京ガール
+    }
+    subtitle: pop'n long mix
+    rg: {
+      gain: -9.44
+      range: 2.69
+      peak: 1.077719
+    }
+  }
+]

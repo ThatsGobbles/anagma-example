@@ -1,0 +1,103 @@
+[
+  {
+    artist: platoniX
+    remix: {
+      artist: Dub Master X
+      title: Dub's Old Gamers Remix
+    }
+    title: CARRY ON NIGHT
+    rg: {
+      gain: -9.36
+      range: 4.27
+      peak: 1.150495
+    }
+  }
+  {
+    artist: Tatsh
+    feat: [
+      Junko Hirata
+      Sayaka Minami
+    ]
+    title: Double∞Loving Heart
+    rg: {
+      gain: -10.06
+      range: 2.49
+      peak: 1.134829
+    }
+  }
+  {
+    artist: Noria
+    rearrange: {
+      artist: Yasuhiro Abe
+    }
+    title: BABY LOVE
+    rg: {
+      gain: -9.49
+      range: 2.11
+      peak: 1.179819
+    }
+  }
+  {
+    artist: Asami
+    feat: DABO
+    title: Strong Woman
+    rg: {
+      gain: -9.36
+      range: 1.74
+      peak: 1.077370
+    }
+  }
+  {
+    artist: bermei.inazawa
+    feat: {
+      ~: Haruka Shimotsuki
+      orig: 霜月はるか
+    }
+    title: {
+      ~: Taitou no suika
+      orig: 泰東ノ翠霞
+    }
+    rg: {
+      gain: -7.20
+      range: 11.05
+      peak: 1.152643
+    }
+  }
+  {
+    artist: DJ CHUCKY
+    title: HYPE THE CORE
+    subtitle: original long version
+    rg: {
+      gain: -7.25
+      range: 7.30
+      peak: 1.060899
+    }
+  }
+  {
+    artist: {
+      ~: Nekomata Master
+      orig: 猫叉Master
+    }
+    title: satellite 020712 from "CODED ARMS"
+    subtitle: original long version
+    rg: {
+      gain: -7.26
+      range: 4.04
+      peak: 1.094477
+    }
+  }
+  {
+    artist: Togo project
+    feat: Sana
+    remix: {
+      artist: Midihead
+      title: Midihead's SmackDown Mix
+    }
+    title: jelly kiss
+    rg: {
+      gain: -9.12
+      range: 3.17
+      peak: 1.146376
+    }
+  }
+]
