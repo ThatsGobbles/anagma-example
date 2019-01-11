@@ -1,0 +1,134 @@
+[
+  {
+    artist: Osamu Kubota
+    title: {
+      ~: Mou hitotsu no sasori hi
+      orig: もうひとつの蠍火
+    }
+    subtitle: {
+      ~: Zouge to youchou to nikusei no tame no hensoukyoku
+      orig: 象牙と羊腸と肉声のための変奏曲
+    }
+    rg: {
+      gain: -5.70
+      range: 16.18
+      peak: 1.005739
+    }
+  }
+  {
+    artist: good-cool
+    feat: Raj Ramayya
+    remix: {
+      artist: ELEKTEL
+      title: PSE vs WBC mix
+    }
+    title: MOVE ME
+    rg: {
+      gain: -9.43
+      range: 4.37
+      peak: 1.045838
+    }
+  }
+  {
+    artist: Orange Lounge
+    remix: {
+      artist: Shinichiro Murayama
+      title: Beat Gallery Remix
+    }
+    title: Les filles balancent
+    rg: {
+      gain: -8.36
+      range: 7.15
+      peak: 1.085612
+    }
+  }
+  {
+    artist: DJ Yoshitaka
+    feat: {
+      ~: Kanako Hoshino
+      orig: 星野奏子
+    }
+    remix: {
+      artist: Yasuhiro Abe
+      title: Cool Extended Mix
+    }
+    title: D.A.N.C.E.!
+    rg: {
+      gain: -9.66
+      range: 6.02
+      peak: 1.049205
+    }
+  }
+  {
+    artist: Tatsh
+    feat: K.Nayuki
+    remix: {
+      artist: PINK PONG
+      title: FLASH BACK MIX
+    }
+    title: Sphere
+    rg: {
+      gain: -10.13
+      range: 7.78
+      peak: 1.014598
+    }
+  }
+  {
+    artist: SLAKE
+    remix: {
+      artist: SHU OKUYAMA
+      title: SHU OKUYAMA Remix
+    }
+    title: BLOCKS
+    rg: {
+      gain: -8.28
+      range: 3.72
+      peak: 1.325469
+    }
+  }
+  {
+    artist: platoniX
+    remix: {
+      artist: mh sequence
+      title: trance edge mix
+    }
+    title: Don't be afraid myself
+    rg: {
+      gain: -10.04
+      range: 4.55
+      peak: 0.927669
+    }
+  }
+  {
+    artist: D.J.SETUP
+    remix: {
+      artist: {
+        ~: Yoshihiro Sawasaki!
+        orig: サワサキヨシヒロ!
+      }
+      title: {
+        ~: Sawasaki Transformer mix
+        orig: サワサキトランス mix
+      }
+    }
+    title: spiral galaxy
+    rg: {
+      gain: -9.66
+      range: 4.58
+      peak: 1.062838
+    }
+  }
+  {
+    artist: Y&Co.
+    remix: {
+      artist: StripE
+      title: StripE Remix
+    }
+    title: SPEEDY CAT
+    rg: {
+      gain: -10.64
+      range: 3.36
+      peak: 1.045967
+    }
+  }
+]

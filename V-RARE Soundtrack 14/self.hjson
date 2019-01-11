@@ -1,0 +1,17 @@
+{
+  title: {
+    series: V-RARE Soundtrack
+    volume: 14
+  }
+  game: beatmania IIDX RED
+  catalog: LC-1465
+  publisher: KONAMI
+  date: 2006-05-18
+  source: CD
+  rg: {
+    algorithm: ITU-R BS.1770
+    ref_loudness: -18.00
+    gain: -9.52
+    range: 8.15
+  }
+}
