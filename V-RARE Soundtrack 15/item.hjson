@@ -1,0 +1,169 @@
+[
+  {
+    artist: [
+      Dormir
+      {
+        ~: Cary Trail
+        orig: ケイリートレイル
+      }
+    ]
+    title: Ferris wheel
+    rg: {
+      gain: -6.86
+      range: 9.38
+      peak: 1.075311
+    }
+  }
+  {
+    artist: {
+      ~: Giragira Megane Gakudan
+      orig: ギラギラメガネ楽団
+    }
+    rearrange: {
+      feat: MAKI
+    }
+    title: {
+      ~: Pop music zokuron
+      orig: ポップミュージック続論
+    }
+    rg: {
+      gain: -7.89
+      range: 4.89
+      peak: 1.038232
+    }
+  }
+  {
+    artist: {
+      ~: Cosmos
+      orig: 秋桜
+    }
+    title: {
+      ~: Kibou no tane
+      orig: キボウノタネ
+    }
+    rearrange: {
+      artist: private states
+      title: concerto long version
+    }
+    rg: {
+      gain: -7.56
+      range: 3.02
+      peak: 1.018278
+    }
+  }
+  {
+    artist: {
+      ~: Tsuyoshi
+      orig: つよし
+    }
+    remix: {
+      title: Grand Harmony Mix
+    }
+    title: {
+      ~: Taiyou to battle
+      orig: 太陽とバトル
+    }
+    rg: {
+      gain: -4.46
+      range: 7.80
+      peak: 0.965221
+    }
+  }
+  {
+    artist: Five Hammer
+    rearrange: {
+      artist: {
+        ~: Masato Matsuda
+        orig: 松田真人
+      }
+    }
+    title: {
+      ~: f/fffff
+      orig: ƒ/ƒƒƒƒƒ
+    }
+    rg: {
+      gain: -6.36
+      range: 4.03
+      peak: 1.009213
+    }
+  }
+  {
+    artist: {
+      ~: Kenji Ito
+      orig: 伊藤賢治
+    }
+    rearrange: {
+      artist: {
+        ~: Attic DMG
+        orig: アティックDMG
+      }
+      title: GB
+    }
+    title: {
+      ~: Battle XIII
+      orig: バトル XIII
+    }
+    rg: {
+      gain: -0.24
+      range: 1.93
+      peak: 0.516477
+    }
+  }
+  {
+    artist: {
+      ~: First National Highway and Electric Festival Promotion Association
+      orig: 国道一号と電機まつり促進協会
+    }
+    title: {
+      ~: Pop'n denki CM
+      orig: ポップン電機CM
+    }
+    rg: {
+      gain: -2.34
+      range: 8.08
+      peak: 1.014388
+    }
+  }
+  {
+    artist: {
+      ~: Silk Road
+      orig: 汁玄人
+    }
+    rearrange: {
+      artist: Yuki Kume
+      feat: {
+        ~: Shinya Miura
+        orig: 三浦慎也
+      }
+    }
+    title: {
+      ~: Otokozakari
+      orig: 男盛～おとこざかり
+    }
+    rg: {
+      gain: -7.33
+      range: 4.77
+      peak: 1.056632
+    }
+  }
+  {
+    artist: {
+      ~: Hideo Nishimoto
+      orig: 西本英雄
+      # TODO: Figure this out: 講談社少年マガジン連載「もう、しませんから」タイアップ曲より
+    }
+    title: {
+      ~: Saint Seiji no moto uta
+      orig: セイント☆セイジのもとうた
+    }
+    subtitle: {
+      ~: Kano meikyoku wa koko kara umareta!?
+      orig: かの迷曲はここから生まれた!?
+    }
+    rg: {
+      gain: 2.99
+      range: 7.21
+      peak: 0.813617
+    }
+  }
+]
