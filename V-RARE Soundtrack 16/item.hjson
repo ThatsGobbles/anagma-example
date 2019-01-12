@@ -1,0 +1,92 @@
+[
+  {
+    artist: Dormir
+    remix: {
+      artist: ELEKTEL
+      title: Orange Magic Mix
+    }
+    title: {
+      ~: Mahou no tamago
+      orig: 魔法のたまご
+    }
+    rg: {
+      gain: -7.94
+      range: 3.61
+      peak: 1.073904
+    }
+  }
+  {
+    artist: {
+      ~: Ru Ru Ru SYSTEM
+      orig: るるるSYSTEM
+    }
+    remix: {
+      title: {
+        ~: Hanya is Nya remix
+        orig: はにゃはにゃりみっくす
+      }
+    }
+    title: {
+      ~: Otome rumba
+      orig: オトメルンバ♪
+    }
+    rg: {
+      gain: -6.65
+      range: 5.27
+      peak: 1.125203
+    }
+  }
+  {
+    artist: DJ YOSHITAKA
+    # TODO: This featured artist is no longer present in the rearrange, how to handle?
+    feat: DWP
+    rearrange: {
+      artist: Studio Bongo Mango
+      feat: Tomoko Kataoka
+      title: L'amour dans le lycèe
+    }
+    title: High School Love
+    rg: {
+      gain: -5.55
+      range: 12.08
+      peak: 1.010679
+    }
+  }
+  {
+    artist: FIVE STICKS
+    rearrange: {
+      artist: {
+        ~: Kumakki
+        orig: クマッキー
+      }
+    }
+    title: BBBLLLAAASSSTTT!!!
+    rg: {
+      gain: -8.27
+      range: 1.60
+      peak: 0.990628
+    }
+  }
+  {
+    artist: [
+      {
+        ~: Daniel
+        orig: ダニエル
+      }
+      eimy
+      {
+        ~: Yoshi-kun
+        orig: よしくん
+      }
+    ]
+    title: {
+      ~: Odoru Fever Robo
+      orig: 踊るフィーバーロボ
+    }
+    rg: {
+      gain: -8.90
+      range: 15.35
+      peak: 1.104834
+    }
+  }
+]
