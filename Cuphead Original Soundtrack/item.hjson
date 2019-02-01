@@ -1,0 +1,456 @@
+[
+  {
+    title: Don't Deal With The Devil
+    rg: {
+      gain: -7.18
+      range: 3.06
+      peak: 0.965702
+    }
+  }
+  {
+    title: Don't Deal With The Devil
+    subtitle: Instrumental
+    rg: {
+      gain: -2.16
+      range: 7.29
+      peak: 0.783861
+    }
+  }
+  {
+    title: Introduction
+    rg: {
+      gain: -7.47
+      range: 3.57
+      peak: 0.941586
+    }
+  }
+  {
+    title: Tutorial
+    rg: {
+      gain: -3.91
+      range: 2.49
+      peak: 0.597830
+    }
+  }
+  {
+    title: Elder Kettle
+    rg: {
+      gain: -4.55
+      range: 7.51
+      peak: 0.859754
+    }
+  }
+  {
+    title: Inkwell Isle One
+    rg: {
+      gain: -7.43
+      range: 5.60
+      peak: 0.983303
+    }
+  }
+  {
+    title: Botanic Panic
+    rg: {
+      gain: -7.91
+      range: 4.67
+      peak: 1.021757
+    }
+  }
+  {
+    title: Die House
+    rg: {
+      gain: -6.89
+      range: 4.94
+      peak: 0.885807
+    }
+  }
+  {
+    title: Elder Kettle
+    subtitle: Piano
+    rg: {
+      gain: -1.68
+      range: 6.98
+      peak: 0.968656
+    }
+  }
+  {
+    title: Threatenin' Zeppelin
+    rg: {
+      gain: -8.01
+      range: 5.88
+      peak: 1.002421
+    }
+  }
+  {
+    title: Treetop Trouble
+    rg: {
+      gain: -4.09
+      range: 4.40
+      peak: 0.830794
+    }
+  }
+  {
+    title: Ruse Of An Ooze
+    rg: {
+      gain: -7.29
+      range: 4.82
+      peak: 1.022409
+    }
+  }
+  {
+    title: Floral Fury
+    rg: {
+      gain: -7.76
+      range: 4.06
+      peak: 1.004601
+    }
+  }
+  {
+    title: Inkwell Isle One
+    subtitle: Piano
+    rg: {
+      gain: -6.51
+      range: 4.61
+      peak: 0.938665
+    }
+  }
+  {
+    title: Clip Joint Calamity
+    rg: {
+      gain: -6.70
+      range: 5.09
+      peak: 1.036432
+    }
+  }
+  {
+    title: Forest Follies
+    rg: {
+      gain: -5.27
+      range: 3.19
+      peak: 0.823610
+    }
+  }
+  {
+    title: Inkwell Isle Two
+    rg: {
+      gain: -9.46
+      range: 3.53
+      peak: 0.993106
+    }
+  }
+  {
+    title: Sugarland Shimmy
+    rg: {
+      gain: -7.47
+      range: 3.94
+      peak: 1.011191
+    }
+  }
+  {
+    title: Aviary Action
+    rg: {
+      gain: -8.70
+      range: 4.37
+      peak: 1.040513
+    }
+  }
+  {
+    title: Inkwell Isle Two
+    subtitle: Piano
+    rg: {
+      gain: -7.29
+      range: 3.99
+      peak: 0.944260
+    }
+  }
+  {
+    title: Carnival Kerfuffle
+    rg: {
+      gain: -6.46
+      range: 7.33
+      peak: 1.000665
+    }
+  }
+  {
+    title: Fiery Frolic
+    rg: {
+      gain: -6.73
+      range: 5.10
+      peak: 1.003760
+    }
+  }
+  {
+    title: Funfair Fever
+    rg: {
+      gain: -5.41
+      range: 4.96
+      peak: 0.762443
+    }
+  }
+  {
+    title: The Mausoleum
+    rg: {
+      gain: -5.38
+      range: 8.66
+      peak: 1.025264
+    }
+  }
+  {
+    title: Legendary Ghost
+    rg: {
+      gain: -2.86
+      range: 1.35
+      peak: 0.966952
+    }
+  }
+  {
+    title: Pyramid Peril
+    rg: {
+      gain: -6.10
+      range: 4.25
+      peak: 1.023103
+    }
+  }
+  {
+    title: Victory Tune
+    rg: {
+      gain: -7.36
+      range: 6.06
+      peak: 0.932612
+    }
+  }
+  {
+    title: Hurry Up
+    rg: {
+      gain: -8.79
+      range: 3.27
+      peak: 1.005218
+    }
+  }
+  {
+    title: A Quick Break
+    rg: {
+      gain: -5.35
+      range: 2.63
+      peak: 0.797218
+    }
+  }
+  {
+    title: Coin-Op Bop
+    rg: {
+      gain: -6.67
+      range: 1.65
+      peak: 0.795190
+    }
+  }
+  {
+    title: High Score
+    rg: {
+      gain: -6.03
+      range: 2.38
+      peak: 0.734465
+    }
+  }
+  {
+    title: Funhouse Frazzle
+    rg: {
+      gain: -6.77
+      range: 2.30
+      peak: 0.832384
+    }
+  }
+  {
+    title: Inkwell Isle Three
+    rg: {
+      gain: -6.98
+      range: 3.99
+      peak: 1.009842
+    }
+  }
+  {
+    title: Honeycomb Herald
+    rg: {
+      gain: -6.64
+      range: 5.39
+      peak: 1.011572
+    }
+  }
+  {
+    title: Porkrind's Shop
+    rg: {
+      gain: -4.84
+      range: 2.75
+      peak: 0.700387
+    }
+  }
+  {
+    title: Shootin n' Lootin
+    rg: {
+      gain: -7.62
+      range: 5.29
+      peak: 1.021679
+    }
+  }
+  {
+    title: Dramatic Fanatic
+    rg: {
+      gain: -8.14
+      range: 6.14
+      peak: 1.012785
+    }
+  }
+  {
+    title: Perilous Piers
+    rg: {
+      gain: -5.79
+      range: 3.53
+      peak: 0.805227
+    }
+  }
+  {
+    title: Murine Corps
+    rg: {
+      gain: -7.36
+      range: 3.63
+      peak: 0.999747
+    }
+  }
+  {
+    title: Junkyard Jive
+    rg: {
+      gain: -6.74
+      range: 5.76
+      peak: 0.996492
+    }
+  }
+  {
+    title: Rugged Ridge
+    rg: {
+      gain: -5.33
+      range: 3.84
+      peak: 0.802996
+    }
+  }
+  {
+    title: High Seas Hi-jinx
+    rg: {
+      gain: -7.90
+      range: 4.86
+      peak: 1.017026
+    }
+  }
+  {
+    title: Railroad Wrath
+    rg: {
+      gain: -7.92
+      range: 7.78
+      peak: 1.011370
+    }
+  }
+  {
+    title: Inkwell Isle Three
+    subtitle: Piano
+    rg: {
+      gain: -3.97
+      range: 4.75
+      peak: 0.862651
+    }
+  }
+  {
+    title: The Airship
+    rg: {
+      gain: -7.70
+      range: 5.37
+      peak: 1.009599
+    }
+  }
+  {
+    title: All Bets Are Off
+    rg: {
+      gain: -5.54
+      range: 8.04
+      peak: 1.014073
+    }
+  }
+  {
+    title: Inkwell Hell
+    rg: {
+      gain: -1.70
+      range: 9.19
+      peak: 0.867814
+    }
+  }
+  {
+    title: The King's Court
+    rg: {
+      gain: -7.66
+      range: 3.80
+      peak: 1.003357
+    }
+  }
+  {
+    title: Inkwell Hell
+    subtitle: Piano
+    rg: {
+      gain: 1.93
+      range: 10.98
+      peak: 0.968033
+    }
+  }
+  {
+    title: Chief Evil Officer
+    rg: {
+      gain: -7.88
+      range: 14.50
+      peak: 0.990693
+    }
+  }
+  {
+    title: Admission To Perdition
+    rg: {
+      gain: -8.93
+      range: 4.57
+      peak: 1.051544
+    }
+  }
+  {
+    title: Ominous Interlude
+    rg: {
+      gain: -8.73
+      range: -7.51
+      peak: 0.969377
+    }
+  }
+  {
+    title: One Hell Of A Time
+    rg: {
+      gain: -7.10
+      range: 6.44
+      peak: 1.002459
+    }
+  }
+  {
+    title: The End
+    rg: {
+      gain: -1.73
+      range: 5.19
+      peak: 0.750252
+    }
+  }
+  {
+    title: Winner Takes All
+    rg: {
+      gain: -8.77
+      range: 4.02
+      peak: 1.041481
+    }
+  }
+  {
+    title: Closing Credits
+    rg: {
+      gain: -7.26
+      range: 11.13
+      peak: 1.016860
+    }
+  }
+]
