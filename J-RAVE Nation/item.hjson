@@ -1,0 +1,94 @@
+[
+  {
+    artist: Disconation
+    title: Get 'em up to R.A.V.E.
+    subtitle: Extended
+    rg: {
+      gain: -11.30
+      range: 3.77
+      peak: 1.066277
+    }
+  }
+  {
+    artist: Y&Co.
+    title: Y&Co. Is Still Alive
+    rg: {
+      gain: -11.65
+      range: 3.11
+      peak: 1.034927
+    }
+  }
+  {
+    artist: DM Ashura
+    title: π-ρ-maniac
+    rg: {
+      gain: -11.41
+      range: 2.53
+      peak: 1.057341
+    }
+  }
+  {
+    artist: Disconation
+    title: Masquerade
+    rg: {
+      gain: -10.59
+      range: 5.25
+      peak: 1.064364
+    }
+  }
+  {
+    artist: Hommarju
+    title: Toy Toy Surprise
+    rg: {
+      gain: -11.15
+      range: 2.99
+      peak: 1.116049
+    }
+  }
+  {
+    artist: StripE
+    title: meta Dimension
+    rg: {
+      gain: -10.26
+      range: 7.81
+      peak: 1.072290
+    }
+  }
+  {
+    artist: Masayoshi Minoshima
+    title: Rave Launcher Mk. I
+    rg: {
+      gain: -8.77
+      range: 3.77
+      peak: 1.104963
+    }
+  }
+  {
+    artist: Akira Complex
+    title: Foresight
+    rg: {
+      gain: -9.01
+      range: 6.27
+      peak: 1.097660
+    }
+  }
+  {
+    artist: Cranky
+    title: Danger & Danger
+    rg: {
+      gain: -11.89
+      range: 1.80
+      peak: 1.055498
+    }
+  }
+  {
+    artist: Disconation
+    title: Flash Back 90's
+    subtitle: Extended
+    rg: {
+      gain: -11.65
+      range: 3.28
+      peak: 1.073987
+    }
+  }
+]
