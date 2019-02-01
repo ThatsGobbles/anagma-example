@@ -1,0 +1,100 @@
+[
+  {
+    artist: lapix
+    title: Babylon
+    rg: {
+      gain: -11.24
+      range: 7.36
+      peak: 1.050320
+    }
+  }
+  {
+    artist: DJ Noriken
+    title: Undulation
+    rg: {
+      gain: -12.83
+      range: 3.22
+      peak: 1.046845
+    }
+  }
+  {
+    artist: MAD CHILD
+    title: Voice 2 Voice
+    subtitle: Extended Mix
+    rg: {
+      gain: -11.99
+      range: 4.18
+      peak: 1.019993
+    }
+  }
+  {
+    artist: C-Show
+    title: Best Bout
+    rg: {
+      gain: -12.10
+      range: 2.66
+      peak: 1.087146
+    }
+  }
+  {
+    artist: The Third Man
+    title: The Vision
+    rg: {
+      gain: -11.99
+      range: 5.69
+      peak: 1.119663
+    }
+  }
+  {
+    artist: MAD CHILD
+    remix: {
+      artist: DJ ni-21
+    }
+    title: Relentless
+    rg: {
+      gain: -12.14
+      range: 5.25
+      peak: 1.005327
+    }
+  }
+  {
+    artist: Maya Akai
+    title: Sequence
+    rg: {
+      gain: -12.66
+      range: 3.13
+      peak: 1.085969
+    }
+  }
+  {
+    artist: Nhato
+    title: Vintage Future
+    rg: {
+      gain: -12.04
+      range: 4.92
+      peak: 1.054770
+    }
+  }
+  {
+    artist: Tomoyuki Sakakida
+    feat: Onyan
+    remix: {}
+    title: Wild Rose
+    rg: {
+      gain: -11.77
+      range: 3.02
+      peak: 1.017355
+    }
+  }
+  {
+    artist: Tomoyuki Sakakida
+    feat: Onyan
+    title: Wild Rose
+    subtitle: Extended
+    rg: {
+      gain: -11.58
+      range: 4.28
+      peak: 1.001466
+    }
+  }
+]

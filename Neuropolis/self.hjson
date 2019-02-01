@@ -1,0 +1,14 @@
+{
+  title: {
+    series: Neuropolis
+    volume: 1
+  }
+  date: 2014-04-27
+  catalog: MSTFCD-002
+  source: CD
+  label: R135TRACKS
+  rg: {
+    gain: -12.07
+    range: 4.42
+  }
+}
