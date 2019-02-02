@@ -1,0 +1,128 @@
+[
+  {
+    title: Intro
+    rg: {
+      gain: -9.10
+      range: 14.12
+      peak: 1.167607
+    }
+  }
+  {
+    title: PsyStyle Nation
+    rg: {
+      gain: -12.56
+      range: 7.96
+      peak: 1.245213
+    }
+  }
+  {
+    artist: lapix
+    title: Black Mamba
+    rg: {
+      gain: -13.20
+      range: 3.58
+      peak: 1.194819
+    }
+  }
+  {
+    artist: lapix
+    title: Labyrinth
+    rg: {
+      gain: -11.84
+      range: 6.36
+      peak: 1.222395
+    }
+  }
+  {
+    title: JIPANG
+    rg: {
+      gain: -12.79
+      range: 9.86
+      peak: 1.332902
+    }
+  }
+  {
+    artist: Massive New Krew
+    title: DMT
+    rg: {
+      gain: -12.35
+      range: 9.40
+      peak: 1.624800
+    }
+  }
+  {
+    artist: lapix
+    title: You're Beautiful
+    rg: {
+      gain: -11.49
+      range: 5.96
+      peak: 1.304467
+    }
+  }
+  {
+    feat: Kanatan.N
+    title: 1Q57
+    subtitle: interlude
+    rg: {
+      gain: -10.20
+      range: 15.31
+      peak: 1.108601
+    }
+  }
+  {
+    feat: Kanatan.N
+    title: Sputnik
+    rg: {
+      gain: -11.97
+      range: 4.43
+      peak: 1.144628
+    }
+  }
+  {
+    artist: Massive New Krew
+    title: Mandragora
+    rg: {
+      gain: -11.88
+      range: 6.18
+      peak: 1.292946
+    }
+  }
+  {
+    artist: lapix
+    title: Out In Middle
+    rg: {
+      gain: -13.23
+      range: 6.96
+      peak: 1.249581
+    }
+  }
+  {
+    artist: Massive New Krew
+    title: Shake
+    rg: {
+      gain: -10.92
+      range: 8.27
+      peak: 1.353207
+    }
+  }
+  {
+    artist: [
+      HiTECH NINJA
+      Massive New Krew
+    ]
+    title: PsyStyle NINJA
+    rg: {
+      gain: -11.49
+      range: 9.31
+      peak: 1.401998
+    }
+  }
+  {
+    title: Outro
+    rg: {
+      gain: -8.49
+      range: 10.74
+      peak: 1.204562
+    }
+  }
+]

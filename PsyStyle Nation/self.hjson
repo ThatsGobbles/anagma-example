@@ -1,0 +1,15 @@
+{
+  artist: [
+    lapix
+    Massive New Krew
+  ]
+  title: PsyStyle Nation
+  source: CD
+  label: Bizzare Nation
+  catalog: BZRN-001
+  date: 2017-04-30
+  rg: {
+    gain: -11.93
+    range: 8.72
+  }
+}
