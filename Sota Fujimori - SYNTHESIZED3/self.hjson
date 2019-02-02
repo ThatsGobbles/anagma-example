@@ -1,0 +1,17 @@
+{
+  title: {
+    series: SYNTHESIZED
+    volume: 3
+  }
+  catalog: [
+    LC-2026
+    LC-2027
+  ]
+  publisher: KONAMI
+  artist: Sota Fujimori
+  date: 2011-06-09
+  rg: {
+    gain: -11.45
+    range: 7.43
+  }
+}

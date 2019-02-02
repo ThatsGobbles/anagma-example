@@ -1,0 +1,369 @@
+[
+  {
+    title: SYNTHESIZED3
+    rg: {
+      gain: -11.92
+      range: 11.97
+      peak: 1.450803
+    }
+  }
+  {
+    feat: Sana
+    title: Dear My Boy
+    rg: {
+      gain: -12.36
+      range: 5.01
+      peak: 1.434250
+    }
+  }
+  {
+    title: Nu Romantic Disco
+    rg: {
+      gain: -12.38
+      range: 4.04
+      peak: 1.458981
+    }
+  }
+  {
+    title: with you... 2011
+    rg: {
+      gain: -11.65
+      range: 2.48
+      peak: 1.324068
+    }
+  }
+  {
+    title: Try 2 Luv. U
+    remix: {
+      title: SF Electro House Mix
+    }
+    rg: {
+      gain: -11.12
+      range: 4.36
+      peak: 1.280431
+    }
+  }
+  {
+    title: Maximum Hop
+    rg: {
+      gain: -11.46
+      range: 4.38
+      peak: 1.205925
+    }
+  }
+  {
+    title: Just a Little Smile
+    remix: {
+      title: SF_DubStep Mix
+    }
+    rg: {
+      gain: -11.98
+      range: 7.05
+      peak: 1.455883
+    }
+  }
+  {
+    title: Need Your Love
+    extend: {
+      title: Extended Mix
+    }
+    rg: {
+      gain: -11.67
+      range: 6.77
+      peak: 1.195172
+    }
+  }
+  {
+    feat: Kanae
+    title: So Good!!
+    extend: {
+      title: Extended Mix
+    }
+    rg: {
+      gain: -11.41
+      range: 6.97
+      peak: 1.220087
+    }
+  }
+  {
+    feat: Calin
+    title: Prophet Vibe
+    extend: {
+      title: Extended Mix
+    }
+    rg: {
+      gain: -11.46
+      range: 6.59
+      peak: 1.239624
+    }
+  }
+  {
+    feat: Sana
+    title: think about you
+    rg: {
+      gain: -9.32
+      range: 9.58
+      peak: 1.236121
+    }
+  }
+  {
+    feat: Anna Quinn
+    title: Sky Is The Limit
+    extend: {
+      title: Extended Mix
+    }
+    rg: {
+      gain: -11.44
+      range: 6.55
+      peak: 1.335426
+    }
+  }
+  {
+    artist: SADA
+    remix: {
+      artist: Sota Fujimori
+      title: SF_"GACHI" Trance Mix
+    }
+    title: STAR FIELD
+    rg: {
+      gain: -12.50
+      range: 6.06
+      peak: 1.216082
+    }
+  }
+  {
+    title: ANDROMEDA
+    remix: {
+      title: SF_2011 Mix
+    }
+    rg: {
+      gain: -12.72
+      range: 2.38
+      peak: 1.509781
+    }
+  }
+  {
+    title: Hybrid Landscape
+    remix: {
+      title: SF_P600 Mix
+    }
+    rg: {
+      gain: -11.74
+      range: 4.85
+      peak: 1.429129
+    }
+  }
+  {
+    feat: dj MAX STEROID
+    title: Never Fade Away
+    extend: {
+      title: Extended Mix
+    }
+    rg: {
+      gain: -11.21
+      range: 6.08
+      peak: 1.337332
+    }
+  }
+  {
+    title: Welcome To GTI Club
+    rg: {
+      gain: -10.97
+      range: 2.30
+      peak: 1.159275
+    }
+  }
+  {
+    title: Smooth Drivin'
+    rg: {
+      gain: -11.25
+      range: 2.87
+      peak: 1.296446
+    }
+  }
+  {
+    title: Tangerine Sunset
+    rg: {
+      gain: -10.57
+      range: 1.92
+      peak: 1.143363
+    }
+  }
+  {
+    title: Trippin' Vibes
+    rg: {
+      gain: -10.15
+      range: 6.60
+      peak: 1.085029
+    }
+  }
+  {
+    title: One More Lap
+    rg: {
+      gain: -9.64
+      range: 6.23
+      peak: 1.134957
+    }
+  }
+  {
+    title: Drum'n Funk
+    rg: {
+      gain: -10.82
+      range: 3.63
+      peak: 1.151066
+    }
+  }
+  {
+    title: 60 Seconds
+    rg: {
+      gain: -10.88
+      range: 1.73
+      peak: 1.165096
+    }
+  }
+  {
+    title: Let's Drive The Funk
+    rg: {
+      gain: -11.13
+      range: 1.73
+      peak: 1.178881
+    }
+  }
+  {
+    title: Milano Selection
+    rg: {
+      gain: -10.92
+      range: 1.71
+      peak: 1.281665
+    }
+  }
+  {
+    title: Tokyo God Father Funk
+    rg: {
+      gain: -10.98
+      range: 2.61
+      peak: 1.393915
+    }
+  }
+  {
+    title: 100% Odyssey -New Mix-
+    rg: {
+      gain: -13.46
+      range: 3.34
+      peak: 1.381479
+    }
+  }
+  {
+    title: Free Race
+    rg: {
+      gain: -11.63
+      range: 3.09
+      peak: 1.425148
+    }
+  }
+  {
+    title: Satellite Strike
+    rg: {
+      gain: -11.12
+      range: 3.96
+      peak: 1.395718
+    }
+  }
+  {
+    title: Road Fighters Opening
+    rg: {
+      gain: -11.46
+      range: 15.79
+      peak: 1.106365
+    }
+  }
+  {
+    title: The Racer
+    rg: {
+      gain: -11.41
+      range: 5.28
+      peak: 1.313469
+    }
+  }
+  {
+    title: Speed It Up
+    rg: {
+      gain: -12.40
+      range: 6.22
+      peak: 1.320742
+    }
+  }
+  {
+    title: Result
+    rg: {
+      gain: -10.58
+      range: 2.16
+      peak: 1.235145
+    }
+  }
+  {
+    title: Time Attack
+    rg: {
+      gain: -12.67
+      range: 3.18
+      peak: 1.356669
+    }
+  }
+  {
+    title: Mode Event
+    rg: {
+      gain: -12.49
+      range: 4.95
+      peak: 1.191637
+    }
+  }
+  {
+    title: Mode Select
+    rg: {
+      gain: -11.17
+      range: 3.08
+      peak: 1.289203
+    }
+  }
+  {
+    title: Take Me Higher
+    rearrange: {
+      title: Instrumental
+    }
+    rg: {
+      gain: -11.44
+      range: 2.29
+      peak: 1.203117
+    }
+  }
+  {
+    title: New Decade
+    extend: {
+      title: Extended Mix
+    }
+    rg: {
+      gain: -12.07
+      range: 4.62
+      peak: 1.404799
+    }
+  }
+  {
+    title: Eternally
+    rg: {
+      gain: -4.99
+      range: 7.22
+      peak: 0.985795
+    }
+  }
+  {
+    title: Fly Above
+    rearrange: {
+      title: Piano Version
+    }
+    rg: {
+      gain: -1.91
+      range: 9.85
+      peak: 1.002668
+    }
+  }
+]
