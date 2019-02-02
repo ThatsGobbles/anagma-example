@@ -1,0 +1,185 @@
+[
+  {
+    artist: Plusma
+    title: Bistro
+    subtitle: Intro
+    isrc: TCACX1747893
+    rg: {
+      gain: -5.36
+      range: 12.21
+      peak: 0.985851
+    }
+  }
+  {
+    artist: Glue70
+    title: Kakuna
+    isrc: TCACX1747905
+    rg: {
+      gain: -6.84
+      range: 4.96
+      peak: 0.991443
+    }
+  }
+  {
+    artist: Monma
+    title: Breakfast
+    isrc: TCACX1747906
+    rg: {
+      gain: -6.97
+      range: 11.44
+      peak: 0.991160
+    }
+  }
+  {
+    artist: Philanthrope
+    feat: Plusma
+    title: Lament
+    isrc: TCACX1747908
+    rg: {
+      gain: -7.20
+      range: 4.44
+      peak: 1.069746
+    }
+  }
+  {
+    artist: Bassti
+    title: Time
+    isrc: TCACX1747909
+    rg: {
+      gain: -5.98
+      range: 9.98
+      peak: 0.988637
+    }
+  }
+  {
+    artist: Omaure
+    feat: Flitz&Suppe
+    title: Double Cheese with Fries
+    isrc: TCACX1747917
+    rg: {
+      gain: -6.84
+      range: 11.40
+      peak: 0.984660
+    }
+  }
+  {
+    artist: Juan RIOS
+    title: Freedom
+    isrc: TCACX1747921
+    rg: {
+      gain: -6.76
+      range: 10.43
+      peak: 1.027581
+    }
+  }
+  {
+    artist: invention_
+    title: -ｘｐｋｔ
+    isrc: TCACX1747922
+    rg: {
+      gain: -6.97
+      range: 9.73
+      peak: 0.991783
+    }
+  }
+  {
+    artist: Flughand
+    title: Puguliese
+    isrc: TCACX1747924
+    rg: {
+      gain: -5.39
+      range: 3.45
+      peak: 0.990538
+    }
+  }
+  {
+    artist: idealism
+    title: Lonely
+    isrc: TCACX1747925
+    rg: {
+      gain: -5.77
+      range: 5.75
+      peak: 0.993883
+    }
+  }
+  {
+    artist: The Deli
+    title: Breeze
+    isrc: TCACX1747928
+    rg: {
+      gain: -3.38
+      range: 4.83
+      peak: 0.971914
+    }
+  }
+  {
+    artist: Limes
+    title: Shimmer
+    isrc: TCACX1747931
+    rg: {
+      gain: -6.45
+      range: 11.56
+      peak: 0.999455
+    }
+  }
+  {
+    artist: Otesla
+    title: Gardens
+    isrc: TCACX1747933
+    rg: {
+      gain: -7.28
+      range: 11.78
+      peak: 0.991222
+    }
+  }
+  {
+    artist: emune
+    title: fallback
+    isrc: TCACX1747936
+    rg: {
+      gain: -9.81
+      range: 4.71
+      peak: 0.980879
+    }
+  }
+  {
+    artist: Made in M
+    title: Chinua
+    isrc: TCACX1747939
+    rg: {
+      gain: -7.48
+      range: 5.79
+      peak: 0.994074
+    }
+  }
+  {
+    artist: Coryayo
+    title: De Orfeu
+    isrc: TCACX1747947
+    rg: {
+      gain: -4.47
+      range: 2.51
+      peak: 1.004264
+    }
+  }
+  {
+    artist: drwn.
+    title: mirage
+    isrc: TCACX1747950
+    rg: {
+      gain: -3.03
+      range: 10.24
+      peak: 0.996253
+    }
+  }
+  {
+    artist: Tusken
+    title: Trey Gowdy
+    isrc: TCACX1747953
+    rg: {
+      gain: -9.27
+      range: 11.64
+      peak: 0.989405
+    }
+  }
+]

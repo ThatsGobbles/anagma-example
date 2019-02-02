@@ -1,0 +1,194 @@
+[
+  {
+    artist: nohidea
+    title: Drowning
+    rg: {
+      gain: -4.00
+      range: 12.52
+      peak: 0.842552
+    }
+  }
+  {
+    artist: Bluntone
+    title: The Whut
+    rg: {
+      gain: -7.76
+      range: 3.50
+      peak: 0.937828
+    }
+  }
+  {
+    artist: Fushou.
+    title: Born Again
+    rg: {
+      gain: -7.09
+      range: 8.33
+      peak: 1.040244
+    }
+  }
+  {
+    artist: [
+      Mt.Fujitive
+      ntourage
+    ]
+    title: Melanin
+    rg: {
+      gain: -5.53
+      range: 8.94
+      peak: 1.003941
+    }
+  }
+  {
+    artist: DRWN.
+    title: Estate
+    rg: {
+      gain: -5.92
+      range: 10.99
+      peak: 1.000058
+    }
+  }
+  {
+    artist: Juan RIOS
+    title: Noche
+    rg: {
+      gain: -6.59
+      range: 15.52
+      peak: 1.007306
+    }
+  }
+  {
+    artist: fantompower
+    title: Things Work Out Eventually
+    rg: {
+      gain: -7.87
+      range: 11.36
+      peak: 1.007945
+    }
+  }
+  {
+    artist: Jhfly
+    title: Sleepin
+    rg: {
+      gain: -6.40
+      range: 7.13
+      peak: 1.027032
+    }
+  }
+  {
+    artist: sugi.wa
+    title: Je T'aime
+    rg: {
+      gain: -5.69
+      range: 4.47
+      peak: 1.003838
+    }
+  }
+  {
+    artist: Made in M
+    title: Pero Asi
+    rg: {
+      gain: -6.82
+      range: 8.08
+      peak: 1.005528
+    }
+  }
+  {
+    artist: Bassti
+    title: Warm But Cold
+    rg: {
+      gain: -2.76
+      range: 11.93
+      peak: 1.019466
+    }
+  }
+  {
+    artist: Jinsang
+    title: Slumpin
+    rg: {
+      gain: -5.81
+      range: 15.14
+      peak: 1.006805
+    }
+  }
+  {
+    artist: leavv
+    title: Home
+    rg: {
+      gain: -7.72
+      range: 9.62
+      peak: 0.960839
+    }
+  }
+  {
+    artist: Idealism
+    title: Both Of Us
+    rg: {
+      gain: -5.17
+      range: 7.69
+      peak: 1.036911
+    }
+  }
+  {
+    artist: emune
+    title: Morena
+    rg: {
+      gain: -6.28
+      range: 5.35
+      peak: 0.748378
+    }
+  }
+  {
+    artist: tusken.
+    title: Premace
+    rg: {
+      gain: -7.69
+      range: 5.89
+      peak: 1.000392
+    }
+  }
+  {
+    artist: Plusma
+    title: Monza
+    rg: {
+      gain: -5.49
+      range: 15.63
+      peak: 1.024723
+    }
+  }
+  {
+    artist: Fujitsu
+    title: Awaiting
+    rg: {
+      gain: -5.44
+      range: 12.32
+      peak: 1.017570
+    }
+  }
+  {
+    artist: Beatboxbandit
+    title: One Last Thing
+    rg: {
+      gain: -7.06
+      range: 1.72
+      peak: 0.890552
+    }
+  }
+  {
+    artist: Philanthrope
+    title: Dromeda
+    rg: {
+      gain: -7.39
+      range: 5.57
+      peak: 1.041065
+    }
+  }
+  {
+    artist: Tesk
+    title: Datswing
+    rg: {
+      gain: -5.16
+      range: 12.38
+      peak: 1.088741
+    }
+  }
+]
