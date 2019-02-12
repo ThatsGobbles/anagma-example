@@ -52,6 +52,7 @@
     }
   }
   {
+    artist: Expander
     title: Move That Body
     remix: {
       title: Extended Mix
@@ -74,6 +75,7 @@
     }
   }
   {
+    artist: Expander
     title: diagram
     remix: {
       title: Extended Mix
@@ -85,6 +87,7 @@
     }
   }
   {
+    artist: Expander
     title: subtractive
     remix: {
       title: Extended Mix
@@ -96,6 +99,7 @@
     }
   }
   {
+    artist: Expander
     title: aura
     remix: {
       title: Extended Mix
@@ -145,6 +149,7 @@
     }
   }
   {
+    artist: Sota Fujimori 2nd Season
     title: Cattleya
     remix: {
       title: Extended Mix
