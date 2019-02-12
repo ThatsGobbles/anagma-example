@@ -1,0 +1,194 @@
+[
+  {
+    artist: Sota Fujimori
+    title: SYNTHESIZED4
+    rg: {
+      gain: -11.89
+      range: 6.78
+      peak: 1.554314
+    }
+  }
+  {
+    artist: Sota Fujimori
+    feat: Carol Gadsden
+    title: Fever
+    remix: {
+      title: 2012 Extended Mix
+    }
+    rg: {
+      gain: -11.51
+      range: 3.35
+      peak: 1.323001
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: ELECTRONIC
+    rg: {
+      gain: -12.12
+      range: 3.24
+      peak: 1.403085
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Need Your Love
+    remix: {
+      title: SF_Dubstep Mix
+    }
+    rg: {
+      gain: -11.66
+      range: 7.79
+      peak: 1.464530
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: New Beginning
+    remix: {
+      title: Extended Mix
+    }
+    rg: {
+      gain: -11.67
+      range: 4.84
+      peak: 1.455327
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: VOLTEXES
+    remix: {
+      title: Extended Mix
+    }
+    rg: {
+      gain: -11.80
+      range: 5.12
+      peak: 1.267624
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: EPIC
+    remix: {
+      title: Extended Mix
+    }
+    rg: {
+      gain: -12.20
+      range: 4.55
+      peak: 1.334398
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: "[E]"
+    remix: {
+      title: Extended Mix
+    }
+    rg: {
+      gain: -11.97
+      range: 4.78
+      peak: 1.556664
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Mother Ship
+    remix: {
+      title: Extended Mix
+    }
+    rg: {
+      gain: -12.45
+      range: 3.10
+      peak: 1.455331
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Give Me MORE!!
+    remix: {
+      title: Extended Mix
+    }
+    rg: {
+      gain: -11.89
+      range: 5.06
+      peak: 1.208009
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Bangin' Breaks
+    remix: {
+      title: Extended Mix
+    }
+    rg: {
+      gain: -12.16
+      range: 7.95
+      peak: 1.204669
+    }
+  }
+  {
+    artist: Sota Fujimori
+    feat: Kanako Hoshino
+    title: Lucky Days
+    remix: {
+      title: Analog Synth Mix
+    }
+    rg: {
+      gain: -11.90
+      range: 2.60
+      peak: 1.279605
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Road 2 London
+    rg: {
+      gain: -12.44
+      range: 3.55
+      peak: 1.224599
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: polygon
+    remix: {
+      title: Extended Mix
+    }
+    rg: {
+      gain: -12.12
+      range: 4.49
+      peak: 1.542725
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: Deep Blue Sky
+    rg: {
+      gain: -11.58
+      range: 9.21
+      peak: 1.265743
+    }
+  }
+  {
+    artist: Sota Fujimori
+    feat: Aimee Blackschleger
+    title: In Heaven
+    remix: {
+      title: Extended Mix
+    }
+    rg: {
+      gain: -11.86
+      range: 3.90
+      peak: 1.310318
+    }
+  }
+  {
+    artist: Sota Fujimori
+    title: OMOIDE
+    rg: {
+      gain: -10.55
+      range: 7.36
+      peak: 1.170991
+    }
+  }
+]

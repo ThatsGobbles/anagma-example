@@ -1,0 +1,15 @@
+{
+  title: {
+    series: SYNTHESIZED
+    volume: 4
+  }
+  catalog: LC-2142
+  source: CD
+  publisher: KONAMI
+  artist: Sota Fujimori
+  date: 2012-11-21
+  rg: {
+    gain: -11.90
+    range: 4.76
+  }
+}
