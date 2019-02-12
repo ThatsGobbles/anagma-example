@@ -1,0 +1,15 @@
+{
+  title: {
+    series: SYNTHESIZED
+    volume: 5
+  }
+  catalog: LC-2219
+  source: CD
+  publisher: KONAMI
+  artist: Sota Fujimori
+  date: 2014-10-08
+  rg: {
+    gain: -12.79
+    range: 5.86
+  }
+}
