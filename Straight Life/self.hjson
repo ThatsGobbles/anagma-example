@@ -2,7 +2,10 @@
   title: Straight Life
   artist: The Noisy Freaks
   date: 2014-02-17
-  vendor: Bandcamp
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
   rg: {
     gain: -9.12
     range: 9.23

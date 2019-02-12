@@ -3,7 +3,10 @@
     series: Raw Cuts
     volume: 1
   }
-  vendor: Bandcamp
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
   label: Chillhop Records
   date: 2017-02-13
   rg: {

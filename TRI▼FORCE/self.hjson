@@ -1,6 +1,9 @@
 {
   title: TRI▼FORCE
-  vendor: Bandcamp
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
   catalog: TRIF-0001
   artist: TRI▼FORCE
   date: 2016-10-30

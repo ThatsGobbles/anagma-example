@@ -3,7 +3,10 @@
     series: Chillhop Essentials
     season: Summer 2017
   }
-  vendor: Bandcamp
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
   label: Chillhop Records
   date: 2017-06-12
   rg: {

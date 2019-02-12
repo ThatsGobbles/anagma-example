@@ -2,7 +2,10 @@
   title: The Sixth Sense EP
   artist: The Noisy Freaks
   date: 2015-12-01
-  vendor: Toneden
+  source: {
+    ~: Digital
+    vendor: Toneden
+  }
   rg: {
     gain: -9.37
     range: 8.35

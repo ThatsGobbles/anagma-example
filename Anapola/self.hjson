@@ -1,7 +1,10 @@
 {
   title: Anapola
   artist: Pigarette
-  vendor: Bandcamp
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
   date: 2016-04-16
   rg: {
     gain: -4.23
