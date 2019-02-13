@@ -1,0 +1,14 @@
+{
+  title: Panic
+  artist: Caravan Palace
+  date: 2012-03-05
+  label: Café de la Danse
+  source: {
+      ~: Digital
+      vendor: Juno Download
+  }
+  rg: {
+    gain: -9.97
+    range: 8.05
+  }
+}

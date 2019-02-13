@@ -1,0 +1,114 @@
+[
+  {
+    title: Queens
+    rg: {
+      gain: -10.05
+      range: 5.85
+      peak: 1.109375
+    }
+  }
+  {
+    title: Maniac
+    rg: {
+      gain: -10.98
+      range: 4.90
+      peak: 1.158845
+    }
+  }
+  {
+    title: The Dirty Side of the Street
+    rg: {
+      gain: -11.24
+      range: 4.05
+      peak: 1.161226
+    }
+  }
+  {
+    title: 12 Juin 3049
+    rg: {
+      gain: -10.15
+      range: 3.00
+      peak: 1.135445
+    }
+  }
+  {
+    title: Rock It For Me
+    rg: {
+      gain: -10.27
+      range: 7.89
+      peak: 1.025928
+    }
+  }
+  {
+    title: Clash
+    rg: {
+      gain: -11.58
+      range: 5.38
+      peak: 1.188737
+    }
+  }
+  {
+    title: Newbop
+    rg: {
+      gain: -9.59
+      range: 8.71
+      peak: 1.247972
+    }
+  }
+  {
+    title: Glory Of Nelly
+    rg: {
+      gain: -8.61
+      range: 7.52
+      peak: 1.136007
+    }
+  }
+  {
+    title: Dramophone
+    rg: {
+      gain: -9.29
+      range: 7.28
+      peak: 1.266860
+    }
+  }
+  {
+    title: Cotton Heads
+    rg: {
+      gain: -8.50
+      range: 4.53
+      peak: 1.171440
+    }
+  }
+  {
+    title: Panic
+    rg: {
+      gain: -8.84
+      range: 10.32
+      peak: 1.132547
+    }
+  }
+  {
+    title: Pirates
+    rg: {
+      gain: -8.95
+      range: 7.65
+      peak: 1.210514
+    }
+  }
+  {
+    title: Beatophone
+    rg: {
+      gain: -10.86
+      range: 4.10
+      peak: 1.405122
+    }
+  }
+  {
+    title: Sydney
+    rg: {
+      gain: -8.65
+      range: 7.45
+      peak: 1.030099
+    }
+  }
+]
