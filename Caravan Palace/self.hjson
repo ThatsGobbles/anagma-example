@@ -1,0 +1,11 @@
+{
+  title: Caravan Palace
+  artist: Caravan Palace
+  date: 2008-10-20
+  source: CD
+  label: Wrasse Records
+  rg: {
+    gain: -9.76
+    range: 7.81
+  }
+}
