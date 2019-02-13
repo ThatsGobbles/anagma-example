@@ -1,0 +1,14 @@
+{
+  title: {
+    series: FÜGENE
+    volume: 1
+  }
+  label: MEGAREX
+  source: CD
+  catalog: MRX-016
+  date: 2017-04-30
+  rg: {
+    gain: -11.97
+    range: 6.88
+  }
+}

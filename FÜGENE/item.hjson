@@ -1,0 +1,105 @@
+[
+  {
+    artist: Srav3R
+    feat: shully
+    title: Hereafter
+    rg: {
+      gain: -11.60
+      range: 6.85
+      peak: 1.098255
+    }
+  }
+  {
+    artist: PSYQUI
+    feat: Such
+    title: Your voice so...
+    rg: {
+      gain: -12.43
+      range: 5.25
+      peak: 1.061329
+    }
+  }
+  {
+    artist: Mitomoro
+    title: Arcadia Bae
+    rg: {
+      gain: -11.92
+      range: 5.03
+      peak: 1.071808
+    }
+  }
+  {
+    artist: YUC'e
+    title: PUMP
+    rg: {
+      gain: -11.34
+      range: 5.60
+      peak: 1.065620
+    }
+  }
+  {
+    artist: C-Show
+    feat: {
+      ~: Nakuru Aitsuki
+      orig: 藍月なくる
+    }
+    title: AImee
+    rg: {
+      gain: -12.08
+      range: 7.10
+      peak: 1.064852
+    }
+  }
+  {
+    artist: Zekk
+    title: Count
+    rg: {
+      gain: -12.16
+      range: 6.23
+      peak: 1.033963
+    }
+  }
+  {
+    artist: DJ Noriken
+    feat: Kanae Asaba
+    title: Turn It Up
+    rg: {
+      gain: -12.50
+      range: 6.96
+      peak: 1.022242
+    }
+  }
+  {
+    artist: lapix
+    feat: Numb'n'dub
+    title: BRAND NEW DAY
+    rg: {
+      gain: -12.72
+      range: 7.69
+      peak: 1.083774
+    }
+  }
+  {
+    artist: Getty
+    feat: Renko
+    title: Tumbling
+    rg: {
+      gain: -11.56
+      range: 7.50
+      peak: 1.093580
+    }
+  }
+  {
+    artist: [
+      KO3
+      Relect
+    ]
+    feat: Yukacco
+    title: Dear.
+    rg: {
+      gain: -10.78
+      range: 9.20
+      peak: 1.033126
+    }
+  }
+]
