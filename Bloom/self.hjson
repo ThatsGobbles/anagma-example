@@ -1,0 +1,14 @@
+{
+  title: Bloom
+  artist: Zoology
+  date: 2018-01-19
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
+  label: Majestic Casual Records
+  rg: {
+    gain: -3.90
+    range: 5.92
+  }
+}
