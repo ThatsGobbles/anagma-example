@@ -1,0 +1,91 @@
+[
+  {
+    title: Lone Digger
+    rg: {
+      gain: -9.62
+      range: 7.77
+      peak: 0.969460
+    }
+  }
+  {
+    title: Comics
+    rg: {
+      gain: -9.86
+      range: 11.54
+      peak: 0.999504
+    }
+  }
+  {
+    feat: JFTH
+    title: Mighty
+    rg: {
+      gain: -8.64
+      range: 6.11
+      peak: 1.006542
+    }
+  }
+  {
+    title: Aftermath
+    rg: {
+      gain: -8.94
+      range: 9.91
+      peak: 0.963960
+    }
+  }
+  {
+    title: Wonderland
+    rg: {
+      gain: -9.62
+      range: 11.51
+      peak: 0.960235
+    }
+  }
+  {
+    title: Tattoos
+    rg: {
+      gain: -9.31
+      range: 8.89
+      peak: 0.933534
+    }
+  }
+  {
+    title: Midnight
+    rg: {
+      gain: -7.94
+      range: 14.12
+      peak: 1.068696
+    }
+  }
+  {
+    title: Russian
+    rg: {
+      gain: -9.43
+      range: 9.77
+      peak: 1.003635
+    }
+  }
+  {
+    title: Wonda
+    rg: {
+      gain: -8.53
+      range: 10.48
+      peak: 1.031496
+    }
+  }
+  {
+    title: Human Leather Shoes for Crocodile Dandies
+    rg: {
+      gain: -7.64
+      range: 8.73
+      peak: 1.000371
+    }
+  }
+  {
+    title: Lay Down
+    rg: {
+      gain: -10.13
+      range: 9.99
+      peak: 1.014436
+    }
+  }
+]

@@ -1,0 +1,14 @@
+{
+  title: Robot
+  artist: Caravan Palace
+  date: 2015-10-16
+  label: Le Plan Recordings
+  source: {
+      ~: Digital
+      vendor: Juno Download
+  }
+  rg: {
+    gain: -9.18
+    range: 9.95
+  }
+}
