@@ -5,7 +5,10 @@
   }
   catalog: DVSP-0074
   label: Diverse System
-  source: Bandcamp
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
   date: 2012-04-30
   rg: {
     gain: -9.19

@@ -6,7 +6,10 @@
   catalog: CYCLC-0003
   label: CYCLIK CONTROL
   date: 2018-10-22
-  source: Bandcamp
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
   jan: 4589730030052
   rg: {
     gain: -12.97
