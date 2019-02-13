@@ -1,0 +1,162 @@
+[
+  {
+    title: INTO THE LIGHT
+    remix: {
+      title: Nhato Remix
+      artist: Nhato
+    }
+    artist: Hiroshi Okubo
+    feat: SAK.
+    rg: {
+      gain: -10.28
+      range: 5.85
+      peak: 1.009972
+    }
+  }
+  {
+    title: BANG!
+    remix: {
+      title: lapix Garage Remix
+      artist: lapix
+    }
+    artist: Shoichiro Hirata
+    feat: Sana
+    rg: {
+      gain: -10.35
+      range: 4.49
+      peak: 0.995190
+    }
+  }
+  {
+    title: dreamland
+    remix: {
+      title: EmoCo Remix
+      artist: EmoCo.
+    }
+    artist: Kenichi Chiba
+    feat: EVO+
+    rg: {
+      gain: -9.86
+      range: 7.27
+      peak: 0.996078
+    }
+  }
+  {
+    title: Chase The Stars
+    remix: {
+      title: Taishi Remix
+      artist: Taishi
+    }
+    artist: Hiroshi Okubo
+    feat: SAK.
+    rg: {
+      gain: -11.56
+      range: 4.81
+      peak: 1.029502
+    }
+  }
+  {
+    title: What You Are
+    remix: {
+      title: Sakuzyo Remix
+      artist: {
+        ~: Sakuzyo
+        orig: 削除
+      }
+    }
+    artist: naotyu-
+    feat: Aizdean
+    rg: {
+      gain: -11.61
+      range: 7.51
+      peak: 1.012932
+    }
+  }
+  {
+    title: Someday
+    remix: {
+      title: callasoiled Remix
+      artist: callasoiled
+    }
+    artist: Lvndr
+    feat: Kiri
+    rg: {
+      gain: -10.76
+      range: 8.20
+      peak: 0.991180
+    }
+  }
+  {
+    title: Shine
+    remix: {
+      title: Scarfaith Remix
+      artist: Scarfaith
+    }
+    artist: ag
+    feat: {
+      ~: kurasaki
+      orig: 倉先
+    }
+    rg: {
+      gain: -10.39
+      range: 4.62
+      peak: 1.025888
+    }
+  }
+  {
+    title: Indigo Coral
+    remix: {
+      title: BlackY Remix
+      artist: BlackY
+    }
+    artist: mossari
+    feat: TEA
+    rg: {
+      gain: -10.26
+      range: 3.67
+      peak: 0.993514
+    }
+  }
+  {
+    title: Precious Dream
+    remix: {
+      title: Ryunosuke Kudo Remix
+      artist: Ryunosuke Kudo
+    }
+    artist: Yamajet
+    feat: TEA
+    rg: {
+      gain: -9.97
+      range: 5.95
+      peak: 0.953488
+    }
+  }
+  {
+    title: Secret Love
+    remix: {
+      title: aran Remix
+      artist: aran
+    }
+    artist: Kenichi Chiba
+    feat: EVO+
+    rg: {
+      gain: -8.00
+      range: 4.12
+      peak: 0.965977
+    }
+  }
+  {
+    title: Clear Memories
+    remix: {
+      title: NITE SYSTEM Remix
+      artist: NITE SYSTEM
+    }
+    artist: Hiroshi Okubo
+    feat: SAK.
+    rg: {
+      gain: -9.23
+      range: 4.82
+      peak: 0.965144
+    }
+  }
+]

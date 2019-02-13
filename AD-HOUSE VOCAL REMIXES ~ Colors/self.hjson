@@ -1,0 +1,18 @@
+{
+  title: {
+    series: AD:HOUSE
+    spinoff: VOCAL REMIXES
+  }
+  subtitle: Colors
+  catalog: DVSP-0201
+  label: Diverse System
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
+  date: 2018-08-10
+  rg: {
+    gain: -10.27
+    range: 6.39
+  }
+}
