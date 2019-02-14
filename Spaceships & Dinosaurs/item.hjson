@@ -1,0 +1,50 @@
+[
+  {
+    title: Actions
+    rg: {
+      gain: -12.08
+      range: 4.09
+      peak: 1.101898
+    }
+  }
+  {
+    title: Spaceships
+    rg: {
+      gain: -13.20
+      range: 2.00
+      peak: 1.103747
+    }
+  }
+  {
+    title: Trust
+    rg: {
+      gain: -13.50
+      range: 1.39
+      peak: 1.086428
+    }
+  }
+  {
+    title: Dinosaurs
+    rg: {
+      gain: -11.96
+      range: 2.57
+      peak: 1.151040
+    }
+  }
+  {
+    title: Soundcheck
+    rg: {
+      gain: -12.20
+      range: 5.28
+      peak: 1.133042
+    }
+  }
+  {
+    title: Zombirella
+    rg: {
+      gain: -11.53
+      range: 7.45
+      peak: 1.103360
+    }
+  }
+]

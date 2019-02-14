@@ -1,0 +1,13 @@
+{
+  title: Spaceships & Dinosaurs
+  artist: Things That Need To Be Fixed
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
+  date: 2016-07-11
+  rg: {
+    gain: -12.45
+    range: 4.56
+  }
+}
