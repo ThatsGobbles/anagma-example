@@ -1,0 +1,90 @@
+[
+  {
+    title: Her
+    rg: {
+      gain: -7.55
+      range: 8.10
+      peak: 0.969980
+    }
+  }
+  {
+    title: Urban Canopy
+    rg: {
+      gain: -8.99
+      range: 11.00
+      peak: 1.028366
+    }
+  }
+  {
+    title: Staying There
+    rg: {
+      gain: -8.25
+      range: 6.35
+      peak: 0.962449
+    }
+  }
+  {
+    title: The God Behind the Pines
+    rg: {
+      gain: -8.61
+      range: 5.49
+      peak: 1.038309
+    }
+  }
+  {
+    title: Breathless
+    rg: {
+      gain: -6.74
+      range: 10.48
+      peak: 0.967413
+    }
+  }
+  {
+    title: Cloud Steps
+    rg: {
+      gain: -7.78
+      range: 12.97
+      peak: 1.051599
+    }
+  }
+  {
+    title: The Creator
+    rg: {
+      gain: -7.81
+      range: 8.56
+      peak: 0.973502
+    }
+  }
+  {
+    title: Underwater
+    rg: {
+      gain: -8.60
+      range: 12.47
+      peak: 0.965403
+    }
+  }
+  {
+    title: Interlude
+    rg: {
+      gain: -7.56
+      range: 5.88
+      peak: 0.965359
+    }
+  }
+  {
+    title: Wine & Roses
+    rg: {
+      gain: -7.22
+      range: 7.88
+      peak: 0.963250
+    }
+  }
+  {
+    title: Soundscapes
+    rg: {
+      gain: -9.16
+      range: 8.69
+      peak: 0.962655
+    }
+  }
+]

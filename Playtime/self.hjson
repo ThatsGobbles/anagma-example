@@ -1,0 +1,15 @@
+{
+  title: Playtime
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
+  artist: L'indécis
+  label: Chillhop Records
+  date: 2018-02-28
+  rg: {
+    gain: -6.89
+    range: 10.48
+    peak: 1.003400
+  }
+}

@@ -1,0 +1,15 @@
+{
+  title: Plethoria
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
+  artist: L'indécis
+  label: Chillhop Records
+  date: 2017-05-31
+  rg: {
+    gain: -8.29
+    range: 9.18
+    peak: 1.051599
+  }
+}

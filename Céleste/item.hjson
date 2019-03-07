@@ -1,0 +1,42 @@
+[
+  {
+    title: Vibes
+    rg: {
+      gain: -6.90
+      range: 10.94
+      peak: 1.000652
+    }
+  }
+  {
+    title: Brume
+    rg: {
+      gain: -7.36
+      range: 6.63
+      peak: 1.032778
+    }
+  }
+  {
+    title: Jeux d'eau
+    rg: {
+      gain: -7.05
+      range: 7.98
+      peak: 1.042559
+    }
+  }
+  {
+    title: Lost
+    rg: {
+      gain: -7.50
+      range: 7.96
+      peak: 1.118592
+    }
+  }
+  {
+    title: Céleste
+    rg: {
+      gain: -6.70
+      range: 9.71
+      peak: 1.006124
+    }
+  }
+]

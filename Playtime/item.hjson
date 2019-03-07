@@ -1,0 +1,58 @@
+[
+  {
+    title: Check It Out
+    rg: {
+      gain: -6.13
+      range: 9.86
+      peak: 0.951662
+    }
+  }
+  {
+    title: Soulful
+    rg: {
+      gain: -6.30
+      range: 9.68
+      peak: 1.003400
+    }
+  }
+  {
+    title: Blind
+    rg: {
+      gain: -7.72
+      range: 5.38
+      peak: 0.954321
+    }
+  }
+  {
+    title: Le Sud
+    rg: {
+      gain: -6.74
+      range: 10.68
+      peak: 1.003112
+    }
+  }
+  {
+    title: Crossing Borders
+    rg: {
+      gain: -6.84
+      range: 9.46
+      peak: 0.959425
+    }
+  }
+  {
+    title: Rekindling
+    rg: {
+      gain: -7.22
+      range: 9.50
+      peak: 0.976340
+    }
+  }
+  {
+    title: Playtime
+    rg: {
+      gain: -6.81
+      range: 13.17
+      peak: 0.975289
+    }
+  }
+]

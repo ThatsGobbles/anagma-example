@@ -1,0 +1,15 @@
+{
+  title: Céleste
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
+  artist: L'indécis
+  label: Cult Classic Records
+  date: 2015-04-19
+  rg: {
+    gain: -7.08
+    range: 8.29
+    peak: 1.118592
+  }
+}
