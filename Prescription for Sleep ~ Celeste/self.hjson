@@ -1,0 +1,25 @@
+{
+  title: {
+    series: Prescription for Sleep
+    edition: Celeste
+  }
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
+  artist: [
+    GENTLE LOVE
+    maiko
+  ]
+  game: Celeste
+  upc: 00811576030816
+  label: Scarlet Moon Records
+  catalog: SMRC-1029
+  composer: Lena Raine
+  date: 2018-11-02
+  rg: {
+    gain: -3.46
+    range: 17.49
+    peak: 1.004774
+  }
+}

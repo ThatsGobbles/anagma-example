@@ -1,0 +1,105 @@
+[
+  {
+    title: Resurrections
+    subtitle: Dream
+    isrc: QZD291800091
+    rg: {
+      gain: -2.03
+      range: 15.51
+      peak: 0.986933
+    }
+  }
+  {
+    title: Resurrections
+    subtitle: Chase
+    isrc: QZD291800092
+    rg: {
+      gain: -4.47
+      range: 12.35
+      peak: 0.990439
+    }
+  }
+  {
+    title: Checking In
+    isrc: QZD291800093
+    rg: {
+      gain: -2.49
+      range: 14.05
+      peak: 0.986937
+    }
+  }
+  {
+    title: Scattered and Lost
+    isrc: QZD291800094
+    rg: {
+      gain: -3.84
+      range: 10.97
+      peak: 0.993983
+    }
+  }
+  {
+    title: Quiet & Falling
+    subtitle: In the Mirror
+    isrc: QZD291800095
+    rg: {
+      gain: 1.03
+      range: 12.62
+      peak: 0.986202
+    }
+  }
+  {
+    title: Madeline and Theo
+    isrc: QZD291800096
+    rg: {
+      gain: -3.13
+      range: 13.79
+      peak: 0.987914
+    }
+  }
+  {
+    title: Reflection
+    isrc: QZD291800097
+    rg: {
+      gain: -3.88
+      range: 20.85
+      peak: 1.001386
+    }
+  }
+  {
+    title: Reach for the Summit
+    isrc: QZD291800098
+    rg: {
+      gain: -6.48
+      range: 5.77
+      peak: 0.994248
+    }
+  }
+  {
+    title: Exhale
+    isrc: QZD291800099
+    rg: {
+      gain: -4.75
+      range: 18.10
+      peak: 0.993933
+    }
+  }
+  {
+    title: Heart of the Mountain
+    isrc: QZD291800100
+    rg: {
+      gain: -6.46
+      range: 21.13
+      peak: 1.004774
+    }
+  }
+  {
+    title: Solemn Acceptance
+    composer: GENTLE LOVE
+    isrc: QZD291800101
+    rg: {
+      gain: 0.24
+      range: 15.31
+      peak: 0.940476
+    }
+  }
+]

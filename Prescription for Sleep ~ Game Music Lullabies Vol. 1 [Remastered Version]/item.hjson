@@ -1,0 +1,109 @@
+[
+  {
+    title: Lifestream
+    game: Final Fantasy VII
+    rg: {
+      gain: -0.66
+      range: 16.47
+      peak: 0.991579
+    }
+  }
+  {
+    title: Dire, Dire Docks
+    game: Super Mario 64
+    rg: {
+      gain: -5.53
+      range: 6.94
+      peak: 1.000338
+    }
+  }
+  {
+    title: Song of the Ancients
+    game: NieR
+    rg: {
+      gain: -6.26
+      range: 13.58
+      peak: 1.000353
+    }
+  }
+  {
+    title: Lost Painting
+    game: Castlevania: Symphony of the Night
+    rg: {
+      gain: -5.53
+      range: 12.64
+      peak: 1.002393
+    }
+  }
+  {
+    title: Maiden in Black
+    game: Demon's Souls
+    rg: {
+      gain: 2.60
+      range: 16.37
+      peak: 0.913704
+    }
+  }
+  {
+    title: Main Theme
+    game: Genso Suikoden
+    rg: {
+      gain: -3.04
+      range: 14.52
+      peak: 0.995163
+    }
+  }
+  {
+    title: Singing Emotion
+    game: Chrono Cross
+    rg: {
+      gain: -5.96
+      range: 10.69
+      peak: 0.996926
+    }
+  }
+  {
+    title: A Wish...
+    game: Secret of Mana
+    rg: {
+      gain: -2.19
+      range: 16.27
+      peak: 0.993788
+    }
+  }
+  {
+    title: Auriel's Ascension
+    game: The Elder Scrolls IV: Oblivion
+    rg: {
+      gain: -2.22
+      range: 12.88
+      peak: 1.006753
+    }
+  }
+  {
+    title: Aquatic Ambiance
+    game: Donkey Kong Country
+    rg: {
+      gain: -1.69
+      range: 13.45
+      peak: 0.992652
+    }
+  }
+  {
+    title: Fisherman's Horizon
+    game: Final Fantasy VIII
+    rg: {
+      gain: -4.75
+      range: 10.68
+      peak: 0.993820
+    }
+  }
+  {
+    title: He Chose You
+    rg: {
+      gain: 1.57
+      range: 13.62
+      peak: 0.825079
+    }
+  }
+]

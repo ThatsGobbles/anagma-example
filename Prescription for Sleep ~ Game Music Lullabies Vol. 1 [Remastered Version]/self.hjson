@@ -1,0 +1,21 @@
+{
+  title: {
+    series: Prescription for Sleep
+    subtitle: Game Music Lullabies
+    volume: 1
+  }
+  version: Remastered
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
+  artist: GENTLE LOVE
+  catalog: SMRC-1011
+  label: Scarlet Moon Records
+  date: 2018-05-18
+  rg: {
+    gain: -3.65
+    range: 16.61
+    peak: 1.006753
+  }
+}
