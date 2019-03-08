@@ -1,0 +1,82 @@
+[
+  {
+    artist: [
+      benny blanco
+      Halsey
+      Khalid
+    ]
+    title: Eastside
+    rg: {
+      gain: -8.87
+      range: 9.42
+      peak: 1.137129
+    }
+  }
+  {
+    artist: [
+      benny blanco
+      Juice WRLD
+    ]
+    feat: Brendon Urie
+    title: Roses
+    rg: {
+      gain: -9.29
+      range: 7.97
+      peak: 1.061024
+    }
+  }
+  {
+    title: Just For Us Pt. 2
+    rg: {
+      gain: -8.32
+      range: 6.16
+      peak: 1.003829
+    }
+  }
+  {
+    artist: [
+      benny blanco
+      Calvin Harris
+    ]
+    title: I Found You
+    rg: {
+      gain: -9.61
+      range: 8.33
+      peak: 1.134933
+    }
+  }
+  {
+    artist: [
+      benny blanco
+      Jesse
+      Swae Lee
+    ]
+    title: Better To Lie
+    rg: {
+      gain: -8.91
+      range: 13.63
+      peak: 1.088705
+    }
+  }
+  {
+    feat: [
+      Ty Dolla $ign
+      6LACK
+    ]
+    title: More/Diamond Ring
+    rg: {
+      gain: -8.83
+      range: 8.68
+      peak: 1.112938
+    }
+  }
+  {
+    feat: Ryan Beatty
+    title: Break My Heart
+    rg: {
+      gain: -8.60
+      range: 11.60
+      peak: 1.191561
+    }
+  }
+]

@@ -1,0 +1,18 @@
+{
+  title: FRIENDS KEEP SECRETS
+  source: {
+    ~: Digital
+    vendor: TIDAL
+  }
+  artist: benny blanco
+  label: [
+    Friends Keep Secrets
+    Interscope Records
+  ]
+  date: 2018-12-07
+  rg: {
+    gain: -8.95
+    range: 9.24
+    peak: 1.191561
+  }
+}
