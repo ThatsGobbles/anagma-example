@@ -1,0 +1,361 @@
+[
+  {
+    artist: [
+      L.E.D.
+      GUHROOVY
+    ]
+    feat: NO+CHIN
+    title: INTRO
+    rg: {
+      gain: -11.45
+      range: 9.57
+      peak: 1.130895
+    }
+  }
+  {
+    title: H.W.S.
+    artist: L.E.D.-G
+    title: THE DEEP STRIKER
+    rg: {
+      gain: -11.91
+      range: 4.65
+      peak: 1.100545
+    }
+  }
+  {
+    artist: L.E.D.
+    feat: Maiko Horisawa
+    title: PHOTONGENIC
+    rg: {
+      gain: -11.09
+      range: 4.70
+      peak: 1.127392
+    }
+  }
+  {
+    artist: L.E.D.
+    title: IXION
+    rg: {
+      gain: -9.97
+      range: 6.43
+      peak: 1.087310
+    }
+  }
+  {
+    artist: [
+      teranoid
+      L.E.D.-G
+    ]
+    feat: MC Kent
+    title: THE DETONATOR
+    rg: {
+      gain: -11.23
+      range: 6.45
+      peak: 1.090121
+    }
+  }
+  {
+    artist: [
+      L.E.D.-G
+      GUHROOVY
+    ]
+    title: ERaSeR EnGinE DistorteD
+    rg: {
+      gain: -12.10
+      range: 1.29
+      peak: 1.108256
+    }
+  }
+  {
+    artist: L.E.D.
+    feat: Maiko Horisawa
+    title: DAWN -THE NEXT ENDEAVOUR-
+    rg: {
+      gain: -12.02
+      range: 4.14
+      peak: 1.219845
+    }
+  }
+  {
+    artist: L.E.D.
+    title: NEBULA GRASPER
+    rg: {
+      gain: -10.28
+      range: 8.60
+      peak: 1.099782
+    }
+  }
+  {
+    artist: L.E.D.-G
+    feat: Eriko Tanzawa
+    title: JEWELLERY STORM
+    rg: {
+      gain: -12.18
+      range: 1.33
+      peak: 1.140774
+    }
+  }
+  {
+    artist: L.E.D. LIGHT
+    title: THE EARTH LIGHT
+    rg: {
+      gain: -10.49
+      range: 2.96
+      peak: 1.120050
+    }
+  }
+  {
+    artist: [
+      kors k
+      L.E.D.
+    ]
+    title: SOLID STATE SQUAD
+    rg: {
+      gain: -11.02
+      range: 5.71
+      peak: 1.070494
+    }
+  }
+  {
+    artist: L.E.D.
+    title: ACID IMMORTAL
+    rg: {
+      gain: -12.10
+      range: 4.73
+      peak: 1.093459
+    }
+  }
+  {
+    artist: L.E.D.-G
+    title: THE SHARP STRIKER
+    rg: {
+      gain: -11.69
+      range: 4.31
+      peak: 1.110494
+    }
+  }
+  {
+    artist: Scorpion
+    title: STEEL NEEDLE
+    rg: {
+      gain: -11.76
+      range: 5.06
+      peak: 1.119231
+    }
+  }
+  {
+    artist: L.E.D.
+    title: THE LAST STRIKER
+    rg: {
+      gain: -10.95
+      range: 8.50
+      peak: 1.130785
+    }
+  }
+  {
+    artist: L.E.D. LIGHT
+    remix: {
+      artist: D.J.SETUP
+      title: Special ThanXX RMX
+    }
+    title: GENOM SCREAMS
+    rg: {
+      gain: -12.89
+      range: 2.18
+      peak: 1.121523
+    }
+  }
+  {
+    artist: L.E.D.
+    feat: Sana
+    remix: {
+      artist: kors k
+      title: kors k mix
+    }
+    title: THE SHINING POLARIS
+    rg: {
+      gain: -12.91
+      range: 2.00
+      peak: 1.195534
+    }
+  }
+  {
+    artist: L.E.D.
+    remix: {
+      artist: TOMOSUKE
+      title: Allotropy Artcore Mix
+    }
+    title: ACID VISION
+    rg: {
+      gain: -10.21
+      range: 9.98
+      peak: 1.161803
+    }
+  }
+  {
+    artist: L.E.D.
+    feat: Maiko Horisawa
+    remix: {
+      artist: wac
+      title: wac relying on Maiko Horisawa
+    }
+    title: PreDAWN
+    rg: {
+      gain: -9.78
+      range: 22.17
+      peak: 1.008904
+    }
+  }
+  {
+    artist: L.E.D. LIGHT
+    feat: GORO
+    remix: {
+      artist: Ryu☆
+      title: Ryu☆ Remix
+    }
+    title: INFINITE PRAYER
+    rg: {
+      gain: -11.43
+      range: 7.19
+      peak: 1.120622
+    }
+  }
+  {
+    artist: L.E.D.-G
+    remix: {
+      artist: Sota Fujimori
+      title: SF PureAnalogSynth Mix
+    }
+    title: DENJIN AKATSUKINI TAORERU
+    rg: {
+      gain: -9.92
+      range: 5.86
+      peak: 1.087985
+    }
+  }
+  {
+    artist: L.E.D.
+    remix: {
+      artist: DAJI
+      title: DAJI MIX
+    }
+    title: TYPE MARS
+    rg: {
+      gain: -12.09
+      range: 1.76
+      peak: 1.182518
+    }
+  }
+  {
+    artist: L.E.D.
+    feat: Maiko Horisawa
+    remix: {
+      artist: DJ YOSHITAKA
+      title: DJ YOSHITAKA Remix
+    }
+    title: PHOTONGENIC
+    rg: {
+      gain: -8.30
+      range: 3.70
+      peak: 1.044293
+    }
+  }
+  {
+    artist: L.E.D.
+    remix: {
+      artist: Nekomata Master
+      feat: JUNE
+      title: Nekomata Master Remix
+    }
+    title: Bahram Attack
+    rg: {
+      gain: -8.24
+      range: 14.35
+      peak: 1.111652
+    }
+  }
+  {
+    artist: L.E.D. LIGHT
+    remix: {
+      artist: SLAKE
+      title: SLOW FLOW MIX
+    }
+    title: HYPER BOUNDARY GATE
+    rg: {
+      gain: -10.85
+      range: 1.82
+      peak: 1.112326
+    }
+  }
+  {
+    artist: L.E.D.
+    remix: {
+      artist: sanodg
+      title: sanodg dub remix
+    }
+    title: LASER CLUSTERRRRrrrrrrr
+    rg: {
+      gain: -8.23
+      range: 6.14
+      peak: 1.008379
+    }
+  }
+  {
+    artist: L.E.D.
+    remix: {
+      artist: Masafumi Takada
+      title: [
+        RX-Ver.S.P.L.
+        BetKickNoYourNowMix
+      ]
+    }
+    title: QUANTUM TELEPORTATION
+    rg: {
+      gain: -10.30
+      range: 5.54
+      peak: 1.074292
+    }
+  }
+  {
+    artist: L.E.D. LIGHT-G
+    remix: {
+      artist: DJ TECHNORCH
+      feat: GUHROOVY
+      title: Last Escape Remix
+    }
+    title: HELL SCAPER
+    rg: {
+      gain: -11.25
+      range: 9.27
+      peak: 1.080335
+    }
+  }
+  {
+    artist: L.E.D.-G
+    remix: {
+      artist: GUHROOVY
+      feat: M-Project
+      title: MAKINA Remix
+    }
+    title: LOVELY STORM
+    rg: {
+      gain: -10.38
+      range: 7.52
+      peak: 1.166868
+    }
+  }
+  {
+    artist: L.E.D. LIGHT
+    remix: {
+      artist: Togo-chef
+      feat: Mayuki
+      title: Studio Bongo Mango 'Whisper Love' Mix
+    }
+    title: OVERBLAST!!
+    rg: {
+      gain: -11.42
+      range: 4.23
+      peak: 1.111786
+    }
+  }
+]

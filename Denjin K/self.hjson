@@ -1,0 +1,14 @@
+{
+  title: Denjin K
+  publisher: KONAMI Digital Entertainment
+  catalog: [
+    LC-1646
+    LC-1647
+  ]
+  artist: L.E.D.
+  date: 2008-05-29
+  rg: {
+    gain: -11.18
+    range: 6.99
+  }
+}
