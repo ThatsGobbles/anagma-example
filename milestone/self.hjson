@@ -1,0 +1,14 @@
+{
+  title: milestone
+  artist: dj TAKA
+  publisher: KONAMI Digital Entertainment
+  catalog: [
+    LC-1556
+    LC-1557
+  ]
+  date: 2007-06-29
+  rg: {
+    gain: -8.92
+    range: 8.96
+  }
+}

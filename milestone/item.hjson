@@ -1,0 +1,339 @@
+[
+  {
+    artist: dj TAKA
+    title: Quickening
+    rg: {
+      gain: -10.18
+      range: 5.78
+      peak: 1.024579
+    }
+  }
+  {
+    artist: dj TAKA
+    feat: AiMEE
+    title: Tomorrow Perfume
+    subtitle: Vocal Version
+    rg: {
+      gain: -8.97
+      range: 5.45
+      peak: 1.022296
+    }
+  }
+  {
+    artist: iconoclasm
+    title: Votum stellarum
+    remix: {
+      title: forest #25 RMX
+    }
+    rg: {
+      gain: -8.99
+      range: 8.22
+      peak: 1.027000
+    }
+  }
+  {
+    artist: dj TAKA
+    title: ABSOLUTE 2007
+    rg: {
+      gain: -8.89
+      range: 4.06
+      peak: 1.013934
+    }
+  }
+  {
+    artist: TAKA
+    title: V
+    subtitle: conclusion
+    rg: {
+      gain: -9.16
+      range: 5.20
+      peak: 1.024811
+    }
+  }
+  {
+    artist: dj TAKA
+    feat: Erika Mochizuki
+    title: pandora
+    version: {
+      title: English Version
+    }
+    rg: {
+      gain: -9.10
+      range: 11.33
+      peak: 1.040335
+    }
+  }
+  {
+    artist: Lion MUSASHI
+    feat: Donyale Renee
+    title: thunder
+    rg: {
+      gain: -7.64
+      range: 4.43
+      peak: 1.031817
+    }
+  }
+  {
+    artist: dj TAKA
+    title: snow storm
+    version: {
+      title: Original Mix
+    }
+    rg: {
+      gain: -8.32
+      range: 3.95
+      peak: 1.021195
+    }
+  }
+  {
+    artist: D.J.Amuro
+    title: AA
+    rg: {
+      gain: -8.30
+      range: 6.32
+      peak: 1.021305
+    }
+  }
+  {
+    artist: dj TAKA
+    feat: HAL
+    title: INORI
+    rg: {
+      gain: -8.88
+      range: 6.31
+      peak: 1.017728
+    }
+  }
+  {
+    artist: [
+      dj TAKA
+      Ryu☆
+    ]
+    feat: AiMEE
+    title: Blue Rain
+    rg: {
+      gain: -9.32
+      range: 4.79
+      peak: 1.035985
+    }
+  }
+  {
+    artist: D.J.SETUP
+    title: lower world
+    rg: {
+      gain: -9.85
+      range: 4.76
+      peak: 1.013930
+    }
+  }
+  {
+    artist: dj TAKA
+    title: Frozen Ray
+    rg: {
+      gain: -8.76
+      range: 9.24
+      peak: 1.027011
+    }
+  }
+  {
+    artist: Risk Junk
+    title: One More Lovely
+    subtitle: After Hours
+    rg: {
+      gain: -9.83
+      range: 5.30
+      peak: 1.108901
+    }
+  }
+  {
+    artist: D.J.SETUP
+    remix: {
+      artist: L.E.D.
+      title: L.E.D. STYLE SPREADING PARTICLE BEAM MIX
+    }
+    title: spiral galaxy
+    rg: {
+      gain: -9.92
+      range: 1.99
+      peak: 1.007245
+    }
+  }
+  {
+    artist: Lion Musashi
+    remix: {
+      artist: Ryu☆
+      title: Ryu☆ Remix
+    }
+    title: THE SAFARI
+    rg: {
+      gain: -10.44
+      range: 7.47
+      peak: 1.012183
+    }
+  }
+  {
+    artist: dj TAKA
+    feat: JP Miles
+    remix: {
+      artist: kors k
+      title: kors k mix
+    }
+    title: Don't Stop!
+    rg: {
+      gain: -10.68
+      range: 8.83
+      peak: 1.052624
+    }
+  }
+  {
+    artist: dj TAKA
+    feat: Brenda Vaughn
+    remix: {
+      artist: DJ YOSHITAKA
+      title: DJ YOSHITAKA REMIX
+    }
+    title: I'm In Love Again
+    rg: {
+      gain: -9.42
+      range: 6.92
+      peak: 1.054510
+    }
+  }
+  {
+    artist: dj TAKA
+    feat: Sana
+    remix: {
+      artist: Sota Fujimori
+      title: In The Dream Mix
+    }
+    title: Rainbow Flyer
+    rg: {
+      gain: -8.30
+      range: 10.02
+      peak: 0.973441
+    }
+  }
+  {
+    artist: D.J.SETUP
+    remix: {
+      artist: Remo-con
+      title: Remo-con RMX size M
+    }
+    title: Giudecca
+    rg: {
+      gain: -6.71
+      range: 7.76
+      peak: 1.024465
+    }
+  }
+  {
+    artist: D.J.Amuro
+    remix: {
+      artist: Shounen Radio
+      title: Shounen A
+    }
+    title: A
+    rg: {
+      gain: -7.99
+      range: 19.35
+      peak: 1.020075
+    }
+  }
+  {
+    artist: dj TAKA
+    feat: Erika Mochizuki
+    remix: {
+      artist: AKIRA YAMAOKA
+      title: Sun Mix
+    }
+    title: MOON
+    rg: {
+      gain: -8.54
+      range: 7.06
+      peak: 0.993716
+    }
+  }
+  {
+    artist: dj TAKA
+    feat: vivi
+    remix: {
+      artist: TOMOSUKE
+      title: midnight jazzin' mix
+    }
+    title: Kocchi wo muiteyo
+    rg: {
+      gain: -8.34
+      range: 4.98
+      peak: 1.029928
+    }
+  }
+  {
+    artist: TAKA
+    remix: {
+      artist: Tatsuya "good-cool" Furukawa
+      title: still remain mix
+    }
+    title: memories
+    rg: {
+      gain: -10.58
+      range: 2.76
+      peak: 1.020600
+    }
+  }
+  {
+    artist: Kinjishi
+    remix: {
+      artist: Osamu Kubota
+      title: [
+        Arbre triste
+        a la viennoise
+      ]
+    }
+    title: Nageki no ki
+    rg: {
+      gain: -7.31
+      range: 8.34
+      peak: 1.012804
+    }
+  }
+  {
+    artist: TAKA
+    remix: {
+      artist: dj nagureo
+      title: Vic Viper born duv
+    }
+    title: GRADIUSIC CYBER
+    rg: {
+      gain: -1.08
+      range: 11.70
+      peak: 0.766613
+    }
+  }
+  {
+    artist: dj TAKA
+    remix: {
+      artist: NAOKI underground
+      title: The catastrophe
+    }
+    title: Tangerine Stream
+    rg: {
+      gain: -5.28
+      range: 5.27
+      peak: 0.999566
+    }
+  }
+  {
+    artist: dj TAKA
+    feat: CHIYOKO
+    remix: {
+      artist: TaQ
+      title: InPhase mix
+    }
+    title: Colors
+    rg: {
+      gain: -9.10
+      range: 6.39
+      peak: 1.051946
+    }
+  }
+]
