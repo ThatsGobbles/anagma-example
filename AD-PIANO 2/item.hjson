@@ -1,0 +1,149 @@
+[
+  {
+    artist: Jerico
+    title: Cointreau Orange
+    rg: {
+      gain: -8.28
+      range: 5.13
+      peak: 1.069364
+    }
+  }
+  {
+    artist: An
+    title: VelVid
+    rg: {
+      gain: -9.11
+      range: 4.94
+      peak: 1.110338
+    }
+  }
+  {
+    artist: BlackY
+    title: Decisive Factor
+    rg: {
+      gain: -9.62
+      range: 7.25
+      peak: 1.035581
+    }
+  }
+  {
+    artist: xi
+    title: Double Helix
+    rg: {
+      gain: -10.88
+      range: 4.73
+      peak: 1.017646
+    }
+  }
+  {
+    artist: void
+    title: Sudden Romance
+    rg: {
+      gain: -8.98
+      range: 6.25
+      peak: 1.311590
+    }
+  }
+  {
+    artist: tigerlily
+    title: Overslept
+    rg: {
+      gain: -9.01
+      range: 5.97
+      peak: 1.030002
+    }
+  }
+  {
+    artist: Atomic
+    title: Hakoniwa
+    rg: {
+      gain: -8.08
+      range: 14.56
+      peak: 1.021675
+    }
+  }
+  {
+    artist: [
+      Takahiro Eguchi
+      Tomohiko Togashi
+    ]
+    title: Celery Complex
+    rg: {
+      gain: -8.29
+      range: 6.04
+      peak: 1.024819
+    }
+  }
+  {
+    artist: 村瀬悠太
+    title: blooming*
+    rg: {
+      gain: -7.80
+      range: 4.23
+      peak: 1.013196
+    }
+  }
+  {
+    artist: Kaname Shigeyoshi
+    title: The Rain Turned to Autumn Leaves
+    rg: {
+      gain: -7.35
+      range: 7.34
+      peak: 1.014637
+    }
+  }
+  {
+    artist: F.E.L
+    title: Navy Muffin
+    rg: {
+      gain: -7.71
+      range: 6.50
+      peak: 1.019855
+    }
+  }
+  {
+    artist: b
+    title: カラメル
+    rg: {
+      gain: -7.11
+      range: 6.66
+      peak: 0.996701
+    }
+  }
+  {
+    artist: RIC
+    title: Frozen Cave
+    rg: {
+      gain: -6.41
+      range: 13.37
+      peak: 1.034499
+    }
+  }
+  {
+    artist: masaki kawasaki
+    title: Farewell
+    rg: {
+      gain: -5.58
+      range: 11.18
+      peak: 1.017562
+    }
+  }
+  {
+    artist: 削除
+    title: 月の魔女
+    rg: {
+      gain: -6.94
+      range: 12.84
+      peak: 0.990353
+    }
+  }
+  {
+    artist: 削除
+    title: 東洋の怪しい魔術師
+    rg: {
+      gain: -6.22
+      range: 11.48
+      peak: 0.994632
+    }
+  }
+]

@@ -1,0 +1,17 @@
+{
+  title: {
+    series: AD:PIANO
+    volume: 2
+  }
+  catalog: DVSP-0107
+  label: Diverse System
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
+  date: 2014-04-27
+  rg: {
+    gain: -8.14
+    range: 10.21
+  }
+}
