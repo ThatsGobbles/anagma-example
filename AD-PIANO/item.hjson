@@ -1,0 +1,110 @@
+[
+  {
+    title: Idealized Romance
+    artist: void
+    rg: {
+      gain: -8.11
+      range: 4.76
+      peak: 1.028170
+    }
+  }
+  {
+    title: Catanoph
+    artist: An
+    rg: {
+      gain: -8.09
+      range: 3.55
+      peak: 0.968775
+    }
+  }
+  {
+    title: Queen of the Red
+    artist: ETIA.
+    rg: {
+      gain: -9.22
+      range: 6.83
+      peak: 0.965639
+    }
+  }
+  {
+    title: Hidden Place
+    artist: Lucifer
+    rg: {
+      gain: -7.86
+      range: 4.97
+      peak: 1.031554
+    }
+  }
+  {
+    title: 天衣無縫
+    artist: xi
+    rg: {
+      gain: -8.76
+      range: 3.60
+      peak: 0.980662
+    }
+  }
+  {
+    title: PIANOTAP
+    artist: Kenichi Chiba
+    rg: {
+      gain: -7.62
+      range: 3.71
+      peak: 1.006862
+    }
+  }
+  {
+    title: Mezzoforte
+    artist: tigerlily
+    rg: {
+      gain: -7.26
+      range: 6.21
+      peak: 0.956407
+    }
+  }
+  {
+    title: Spazierweg
+    artist: satella
+    rg: {
+      gain: -6.91
+      range: 7.47
+      peak: 1.012564
+    }
+  }
+  {
+    title: 閉塞世界
+    artist: eicateve
+    rg: {
+      gain: -7.03
+      range: 5.50
+      peak: 0.974855
+    }
+  }
+  {
+    title: split clock tower
+    artist: qurter
+    rg: {
+      gain: -7.16
+      range: 4.18
+      peak: 0.942464
+    }
+  }
+  {
+    title: ポラリス環状鉄道
+    artist: b
+    rg: {
+      gain: -5.43
+      range: 7.45
+      peak: 0.979762
+    }
+  }
+  {
+    title: 水蓮
+    artist: 削除
+    rg: {
+      gain: -4.83
+      range: 12.79
+      peak: 0.960669
+    }
+  }
+]
