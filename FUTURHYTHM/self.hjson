@@ -1,0 +1,14 @@
+{
+  title: FUTURHYTHM
+  label: Kirara Records
+  catalog: KRCD-014
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
+  date: 2019-04-28
+  rg: {
+    gain: -12.06
+    range: 6.42
+  }
+}

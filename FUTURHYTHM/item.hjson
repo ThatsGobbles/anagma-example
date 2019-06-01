@@ -1,0 +1,102 @@
+[
+  {
+    artist: KO3
+    feat: Osanzi
+    title: 桜色センチメント
+    rg: {
+      gain: -10.59
+      range: 5.63
+      peak: 1.049630
+    }
+  }
+  {
+    artist: MK
+    title: can you feel it
+    rg: {
+      gain: -12.47
+      range: 6.43
+      peak: 1.038727
+    }
+  }
+  {
+    artist: C-Show
+    title: Let It Drop
+    rg: {
+      gain: -10.68
+      range: 6.13
+      peak: 1.031242
+    }
+  }
+  {
+    artist: Yooh
+    title: Magic
+    rg: {
+      gain: -13.18
+      range: 4.27
+      peak: 1.041884
+    }
+  }
+  {
+    artist: yaseta
+    title: Smokin' Hot
+    rg: {
+      gain: -13.62
+      range: 3.59
+      peak: 1.052903
+    }
+  }
+  {
+    artist: Fellsius
+    title: Ping
+    rg: {
+      gain: -11.42
+      range: 3.98
+      peak: 1.033001
+    }
+  }
+  {
+    artist: DJ DiA
+    title: Felling
+    rg: {
+      gain: -10.61
+      range: 7.22
+      peak: 1.015776
+    }
+  }
+  {
+    artist: aran
+    title: EP!C
+    rg: {
+      gain: -13.44
+      range: 4.45
+      peak: 1.033175
+    }
+  }
+  {
+    artist: Pharien
+    title: Hold ya
+    rg: {
+      gain: -11.05
+      range: 4.42
+      peak: 1.011407
+    }
+  }
+  {
+    artist: Ryunosuke Kudo
+    title: Linked Theory
+    rg: {
+      gain: -12.07
+      range: 2.96
+      peak: 1.037929
+    }
+  }
+  {
+    artist: Soleily
+    title: Insect Masquerade
+    rg: {
+      gain: -11.47
+      range: 5.16
+      peak: 1.037726
+    }
+  }
+]
