@@ -1,0 +1,259 @@
+[
+  {
+    artist: Blue Wednesday
+    feat: Shopan
+    title: Murmuration
+    rg: {
+      gain: -7.37
+      range: 17.18
+      peak: 1.006741
+    }
+  }
+  {
+    artist: [
+      Cloudchord
+      G Mills
+    ]
+    title: Sunlit
+    rg: {
+      gain: -5.55
+      range: 6.51
+      peak: 1.002783
+    }
+  }
+  {
+    artist: plusma
+    title: marmots dance
+    rg: {
+      gain: -4.85
+      range: 11.85
+      peak: 1.037930
+    }
+  }
+  {
+    artist: masked man
+    title: Ish Happens
+    rg: {
+      gain: -5.05
+      range: 19.86
+      peak: 1.039498
+    }
+  }
+  {
+    artist: santpoort
+    title: Rosemary Whispers
+    rg: {
+      gain: -4.97
+      range: 4.19
+      peak: 1.000401
+    }
+  }
+  {
+    artist: Aso
+    title: Sunsets
+    rg: {
+      gain: -4.76
+      range: 6.17
+      peak: 1.000631
+    }
+  }
+  {
+    artist: oddfish
+    title: Hazy...
+    rg: {
+      gain: -4.18
+      range: 6.80
+      peak: 1.003376
+    }
+  }
+  {
+    artist: Nokiaa
+    title: Blending In
+    rg: {
+      gain: -6.33
+      range: 10.98
+      peak: 1.018047
+    }
+  }
+  {
+    artist: [
+      Moods
+      Philanthrope
+      Yasper
+    ]
+    title: Bucket List
+    rg: {
+      gain: -5.76
+      range: 13.26
+      peak: 1.035029
+    }
+  }
+  {
+    artist: [
+      stream_error
+      H.1
+    ]
+    title: City Lights
+    rg: {
+      gain: -3.39
+      range: 13.39
+      peak: 1.012974
+    }
+  }
+  {
+    artist: Eli Way
+    title: Daydream
+    rg: {
+      gain: -5.22
+      range: 8.06
+      peak: 1.004651
+    }
+  }
+  {
+    artist: [
+      Flitz&Suppe
+      Gas-Lab
+    ]
+    title: Slice of Life
+    rg: {
+      gain: -3.24
+      range: 10.58
+      peak: 1.012196
+    }
+  }
+  {
+    artist: Psalm Trees
+    feat: Guillaume Muschalle
+    title: Meadows
+    rg: {
+      gain: -5.74
+      range: 13.36
+      peak: 1.013359
+    }
+  }
+  {
+    artist: [
+      SAINT WKND
+      No Spirit
+    ]
+    title: Changed My Mind
+    rg: {
+      gain: -4.77
+      range: 6.30
+      peak: 1.020342
+    }
+  }
+  {
+    artist: [
+      B-Side
+      Yasper
+      Philanthrope
+    ]
+    title: Last Snow
+    rg: {
+      gain: -6.20
+      range: 14.56
+      peak: 1.042210
+    }
+  }
+  {
+    artist: [
+      Strehlow
+      Ian Ewing
+    ]
+    title: Poke Date
+    rg: {
+      gain: -6.06
+      range: 14.33
+      peak: 1.019252
+    }
+  }
+  {
+    artist: invention_
+    title: Levitating
+    rg: {
+      gain: -6.42
+      range: 9.13
+      peak: 1.012396
+    }
+  }
+  {
+    artist: Vhsceral
+    title: Alamein
+    rg: {
+      gain: -6.50
+      range: 4.13
+      peak: 0.996702
+    }
+  }
+  {
+    artist: weird inside
+    feat: [
+      Dilip
+      quickly, quickly
+    ]
+    title: Sinkerator
+    rg: {
+      gain: -4.86
+      range: 6.54
+      peak: 1.003718
+    }
+  }
+  {
+    artist: Ian Ewing
+    title: leaving
+    rg: {
+      gain: -3.97
+      range: 9.38
+      peak: 1.039163
+    }
+  }
+  {
+    artist: Flovry
+    title: Laze
+    rg: {
+      gain: -4.27
+      range: 7.25
+      peak: 1.000301
+    }
+  }
+  {
+    artist: [
+      Monma
+      cocabona
+    ]
+    title: Pyra
+    rg: {
+      gain: -4.22
+      range: 16.45
+      peak: 1.003272
+    }
+  }
+  {
+    artist: fantompower
+    title: Morning Dew
+    rg: {
+      gain: -6.74
+      range: 11.09
+      peak: 1.003640
+    }
+  }
+  {
+    artist: sleepy fish
+    title: I Wish It Would Never Stop Snowing
+    rg: {
+      gain: -4.46
+      range: 10.39
+      peak: 1.018788
+    }
+  }
+  {
+    artist: harris Cole
+    title: Birds
+    rg: {
+      gain: -3.15
+      range: 8.81
+      peak: 1.004538
+    }
+  }
+]
