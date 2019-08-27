@@ -1,0 +1,167 @@
+[
+  {
+    artist: sugi.wa
+    title: Almost Home
+    rg: {
+      gain: -4.63
+      range: 15.64
+      peak: 1.022907
+    }
+  }
+  {
+    artist: chief.
+    title: yesterday
+    rg: {
+      gain: -3.82
+      range: 12.32
+      peak: 0.999427
+    }
+  }
+  {
+    artist: sad toï
+    title: jeux d'eau
+    rg: {
+      gain: -2.26
+      range: 5.24
+      peak: 1.003990
+    }
+  }
+  {
+    artist: clap cotton
+    title: dutches
+    rg: {
+      gain: -5.58
+      range: 5.06
+      peak: 0.999953
+    }
+  }
+  {
+    artist: delayde
+    title: teleshopping
+    rg: {
+      gain: -5.24
+      range: 9.44
+      peak: 0.966331
+    }
+  }
+  {
+    artist: barnes blvd.
+    title: Perspective
+    rg: {
+      gain: -3.90
+      range: 12.14
+      peak: 1.011205
+    }
+  }
+  {
+    artist: Smoke Trees
+    title: Takondwa
+    rg: {
+      gain: -5.87
+      range: 10.65
+      peak: 0.999336
+    }
+  }
+  {
+    artist: Monma
+    title: Ooohwee
+    rg: {
+      gain: -6.15
+      range: 5.68
+      peak: 1.021762
+    }
+  }
+  {
+    artist: invention_
+    title: dxy_drmng
+    rg: {
+      gain: -4.85
+      range: 6.05
+      peak: 1.007691
+    }
+  }
+  {
+    artist: Leavv
+    title: Hello Friend
+    rg: {
+      gain: -3.85
+      range: 16.90
+      peak: 1.025720
+    }
+  }
+  {
+    artist: masked man
+    title: coupe_90
+    rg: {
+      gain: -6.03
+      range: 14.80
+      peak: 1.009331
+    }
+  }
+  {
+    artist: Omaure
+    title: Down Under
+    rg: {
+      gain: -4.86
+      range: 8.66
+      peak: 1.001854
+    }
+  }
+  {
+    artist: Flitz&Suppe
+    title: About the Distance
+    rg: {
+      gain: -5.77
+      range: 8.88
+      peak: 1.004061
+    }
+  }
+  {
+    artist: Kendall Miles
+    title: Savannah
+    rg: {
+      gain: -3.01
+      range: 8.59
+      peak: 0.727065
+    }
+  }
+  {
+    artist: less.people
+    title: you've got nothing (but time)
+    rg: {
+      gain: -2.63
+      range: 6.50
+      peak: 1.006090
+    }
+  }
+  {
+    artist: Dotlights
+    title: Life inside a nightmare rectangle
+    rg: {
+      gain: -4.42
+      range: 6.94
+      peak: 1.001869
+    }
+  }
+  {
+    artist: [
+      Arbour
+      Underbelly
+    ]
+    title: Borren
+    rg: {
+      gain: -4.54
+      range: 7.93
+      peak: 1.000120
+    }
+  }
+  {
+    artist: HM Surf
+    title: couch day
+    rg: {
+      gain: -4.41
+      range: 14.12
+      peak: 1.011887
+    }
+  }
+]

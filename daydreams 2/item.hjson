@@ -1,0 +1,245 @@
+[
+  {
+    artist: [
+      Philanthrope
+      sleepy fish
+    ]
+    title: Space Cadet
+    rg: {
+      gain: -6.59
+      range: 14.46
+      peak: 1.013099
+    }
+  }
+  {
+    artist: dryhope
+    title: Lake
+    rg: {
+      gain: -4.34
+      range: 10.48
+      peak: 1.007317
+    }
+  }
+  {
+    artist: [
+      C4C
+      Leavv
+    ]
+    title: Companion
+    rg: {
+      gain: -4.05
+      range: 10.42
+      peak: 1.023975
+    }
+  }
+  {
+    artist: G Mills
+    title: Iridescence
+    rg: {
+      gain: -5.22
+      range: 12.56
+      peak: 1.002239
+    }
+  }
+  {
+    artist: Dr. Dundiff
+    title: Seven
+    rg: {
+      gain: -6.07
+      range: 11.87
+      peak: 1.020051
+    }
+  }
+  {
+    artist: chief.
+    title: Morning Walk
+    rg: {
+      gain: -3.96
+      range: 9.63
+      peak: 1.011262
+    }
+  }
+  {
+    artist: Tom Doolie
+    title: Aeroplane
+    rg: {
+      gain: -5.68
+      range: 4.56
+      peak: 1.025517
+    }
+  }
+  {
+    artist: Flovry
+    title: Birdbath
+    rg: {
+      gain: -3.04
+      range: 8.14
+      peak: 1.001899
+    }
+  }
+  {
+    artist: Ian Ewing
+    title: Smthn Bout U
+    rg: {
+      gain: -3.04
+      range: 11.15
+      peak: 1.009004
+    }
+  }
+  {
+    artist: [
+      Pandrezz
+      Kyle McEvoy
+    ]
+    title: Half Asleep
+    rg: {
+      gain: -4.17
+      range: 14.96
+      peak: 1.001813
+    }
+  }
+  {
+    artist: [
+      j'san.
+      Epektase
+    ]
+    title: Skydive
+    rg: {
+      gain: -4.40
+      range: 15.70
+      peak: 1.002032
+    }
+  }
+  {
+    artist: Yasper
+    title: In My Cabin
+    rg: {
+      gain: -2.42
+      range: 11.61
+      peak: 1.009532
+    }
+  }
+  {
+    artist: [
+      Nokiaa
+      nofeels
+    ]
+    title: Ful Off
+    rg: {
+      gain: -5.61
+      range: 10.63
+      peak: 1.021652
+    }
+  }
+  {
+    artist: B-Side
+    title: Never Forget
+    rg: {
+      gain: -4.87
+      range: 17.43
+      peak: 1.019359
+    }
+  }
+  {
+    artist: Sofasound
+    title: Hurt Heal
+    rg: {
+      gain: -7.56
+      range: 3.66
+      peak: 1.001328
+    }
+  }
+  {
+    artist: Miscél
+    title: Remember
+    rg: {
+      gain: -3.37
+      range: 4.85
+      peak: 0.999830
+    }
+  }
+  {
+    artist: [
+      fantompower
+      barnes blvd.
+    ]
+    title: Pastel Plains
+    rg: {
+      gain: -4.57
+      range: 4.19
+      peak: 1.073530
+    }
+  }
+  {
+    artist: [
+      idealism
+      Philanthrope
+    ]
+    title: Still
+    rg: {
+      gain: -4.20
+      range: 4.71
+      peak: 1.035503
+    }
+  }
+  {
+    artist: [
+      cocabona
+      Monma
+    ]
+    title: Sleepy
+    rg: {
+      gain: -2.74
+      range: 17.99
+      peak: 1.004073
+    }
+  }
+  {
+    artist: Allem Iversom
+    title: Awake
+    rg: {
+      gain: -3.20
+      range: 9.22
+      peak: 0.977743
+    }
+  }
+  {
+    artist: sugi.wa
+    title: Changing Lanes
+    rg: {
+      gain: -3.10
+      range: 9.88
+      peak: 1.010975
+    }
+  }
+  {
+    artist: [
+      Psalm Trees
+      Guillaume Muschalle
+    ]
+    title: Lazy French Beagles
+    rg: {
+      gain: -5.67
+      range: 14.53
+      peak: 1.004556
+    }
+  }
+  {
+    artist: HM Surf
+    title: Apple Flower
+    rg: {
+      gain: -5.59
+      range: 11.53
+      peak: 1.006818
+    }
+  }
+  {
+    artist: auv
+    title: Lower East Late Summer
+    rg: {
+      gain: -2.45
+      range: 12.19
+      peak: 1.002373
+    }
+  }
+]

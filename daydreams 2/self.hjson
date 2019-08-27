@@ -1,0 +1,16 @@
+{
+  title: {
+    series: daydreams
+    volume: 2
+  }
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
+  label: Chillhop Records
+  date: 2019-08-21
+  rg: {
+    gain: -4.45
+    range: 12.58
+  }
+}
