@@ -1,0 +1,237 @@
+[
+  {
+    artist: [
+      middle school
+      Aso
+    ]
+    title: Cypress
+    rg: {
+      gain: -4.09
+      range: 8.98
+      peak: 1.006171
+    }
+  }
+  {
+    artist: Shopan
+    title: Woodnot
+    rg: {
+      gain: -5.89
+      range: 8.17
+      peak: 1.023895
+    }
+  }
+  {
+    artist: chromonicci
+    title: Memories.
+    rg: {
+      gain: -6.15
+      range: 9.02
+      peak: 1.014332
+    }
+  }
+  {
+    artist: Yasper
+    title: Move Together
+    rg: {
+      gain: -5.54
+      range: 8.46
+      peak: 1.034085
+    }
+  }
+  {
+    artist: [
+      Fenick
+      delayde
+    ]
+    title: Longwayhome
+    rg: {
+      gain: -6.24
+      range: 16.32
+      peak: 1.004072
+    }
+  }
+  {
+    artist: auv
+    title: Rockaway 5pm
+    rg: {
+      gain: -7.04
+      range: 14.88
+      peak: 1.010993
+    }
+  }
+  {
+    artist: sadtoi
+    title: Aires
+    rg: {
+      gain: -5.50
+      range: 6.85
+      peak: 1.012085
+    }
+  }
+  {
+    artist: [
+      G Mills
+      Kyle McEvoy
+    ]
+    title: Haze
+    rg: {
+      gain: -6.69
+      range: 4.95
+      peak: 1.010067
+    }
+  }
+  {
+    artist: Ruck P
+    title: Coffee Break
+    rg: {
+      gain: -7.53
+      range: 5.57
+      peak: 1.006973
+    }
+  }
+  {
+    artist: L'indécis
+    title: Simplicity
+    rg: {
+      gain: -5.73
+      range: 8.33
+      peak: 1.030556
+    }
+  }
+  {
+    artist: [
+      Epektase
+      nymano
+    ]
+    title: Wandering At Night
+    rg: {
+      gain: -5.02
+      range: 13.22
+      peak: 1.030079
+    }
+  }
+  {
+    artist: Monma
+    title: Yeah
+    rg: {
+      gain: -5.70
+      range: 2.32
+      peak: 1.012134
+    }
+  }
+  {
+    artist: Swørn
+    title: Sorry
+    rg: {
+      gain: -4.45
+      range: 11.82
+      peak: 1.001291
+    }
+  }
+  {
+    artist: Philanthrope
+    title: Beavis Pt. 1
+    rg: {
+      gain: -3.37
+      range: 9.71
+      peak: 1.029567
+    }
+  }
+  {
+    artist: weird inside
+    title: Stickers
+    rg: {
+      gain: -3.16
+      range: 4.79
+      peak: 0.936514
+    }
+  }
+  {
+    artist: Evil Needle
+    title: Hypnosis
+    rg: {
+      gain: -4.62
+      range: 9.69
+      peak: 1.007048
+    }
+  }
+  {
+    artist: [
+      Brock Berrigan
+      goosetaf
+      Kyle McEvoy
+    ]
+    title: Pale Ale
+    rg: {
+      gain: -4.82
+      range: 9.47
+      peak: 0.975986
+    }
+  }
+  {
+    artist: Toonorth
+    title: 9.23.19
+    rg: {
+      gain: -2.42
+      range: 9.72
+      peak: 1.000494
+    }
+  }
+  {
+    artist: sleepy fish
+    title: Schoolgrounds
+    rg: {
+      gain: -6.63
+      range: 6.88
+      peak: 1.007023
+    }
+  }
+  {
+    artist: Robot Orchestra
+    title: Peace of Mind
+    rg: {
+      gain: -5.62
+      range: 11.34
+      peak: 1.003852
+    }
+  }
+  {
+    artist: SAINT WKND
+    title: Bonfire
+    rg: {
+      gain: -5.18
+      range: 10.85
+      peak: 1.013414
+    }
+  }
+  {
+    artist: Strehlow
+    title: Angel Eyes
+    rg: {
+      gain: -5.39
+      range: 7.57
+      peak: 1.000524
+    }
+  }
+  {
+    artist: The Breed
+    title: Save Your Love
+    rg: {
+      gain: -2.42
+      range: 11.09
+      peak: 1.011798
+    }
+  }
+  {
+    artist: [
+      fantompower
+      ideism
+    ]
+    title: On Holly
+    rg: {
+      gain: -6.82
+      range: 5.79
+      peak: 1.009121
+    }
+  }
+]

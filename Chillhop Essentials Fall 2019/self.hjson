@@ -1,0 +1,16 @@
+{
+  title: {
+    series: Chillhop Essentials
+    season: Fall 2019
+  }
+  source: {
+    ~: Digital
+    vendor: Bandcamp
+  }
+  label: Chillhop Records
+  date: 2019-09-25
+  rg: {
+    gain: -5.70
+    range: 10.45
+  }
+}
