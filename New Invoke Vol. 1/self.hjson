@@ -7,7 +7,7 @@
   label: CYCLIK CONTROL
   date: 2018-08-10
   source: {
-    ~: Digital
+    ~: DIGITAL
     vendor: Bandcamp
   }
   jan: 4589730030045

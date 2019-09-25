@@ -6,7 +6,7 @@
   }
   version: Remastered
   source: {
-    ~: Digital
+    ~: DIGITAL
     vendor: Bandcamp
   }
   artist: GENTLE LOVE

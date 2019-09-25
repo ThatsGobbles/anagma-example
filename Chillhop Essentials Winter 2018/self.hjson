@@ -4,7 +4,7 @@
     season: Winter 2018
   }
   source: {
-    ~: Digital
+    ~: DIGITAL
     vendor: Bandcamp
   }
   label: Chillhop Records

@@ -4,7 +4,7 @@
     edition: Celeste
   }
   source: {
-    ~: Digital
+    ~: DIGITAL
     vendor: Bandcamp
   }
   artist: [

@@ -3,7 +3,7 @@
   label: Kirara Records
   catalog: KRCD-014
   source: {
-    ~: Digital
+    ~: DIGITAL
     vendor: Bandcamp
   }
   date: 2019-04-28

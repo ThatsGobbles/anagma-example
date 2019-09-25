@@ -7,7 +7,7 @@
   catalog: DVSP-0201
   label: Diverse System
   source: {
-    ~: Digital
+    ~: DIGITAL
     vendor: Bandcamp
   }
   date: 2018-08-10

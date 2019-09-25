@@ -6,7 +6,7 @@
   catalog: DVSP-0075
   label: Diverse System
   source: {
-    ~: Digital
+    ~: DIGITAL
     vendor: Bandcamp
   }
   date: 2012-04-30
