@@ -1,0 +1,16 @@
+{
+  title: {
+    series: Hip Dozer Compilation
+    volume: 1
+  }
+  label: Hip Dozer Records
+  source: {
+    ~: DIGITAL
+    vendor: Bandcamp
+  }
+  date: 2016-06-10
+  rg: {
+    gain: -8.71
+    range: 6.55
+  }
+}

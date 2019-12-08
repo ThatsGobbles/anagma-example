@@ -1,0 +1,102 @@
+[
+  {
+    artist: cmrmn
+    title: Vedette
+    rg: {
+      gain: -7.31
+      range: 2.03
+      peak: 0.977893
+    }
+  }
+  {
+    artist: Skence
+    title: Anna
+    rg: {
+      gain: -10.19
+      range: 4.02
+      peak: 0.984160
+    }
+  }
+  {
+    artist: Dézaulait
+    feat: Courtney Beavers
+    title: Just Ask
+    rg: {
+      gain: -9.01
+      range: 6.37
+      peak: 1.149544
+    }
+  }
+  {
+    artist: Ruck P
+    title: Rise Up
+    rg: {
+      gain: -8.21
+      range: 5.48
+      peak: 0.977624
+    }
+  }
+  {
+    artist: Demouche
+    title: Sweet Dávila
+    rg: {
+      gain: -6.46
+      range: 3.58
+      peak: 0.989489
+    }
+  }
+  {
+    artist: Floème
+    title: Joanna
+    rg: {
+      gain: -9.24
+      range: 11.01
+      peak: 1.049734
+    }
+  }
+  {
+    artist: GlobulDub
+    title: Fly Away
+    rg: {
+      gain: -5.69
+      range: 4.84
+      peak: 1.158997
+    }
+  }
+  {
+    artist: Lanea
+    title: Daisuki
+    rg: {
+      gain: -8.81
+      range: 8.19
+      peak: 1.002627
+    }
+  }
+  {
+    artist: Mounika.
+    title: I Feel Love
+    rg: {
+      gain: -9.92
+      range: 4.94
+      peak: 0.977429
+    }
+  }
+  {
+    artist: Maribel Tafur
+    title: Summer Dreams
+    rg: {
+      gain: -9.85
+      range: 4.90
+      peak: 0.986244
+    }
+  }
+  {
+    artist: Blutch
+    title: Undertone
+    rg: {
+      gain: -7.34
+      range: 10.60
+      peak: 0.979548
+    }
+  }
+]
