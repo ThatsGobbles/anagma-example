@@ -1,0 +1,17 @@
+{
+  title: Hometown
+  artist: [
+    nymano
+    Pandrezz
+  ]
+  label: Chillhop Records
+  source: {
+    ~: DIGITAL
+    vendor: Bandcamp
+  }
+  date: 2018-10-17
+  rg: {
+    gain: -4.81
+    range: 9.64
+  }
+}

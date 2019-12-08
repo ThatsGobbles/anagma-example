@@ -1,0 +1,83 @@
+[
+  {
+    title: Train Station
+    rg: {
+      gain: -3.96
+      range: 10.79
+      peak: 1.007122
+    }
+  }
+  {
+    title: Hometown
+    rg: {
+      gain: -6.11
+      range: 9.26
+      peak: 1.024143
+    }
+  }
+  {
+    title: Fireworks
+    rg: {
+      gain: -6.02
+      range: 8.22
+      peak: 1.006673
+    }
+  }
+  {
+    artist: [
+      Pandrezz
+      j'san.
+    ]
+    title: A Day at the Beach
+    rg: {
+      gain: -6.01
+      range: 8.74
+      peak: 1.032038
+    }
+  }
+  {
+    feat: Namuuna
+    title: This is love
+    rg: {
+      gain: -3.59
+      range: 8.39
+      peak: 1.004480
+    }
+  }
+  {
+    title: Back Home
+    rg: {
+      gain: -6.28
+      range: 4.99
+      peak: 1.034388
+    }
+  }
+  {
+    artist: [
+      nymano
+      j'san.
+    ]
+    title: Prom Night
+    rg: {
+      gain: -3.39
+      range: 5.39
+      peak: 1.005042
+    }
+  }
+  {
+    title: Evening Routine
+    rg: {
+      gain: -3.08
+      range: 11.05
+      peak: 1.004268
+    }
+  }
+  {
+    title: Gone Again
+    rg: {
+      gain: -3.64
+      range: 9.44
+      peak: 1.009063
+    }
+  }
+]
