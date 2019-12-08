@@ -1,0 +1,14 @@
+{
+  title: Garage Challenge
+  catalog: DVSP-0230
+  label: Diverse System
+  source: {
+    ~: DIGITAL
+    vendor: Bandcamp
+  }
+  date: 2019-10-27
+  rg: {
+    gain: -8.07
+    range: 8.16
+  }
+}

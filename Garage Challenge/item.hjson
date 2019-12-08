@@ -1,0 +1,132 @@
+[
+  {
+    artist: good-cool
+    title: Never Ever
+    rg: {
+      gain: -10.09
+      range: 1.94
+      peak: 1.003287
+    }
+  }
+  {
+    artist: Tom-i
+    title: Not Old Enough
+    rg: {
+      gain: -6.19
+      range: 9.66
+      peak: 1.047203
+    }
+  }
+  {
+    artist: ARForest
+    title: In This Life
+    rg: {
+      gain: -8.54
+      range: 5.98
+      peak: 1.021910
+    }
+  }
+  {
+    artist: Mysteka
+    title: Milky Wave
+    rg: {
+      gain: -8.82
+      range: 9.48
+      peak: 1.032661
+    }
+  }
+  {
+    artist: tsuzu
+    title: Cloud 9
+    rg: {
+      gain: -7.95
+      range: 6.52
+      peak: 1.019083
+    }
+  }
+  {
+    artist: Shunji Fujii
+    title: 6:30PM
+    rg: {
+      gain: -7.37
+      range: 6.58
+      peak: 1.015278
+    }
+  }
+  {
+    artist: KO3
+    title: Make Me Feel
+    rg: {
+      gain: -6.82
+      range: 4.37
+      peak: 1.005338
+    }
+  }
+  {
+    artist: Nizikawa
+    title: Love Is Challenge
+    rg: {
+      gain: -8.34
+      range: 3.32
+      peak: 1.010924
+    }
+  }
+  {
+    artist: Michael Poqochanchyn
+    title: Loose You
+    subtitle: Original Mix
+    rg: {
+      gain: -7.93
+      range: 9.30
+      peak: 1.006167
+    }
+  }
+  {
+    artist: Kenichi Chiba
+    title: reportage
+    rg: {
+      gain: -7.78
+      range: 3.81
+      peak: 1.033976
+    }
+  }
+  {
+    artist: M(a/u)SH
+    title: Between The Sheets
+    rg: {
+      gain: -7.45
+      range: 6.61
+      peak: 1.026087
+    }
+  }
+  {
+    artist: nézumi
+    title: Vibrations
+    rg: {
+      gain: -7.71
+      range: 8.76
+      peak: 1.007025
+    }
+  }
+  {
+    artist: [
+      MK
+      Kanae Asaba
+    ]
+    title: We Need A Break
+    rg: {
+      gain: -9.92
+      range: 7.88
+      peak: 1.030012
+    }
+  }
+  {
+    artist: Snowmaker
+    title: To The Invisible Sea
+    rg: {
+      gain: -7.09
+      range: 13.72
+      peak: 1.009280
+    }
+  }
+]
