@@ -1,0 +1,254 @@
+[
+  {
+    artist: No Spirit
+    title: Leaves covered by snow
+    rg: {
+      gain: -3.60
+      range: 10.51
+      peak: 1.003820
+    }
+  }
+  {
+    artist: [
+      Ian Ewing
+      Toonorth
+    ]
+    title: Midnight Service
+    rg: {
+      gain: -3.78
+      range: 8.31
+      peak: 1.007625
+    }
+  }
+  {
+    artist: [
+      Hazy Year
+      C4C
+    ]
+    title: Melted
+    rg: {
+      gain: -2.80
+      range: 8.74
+      peak: 1.001019
+    }
+  }
+  {
+    artist: [
+      Ian Ewing
+      chromonicci
+      Philanthrope
+    ]
+    title: Zen
+    rg: {
+      gain: -2.74
+      range: 13.40
+      peak: 1.006656
+    }
+  }
+  {
+    artist: [
+      Brock Berrigan
+      saib.
+    ]
+    title: Drifter
+    rg: {
+      gain: -2.30
+      range: 9.76
+      peak: 1.005299
+    }
+  }
+  {
+    artist: Allem Iversom
+    title: me and my tiger
+    rg: {
+      gain: -7.13
+      range: 6.56
+      peak: 1.000058
+    }
+  }
+  {
+    artist: [
+      plusma
+      Von Wegen
+    ]
+    title: sopha
+    rg: {
+      gain: -2.28
+      range: 6.09
+      peak: 1.034203
+    }
+  }
+  {
+    artist: C Y G N
+    title: Bain D'été
+    rg: {
+      gain: -3.90
+      range: 6.57
+      peak: 1.028583
+    }
+  }
+  {
+    artist: Aves
+    title: pretty af
+    rg: {
+      gain: -3.86
+      range: 3.48
+      peak: 1.027411
+    }
+  }
+  {
+    artist: [
+      middle school
+      Aso
+    ]
+    title: warm for the winter
+    rg: {
+      gain: -3.31
+      range: 8.92
+      peak: 1.001412
+    }
+  }
+  {
+    artist: [
+      j'san.
+      Kyle McEvoy
+    ]
+    title: ramona
+    rg: {
+      gain: -4.99
+      range: 19.79
+      peak: 0.999812
+    }
+  }
+  {
+    artist: sleepy fish
+    title: no more fires
+    rg: {
+      gain: -5.82
+      range: 8.03
+      peak: 1.001450
+    }
+  }
+  {
+    artist: dryhope
+    title: Finding You
+    rg: {
+      gain: -2.85
+      range: 7.57
+      peak: 1.000506
+    }
+  }
+  {
+    artist: COMODO
+    title: mozambique
+    rg: {
+      gain: -3.58
+      range: 11.58
+      peak: 1.000151
+    }
+  }
+  {
+    artist: knowmadic
+    title: digital dreams
+    rg: {
+      gain: -5.52
+      range: 16.63
+      peak: 0.994897
+    }
+  }
+  {
+    artist: [
+      Philanthrope
+      Moods
+      The Field Tapes
+    ]
+    title: New Day
+    rg: {
+      gain: -2.38
+      range: 8.41
+      peak: 1.014017
+    }
+  }
+  {
+    artist: [
+      Chris Mazuera
+      Blue Wednesday
+    ]
+    title: Timezones
+    rg: {
+      gain: -3.78
+      range: 10.83
+      peak: 1.006497
+    }
+  }
+  {
+    artist: [
+      G Mills
+      arbour
+    ]
+    title: Blur
+    rg: {
+      gain: -2.58
+      range: 11.49
+      peak: 1.009368
+    }
+  }
+  {
+    artist: Melodiesinfonie
+    title: feelinglow
+    rg: {
+      gain: -0.36
+      range: 9.93
+      peak: 1.025037
+    }
+  }
+  {
+    artist: Aso
+    title: by & by
+    rg: {
+      gain: -1.15
+      range: 11.61
+      peak: 1.006279
+    }
+  }
+  {
+    artist: less.people
+    title: pumpkins
+    rg: {
+      gain: -4.69
+      range: 3.11
+      peak: 0.999401
+    }
+  }
+  {
+    artist: J.Views
+    title: June
+    remix: {
+      title: auv Remix
+      artist: auv
+    }
+    rg: {
+      gain: -2.18
+      range: 10.23
+      peak: 0.714939
+    }
+  }
+  {
+    artist: Montell Fish
+    title: jam session
+    rg: {
+      gain: -1.92
+      range: 10.83
+      peak: 1.001104
+    }
+  }
+  {
+    artist: SwuM
+    title: if i leave
+    rg: {
+      gain: -1.00
+      range: 8.08
+      peak: 0.910169
+    }
+  }
+]

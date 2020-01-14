@@ -1,0 +1,16 @@
+{
+  title: {
+    series: Chillhop Essentials
+    season: Winter 2019
+  }
+  source: {
+    ~: DIGITAL
+    vendor: Bandcamp
+  }
+  label: Chillhop Records
+  date: 2019-12-11
+  rg: {
+    gain: -3.43
+    range: 11.86
+  }
+}
