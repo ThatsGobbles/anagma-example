@@ -1,0 +1,17 @@
+{
+  title: Dreams From The Shore
+  artist: [
+    Psalm Trees
+    Moose Dawa
+  ]
+  source: {
+    ~: DIGITAL
+    vendor: Bandcamp
+  }
+  label: Radio Juicy
+  date: 2019-06-10
+  rg: {
+    gain: -5.50
+    range: 9.41
+  }
+}

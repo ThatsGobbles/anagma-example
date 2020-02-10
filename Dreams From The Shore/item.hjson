@@ -1,0 +1,164 @@
+[
+  {
+    title: Igw 2 Cph
+    rg: {
+      gain: -1.84
+      range: 15.88
+      peak: 0.850245
+    }
+  }
+  {
+    feat: Andras Szilagyi
+    title: No Lies
+    rg: {
+      gain: -6.50
+      range: 7.29
+      peak: 1.011664
+    }
+  }
+  {
+    title: Blauw
+    rg: {
+      gain: -5.69
+      range: 6.03
+      peak: 1.008656
+    }
+  }
+  {
+    title: Chill
+    rg: {
+      gain: -6.13
+      range: 11.39
+      peak: 1.014786
+    }
+  }
+  {
+    title: Should I Go...
+    rg: {
+      gain: -7.55
+      range: 7.31
+      peak: 1.018740
+    }
+  }
+  {
+    title: Callin.
+    rg: {
+      gain: -7.25
+      range: 7.10
+      peak: 1.022690
+    }
+  }
+  {
+    title: Tenderly
+    rg: {
+      gain: -6.08
+      range: 4.99
+      peak: 1.007855
+    }
+  }
+  {
+    title: Drupe
+    rg: {
+      gain: -4.23
+      range: 4.78
+      peak: 1.019467
+    }
+  }
+  {
+    feat: Max Wheeler
+    title: Lovinyou
+    rg: {
+      gain: -6.51
+      range: 8.00
+      peak: 1.024239
+    }
+  }
+  {
+    title: She Left While I Slept
+    rg: {
+      gain: -3.83
+      range: 15.11
+      peak: 1.014635
+    }
+  }
+  {
+    title: Cph 2 Ams
+    rg: {
+      gain: 0.57
+      range: 15.83
+      peak: 0.718071
+    }
+  }
+  {
+    title: Someone
+    rg: {
+      gain: -5.55
+      range: 14.67
+      peak: 1.012875
+    }
+  }
+  {
+    title: Release
+    rg: {
+      gain: -5.27
+      range: 8.63
+      peak: 1.007512
+    }
+  }
+  {
+    title: Softa
+    rg: {
+      gain: -6.42
+      range: 6.55
+      peak: 1.003041
+    }
+  }
+  {
+    title: I Know U Can
+    rg: {
+      gain: -6.01
+      range: 7.37
+      peak: 1.067993
+    }
+  }
+  {
+    title: As I Dream on the Shore
+    rg: {
+      gain: -2.87
+      range: 9.17
+      peak: 1.004921
+    }
+  }
+  {
+    title: Play This When She Breaks Up With You
+    rg: {
+      gain: -5.54
+      range: 2.62
+      peak: 1.002586
+    }
+  }
+  {
+    title: Lonely
+    rg: {
+      gain: -3.81
+      range: 12.00
+      peak: 1.012118
+    }
+  }
+  {
+    title: Changethis.
+    rg: {
+      gain: -5.00
+      range: 3.96
+      peak: 1.007628
+    }
+  }
+  {
+    title: Everynight
+    rg: {
+      gain: -3.19
+      range: 4.10
+      peak: 1.043681
+    }
+  }
+]
